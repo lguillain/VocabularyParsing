@@ -1,0 +1,204 @@
+,0,1
+0,방,a room
+1,위치,location / position
+2,하숙집,boarding house
+3,이사하다,to move house
+4,가깝다,to be close
+5,멀다,"to be far, distant"
+6,크다,"to be tall, to be big"
+7,작다,to be small
+8,따뜻하다,to be warm
+9,춥다,to be cold
+10,조용하다,to be quiet
+11,시끄럽다,"to be noisy, loud"
+0,공중전화,"a payphone, a public phone"
+1,길,"a street, a road"
+2,동전,a coin
+3,늦다,to be late
+4,보통,"usually, normally"
+5,가지고 오다,to bring
+6,길이 막히다,to be blocked (by traffic)
+7,차가 많다,There are a lot of cars (on the road).
+0,경치,"scenery, a view, landscape,"
+1,날씨,the weather
+2,바다,the sea
+3,박물관,a museum
+4,휴가,"holidays, vacation"
+5,낚시하다,to fish
+6,드라이브하다,to drive
+7,스쿠버다이빙을 하다,to scuba dive
+8,깨끗하다,"to be clean, hygienic"
+9,아름답다,"to be beautiful, gorgeous"
+10,출장을 가다,to go on a business trip
+0,관광하다,to go sightseeing (관...)
+1,드라이브하다,to drive
+2,등산하다,to hike
+3,산책하다,"to take a walk, stroll"
+4,게임을 하다,to play a game
+5,사진을 찍다,"to take a picture, photo"
+6,소풍을 가다,to go on a picnic
+7,술 한잔하다,to have a drink (alcohol)
+8,스키를 타다,to ski
+9,영화를 보다,to watch a movie
+10,저녁을 먹다,to eat dinner
+11,동생,a younger sibling
+12,시험,"a test, an exam"
+13,도와주다,"to help, aid, assist"
+14,준비하다,to prepare
+15,아르바이트하다,to work a part-time job
+0,굽다,"to broil, roast or bake, burn"
+1,넣다,to put in
+2,섞다,"to mix, blend"
+3,달다,to be sweet
+4,맵다,to be spicy
+5,시다,to be sour
+6,쓰다,to be bitter
+7,기름이 많다,to be oily
+8,숙제,"homework, an assignment"
+9,위치,location / position
+10,구경을 하다,to go sightseeing
+11,이따가,"a little later, in a short time"
+12,이메일을 쓰다,to write an email
+0,농구하다,to play basketball
+1,수영하다,to swim
+2,야구하다,to play baseball
+3,축구하다,to play soccer
+4,태권도를 하다,to do Taekwondo
+5,골프를 치다,to play golf
+6,탁구를 치다,to play ping-pong
+7,테니스를 치다,to play tennis
+8,스케이트를 타다,to skate
+9,스키를 타다,to ski
+10,가요,pop song
+11,외국,a foreign country
+12,노래하다,to sing
+13,안내하다,to guide
+14,배우러 다니다,to attend (in order to learn)
+15,일이 많다,to have a lot of work
+0,비싸다,to be expensive
+1,싸다,to be cheap
+2,빠르다,to be fast
+3,느리다,to be slow
+4,어렵다,to be difficult
+5,쉽다,to be easy
+6,작다,to be small
+7,크다,"to be tall, to be big"
+8,재미있다,"to be fun, to be interesting"
+9,재미없다,"to not be not fun, to be uninteresting"
+10,좋다,to be good
+11,나쁘다,to be bad
+0,경기,"a competitive match, competition"
+1,아저씨,a term used to address an older man
+2,축구,soccer
+3,팀,a team
+4,고치다,"to repair, to fix"
+5,돌아오다,"to return, come back"
+6,이기다,to win
+7,일찍,early
+8,고장이 나다,to break (malfunction)
+9,기분이 좋다,"to feel good, to be in a good mood"
+10,죄송합니다,I'm sorry
+0,계획,"a plan, a project, a scheme"
+1,남쪽,south
+2,섬,an island
+3,인터넷,the Internet
+4,찾아보다,"to look for, search"
+5,유명하다,"to be famous, to be well-known for"
+6,특별하다,"to be special, extraordinary"
+7,비행기 표,airplane ticket
+8,아직,"still, so far, yet"
+9,특히,"especially, particularly"
+0,가깝다,to be close
+1,멀다,"to be far, distant"
+2,길다,to be long
+3,짧다,to be short (in length)
+4,높다,"to be high, tall"
+5,낮다,low
+6,덥다,to be hot (used for weather)
+7,춥다,to be cold
+8,많다,"To be many, much"
+9,적다,to be few
+10,맛있다,"to be tasty, to be delicious"
+11,맛없다,"to be tasteless, to not be delicious"
+0,피곤하다,"to be tired, to be exhausted"
+1,약속,"an appointment, a promise"
+2,번역,written translation
+3,서류,"documents, papers"
+4,표,a ticket
+5,끝내다,"to finish, to end"
+6,쉬다,to rest
+7,필요하다,"to need, be necessary"
+8,다이어트를 하다,to diet
+9,살이 찌다,to become fat
+10,돈,money
+0,죄송합니다,I'm sorry
+1,고등학교,high school
+2,자기소개서,self-introduction letter
+3,전공,"one's major, speciality"
+4,편지,letter
+5,프로그램,program
+6,운전하다,to drive
+7,무역 회사,trading company
+8,물론,"of course, needless to say"
+9,방학,school vacation
+10,테니스장,tennis court
+11,퇴근,"leaving work, getting off work"
+12,소개하다,to introduce
+13,시작하다,"to start, to begin"
+14,친절하다,"To be friendly, easy to approach"
+15,일찍,early
+16,그럼요,"of course, naturally"
+0,갈비,grilled beef ribs
+1,김치찌개,kimchi stew
+2,불고기,bulgogi (thinly sliced seasoned beef or pork)
+3,비빔밥,bibimbap
+4,삼겹살,pork belly
+5,잡채,"a mixed dish of noodles, vegetables and meat"
+6,간장,soy sauce
+7,설탕,sugar
+8,참기름,sesame oil
+9,파,green onion
+10,마늘,garlic
+0,꽃,a flower
+1,나무,a tree
+2,봄,spring
+3,선물,"a present, a gift"
+4,우리,we
+5,팀,a team
+6,이기다,to win
+7,대답하다,"to answer, reply"
+8,받다,"to receive, to accept"
+9,낣다,wide
+10,그 다음에,and then (after that)
+11,다 같이,all together
+12,둘이서만,only the two of (us)
+13,맛있게,deliciously
+0,광고,advertisement
+1,발음,pronunciation
+2,다르다,to be different
+3,걸어서,on foot
+4,바로 앞,directly in front of
+5,언제든지,whenever
+6,인터넷을 하다,to use the Internet
+7,그럼요,"of course, naturally"
+8,문화,culture
+9,반,class
+10,체육관,gym
+11,학기,"semester, academic term"
+12,이제,now
+13,자주,"often, frequently"
+14,마음에 들다,"to find likeable, be enjoyable"
+15,소개하다,to introduce
+16,지각을 하다,to be late for something
+0,가격,price
+1,공항,an airport
+2,기다리다,"to wait for, to await, to expect, to look forward"
+3,도착하다,to arrive
+4,사다 주다,to buy and give
+5,출발하다,to depart
+6,두꺼운 옷,thick/warm clothes
+7,아이들,children
+8,한국 시간,Korean time
+9,그때 봐요,See you then.
+10,정말요,Really?
+11,참,Ah! (similar to 'wait' or 'hey' when remembering something)

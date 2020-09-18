@@ -1,0 +1,335 @@
+,0,1
+0,가상,imagination
+1,가입,registration
+2,가치,value
+3,각오,resolution
+4,간섭,interference
+5,갈등,conflict
+6,감소,decline
+7,개방,opening
+8,격려,encouragement
+9,경고,warning
+10,경향,tendency
+11,고정관념,stereotype
+12,골치,brain
+13,교양,refinement
+14,구조,rescue
+15,구조,structure
+16,권력,authority
+17,권리,a right
+18,규제,restriction
+19,극복,recovery
+20,근거,"basis, base"
+21,기념,commemoration
+22,기부,donation
+23,기증,donation
+24,난리,"war, uproar, fuss"
+25,납득,acceptance
+26,노릇,"role, duty"
+27,노릇,circumstances
+28,님비현상,NIMBY (not in my backyard) syndrome
+29,단골,"regular hangout, a regular"
+30,대비,preparation
+31,대중화,popularization
+32,대책,countermeasure
+33,덜미,"scruff, back of body"
+34,등장,appearance (ex. in a show)
+35,마련,arrangement
+36,마찰,"rub, friction"
+37,매너,manners
+38,매장,store
+39,매장,"burial, social ostracism, underground"
+40,모집,recruitment
+41,무작정,being thoughtless
+42,바이러스,"virus, computer virus"
+43,바자회,bazaar
+44,반응,response
+0,재테크,financial technology
+1,재활용,recycle
+2,쟁점,issue
+3,적성,aptitude
+4,전략,"strategy, tactic"
+5,전망,"view, forecast"
+6,제약,restriction
+7,좌절,frustration
+8,중독,"poisoning, addiction"
+9,지름길,shortcut
+10,지원,support
+11,지원,application
+12,지지,support
+13,짐작,assumption
+14,찌꺼기,"sediment, remainder"
+15,차원,level
+16,체험,experience
+17,추세,trend
+18,측면,side
+19,칼럼,column
+20,캠페인,campaign
+21,클럽,club
+22,탓,"fault, blame"
+23,투기,speculation
+24,투자,investment
+25,틀,"mold, frame, formality"
+26,틈,"crack, spare time, gap, chance, among the crowd"
+27,티,"speck, flaw"
+28,티,look
+29,파견,dispatch
+30,파괴,"demolition, destruction"
+31,편견,bias
+32,폐쇄,"closing, closure"
+33,피해,damage
+34,핑계,excuse
+35,허용,"permission, allowance"
+36,현상,phenomenon
+37,현상,present situation
+38,협력,collaboration
+39,혜택,benefit
+40,화해,reconciliation
+41,활기,vigor
+42,회의,skepticism
+43,훼손,damage
+44,흉내,imitation
+45,흔적,trace
+46,희생,sacrifice
+0,배려,consideration
+1,배출,discharge
+2,배출,production
+3,보급,dissemination
+4,보람,reward
+5,보상,compensation
+6,북제,reproduction
+7,분리,separation
+8,분석,analysis
+9,비난,criticism
+10,빈곤,"poverty, lack"
+11,사교육,private education
+12,사례,precedent
+13,사례,reward
+14,사이트,site
+15,상황,situation
+16,생계,living
+17,생명력,"life force, vital force"
+18,선입견,prejudice
+19,선정,selection
+20,설립,establishment
+21,성향,tendency
+22,소신,principle
+23,수명,"life expectancy, lifespan"
+24,시도,attempt
+25,시련,ordeal
+26,시설,facilities
+27,안목,discerning eye
+28,안정,stability
+29,안정,tranquility
+30,앨범,"photo album, CD"
+31,엉망,wreck
+32,여건,conditions
+33,열의,enthusiasm
+34,예외,exception
+35,오염,pollution
+36,온라인,online
+37,요구,demand
+38,운명,destiny
+39,운명,death
+40,위기,crisis
+41,위협,threat
+42,유전,heredity
+43,장르,genre
+44,재충전,recharge
+0,가라앉다,to sink
+1,가르다,"to divide, to cut with a blade, to split"
+2,가리다,to cover
+3,가리다,"to differentiate, to be picky, to be shy, to be potty-trained"
+4,감다,"to wind, to wrap"
+5,감수하다,to endure
+6,강구하다,to seek out
+7,갚다,"to repay, to pay back"
+8,개다,to fold
+9,개다,to mix
+10,개의하다,to be bothered
+11,거두다,"to harvest, to gather, to gain, to handle, to raise, to obtain"
+12,거들다,"to assist, to interfere"
+13,거르다,to skip
+14,거르다,to filter/sift
+15,거스르다,"to go against, to defy, to offend"
+16,거스르다,to give change
+17,거치다,"to pass, to go through"
+18,걷다,"to roll, to gather, to collect, to cease"
+19,걸리다,"to activate, to receive a call, to hang, to hang in the air, to rely on, to be included, to violate/breach, to be trapped, to be dissatisfied, to become ill"
+20,겪다,"to suffer, to meet with"
+21,기울이다,"to lean, to devote to"
+22,기인하다,to result from
+23,기피하다,"to avoid, to shirk one's responsibilities"
+24,기하다,"to aim for, to arrange a date"
+25,꺼리다,"to avoid, to be reluctant"
+26,꼬이다,"to be twisted, to get complicated, to be irritated"
+27,꼬이다,to manipulate
+28,꼬이다,to infest
+29,꾸다,to borrow
+30,꾸리다,"to pack, to manage"
+31,꿰다,"to string through, to skewer, to be well-informed"
+32,끊기다,"to be cut off, to be disconnected, conversation is cut off, call is disconnected, traffic is stopped, flow of people has stopped"
+0,살피다,"to look carefully, to analyze"
+1,삼가다,"to be careful, to refrain from"
+2,새기다,"to carve, to keep in mind"
+3,섭렵하다,"to be well-versed, to be well-read"
+4,소요되다,to require
+5,속단하다,to judge hastily
+6,솟다,"to soar, to rise, to gush, to surge out"
+7,수습하다,to patch up
+8,시달리다,to suffer
+9,쏠리다,"to lean, to focus"
+10,씨름하다,"to wrestle (Korean folk wrestling), to wrestle with"
+11,애쓰다,to make an effort
+12,얽매이다,"to be tied down, to be shackled"
+13,엇갈리다,"to miss, to crisscross, to have a disagreement"
+14,엿보다,"to peek, to get a sense of, to wait for"
+15,왜곡하다,to distort
+16,유치하다,to lure
+17,잠기다,"to be locked, to be closed, to fasten"
+18,잠기다,"to be flooded, to be submerged in, to be lost in, to be hoarse"
+19,저미다,"to slice, to make ache"
+20,주저앉다,"to drop down, to settle down, to collapse, to quit"
+21,주저하다,to hesitate
+22,주춤하다,to falter
+23,지나치다,"to pass, to overlook"
+24,지다,"to set, to wither, to be washed out"
+25,지다,"to carry, to owe, to bear responsibility, to be in debt to"
+26,짚다,"to place a hand on, to examine, to point out, to guess"
+27,차지하다,"to be in possession of, to occupy, to take up"
+28,참견하다,to interfere
+29,챙기다,"to pack, to do, to take, to take care of"
+30,처하다,"to face, to punish"
+31,추구하다,to seek
+32,치르다,"to go through, to suffer, to host"
+33,치르다,"to pay for, to repay"
+34,타고나다,to be born with
+35,펼치다,"to spread, to show, to realize"
+36,품다,"to carry, to conceal, to harbor"
+37,헤아리다,"to count, to consider"
+0,각별하다,"to be particular, to be friendly"
+1,거창하다,to be enormous
+2,거칠다,"to be rough, to be slovenly, to be hostile, to be coarse, to be vulgar"
+3,건전하다,to be wholesome
+4,격렬하다,to be violent
+5,경이롭다,to be marvelous
+6,고소하다,to be pleasing
+7,곤란하다,to be arduous
+8,과감하다,to be daring
+9,굉장하다,"to be great, to be amazing"
+10,교만하다,to be proud
+11,굳다,"to be steadfast, to be tense"
+12,귀하다,"to be honorable, to be exalted, to be precious, to be rare"
+13,그윽하다,"to be secluded, to be deep, to be subtle"
+14,급급하다,to be engrossed
+15,급작스럽다,to be abrupt
+16,기막히다,"to be dumbfounded, to be stunning"
+17,꺼림칙하다,to feel uneasy
+18,끈질기다,"to be tenacious, to be persevering"
+19,끊임없다,to be continuous
+20,날카롭다,"to be sharp, to be perceptive, to be sensitive, to be acute"
+21,넉넉하다,"to be sufficient, to be well-off"
+22,느긋하다,to be relaxed
+23,능통하다,to be proficient
+24,단단하다,"to be solid, to be firm, to be tight"
+25,독특하다,to be peculiar
+26,독하다,"to be poisonous, to be strong, to be malicious, to be vicious"
+27,드물다,"to be rare, to be uncommon"
+28,든든하다,"to be plentiful, to be reliable"
+29,떡떡하다,"to be hard, to be stiff, to be rigid"
+30,떠들썩하다,"to be noisy, to be chaotic, to be sensational"
+31,뚜렷하다,to be distinct
+32,마땅하다,"to be suitable, to be justifiable, to be satisfactory"
+33,만만하다,to be tractable
+34,메마르다,"to be arid, to be shriveled, to be barren"
+35,무분별하다,to be thoughtless
+36,미세하다,to be microscopic
+37,믿음직하다,to be trustworthy
+38,밀접하다,to be intimate
+39,배타적이다,to be exclusive
+40,부담스럽다,to be burdened
+41,분주하다,to be busy
+42,불과하다,to be mere
+43,불리하다,to be unfavorable
+0,불합리하다,to be irrational
+1,빈틈없다,"to be tight, to be astute"
+2,빠듯하다,"to be tight, to be barely enough"
+3,빡빡하다,"to be dry and hard, to be tight, to be rigid"
+4,뿌듯하다,to be satisfied
+5,색다르다,to be unsual
+6,선명하다,to be clear
+7,성숙하다,to be mature
+8,소박하다,to be simple
+9,소중하다,to be important
+10,소상하다,to be bothered
+11,수월하다,to be easy
+12,순진하다,"to be innocent, to be naive"
+13,순하다,"to be gentle, to be light"
+14,시끌벅적하다,to be boisterous
+15,신중하다,to be cautious
+16,썰렁하다,"to be chilly, to be lonely, to be awkward"
+17,쓸데없다,to be useless
+18,쓸쓸하다,"to be lonely, to be dreary"
+19,씁쓸하다,to be bitter
+20,아깝다,"to feel regretful, to be regretful"
+21,아쉽다,"to feel the lack of, to feel sad"
+22,아슬아슬하다,to be a close call
+23,안쓰럽다,to be pitiable
+24,안타깝다,to feel regrettable
+25,알차다,to be rich in content
+26,애매하다,to be ambigous
+27,얄밉다,to be odious
+28,어리둥절하다,to be bewildered
+29,어리석다,to be foolish
+30,어마어마하다,to be enormous
+31,어설프다,"to be clumsy, to be half asleep"
+32,어수룩하다,to be naive
+33,어지럽다,"to be dizzy, to be chaotic, to be disorganized"
+34,어굴하다,to feel wronged
+35,엄격하다,to be strict
+36,엄숙하다,"to be serious, to be solemn"
+37,엄청나다,to be tremendous
+38,역동적이다,to be dynamic
+39,엷다,"to be pale, to be light, to be faint"
+40,올바르다,to be proper
+41,우습다,"to be humorous, to be ludicrous, to be laughable"
+42,우아하다,to be elegant
+43,원만하다,"to be easygoing, to be smooth, to be amicable"
+0,날리다,to make fly/float
+1,날리다,"to make fly, to disperse into the air, to make yourself known, to flit around, to lose money"
+2,넘나들다,to cross freely
+3,넘보다,"to peek, to covet, to underestimate"
+4,누리다,to enjoy/be blessed with
+5,누비다,"to quilt, to cross back and forth"
+6,다듬다,"to trim, to trim off, to smooth out, to warm up"
+7,다지다,"to make firm, to strengthen yourself, to solidify, to finely chop"
+8,다짐하다,"to commit oneself to something, to make sure"
+9,달다,"to hang, to install, to add to, to record"
+10,달다,to weigh
+11,대다,"to apply, to supply, to park or anchor, to compare, to indicate, to be on time for"
+12,더듬다,"to fumble around, to search for, to recollect, to stutter"
+13,돌리다,"to turn, to operate, to alter, to pass around, to be indirect, to divert, to shift blame"
+14,뒤지다,"to rummage, to search through"
+15,뒤지다,"to fall behind, to lag, to be behind"
+16,드러나다,"to emerge, to be revealed"
+17,때우다,"to patch up, to make shift, to pass time, to make due"
+18,뚫다,"to pierce, to overcome"
+19,뜨다,"to float, to get loose, to be excited"
+20,뜨다,"to scoop up, to spoon, to slice, to cut"
+21,뜨다,"to leave, to die/depart"
+22,마다하다,to refuse
+23,말리다,to dissuade
+24,말리다,"to be rolled, to become involved"
+25,반기다,to greet
+26,반하다,"to go against, to rebel against"
+27,배다,"to permeate, to become a habit, to become accustomed to"
+28,배다,"to conceive, to become pregnant, to become compact"
+29,버티다,"to endure, to stand up to, to remain firm"
+30,부딪치다,"to collide, to be confronted, to face, to take on"
+31,부리다,"to use, to show"
+32,부리다,to control
+33,부추기다,"to put a person up to, to instigate"
+34,부치다,to fry
+35,부치다,to lack
+36,부치다,to fan
+37,비추다,"to illuminate, to shine on, to compare to"

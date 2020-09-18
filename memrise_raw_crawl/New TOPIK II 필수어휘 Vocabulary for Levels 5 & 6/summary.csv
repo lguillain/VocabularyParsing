@@ -1,0 +1,908 @@
+,0,1
+0,견해,"opinion, view"
+1,결과물,"product, output, result"
+2,결식,malnourishment
+3,결실을 맺다/보다,come to fruition
+4,결심,determination
+5,결점,flaw
+6,결정,decision
+7,결제,payment
+8,결핍,"lack, deficiency, absence of sth"
+9,결항,cancellation
+10,경력자,a person with experience
+11,경련,"convulsion, spasm, twitch"
+12,경로,"course, route, path"
+13,경력,"career, work experience"
+14,경매,auction
+15,경보,alarm
+16,경비실,security office
+17,경사,"hill, incline; hurdle"
+18,경영,"management, administration"
+19,경영난,financial difficulties (of a company)
+20,경영자,"manager, executive"
+21,경영진,"board of directors, management"
+22,경우,"case, circumstances"
+23,경이,"a wonder, marvel"
+24,경쟁,competition
+25,경쟁률,competition rate
+26,경쟁심,competitive spirit
+27,경쟁자,competitor
+28,경제,economy
+29,경제력,"financial means, economic power"
+30,경품,giveaway
+31,경향,"tendency, trend"
+32,계곡,valley
+33,계발,"development, invention"
+34,계약서,contract
+35,계층,class (i.e. working class)
+36,계획서,plan
+37,고개,neck and head
+38,고객,customer
+39,고견,"another person's opinion, view"
+40,고급,high quality; high pay
+41,고난,hardship (not ...생)
+42,고대인,"ancient people, civilization"
+43,고령,old age
+44,고민,"worry, anxiety"
+45,고부가가치,high value
+46,고생,hardship (not 고난)
+47,고소,"accusation, charge"
+48,고속,high speed
+49,고시,official anouncement; exam (usually related to the state)
+50,고심해서,painstakingly
+51,고위,high rank
+52,고유의,"indigenous, inherent"
+53,고충,"dilemma, predicament, problem"
+54,고통,"pain, agony, torment, torture"
+55,곡,"song, a piece of music"
+56,곡선,curve
+57,곤경,"difficult situation, predicament, fix, jam"
+58,곤궁,"poverty, want (not 가난)"
+59,곤충,insect
+60,골머리,"headache, bother"
+61,고혈압,hypertension (high blood pressure)
+62,골절,fracture
+63,골칫거리,"a trouble, terror, nuisance, headache"
+64,곳곳,"everywhere, high and low, here and there"
+65,공감,sympathy
+66,공격,"attack, offense"
+67,공격적,aggressive
+68,공고문,notice
+69,공공의,public
+70,공기업,public enterprise
+71,공동,"joint, communal"
+72,공략하다,"to target, attack"
+73,공로,"service, contribution, good deed"
+74,공모,contest
+75,공모전,art contest
+76,공무원,civil servant
+77,공법,construction method; public law
+78,공약,"pledge, promise, commitment"
+79,공연장,"theater, auditorium, concert hall"
+80,공유,sharing
+81,공익,"common good, public interest"
+82,공인,public figure
+83,공지,official announcement
+84,공청회,public hearing
+85,공통,common
+86,공포심,"fear, horror"
+87,공표,"official announcement, proclamation (through speech, not writing)"
+88,공학,engineering
+89,공휴일,national holiday
+90,과대,exaggeration
+91,과속,"speeding, driving too fast"
+92,관객,audience
+93,관계자,the persons/parties concerned
+94,관광객,tourist
+95,관념,"idea, sense, concept, notion, impression"
+96,관람객,spectator
+97,관련,"relation, connection, association"
+98,관리자,supervisor
+99,관찰,observation
+0,수선을 떨다; 수선 피우다,make a fuss about sth
+1,수수께끼,a riddle
+2,수술,surgery
+3,수신자,recipient
+4,수용,"accept, embrace; seating"
+5,수입,import; income
+6,수준,"level, grade"
+7,수출,export
+8,수출입,import and export
+9,수치심,shame
+10,수확,harvest
+11,수확량,crop yield
+12,숙박,"accommodation, lodging"
+13,순간,a moment
+14,순환,circulation
+15,숨,breath
+16,숲,forest
+17,스마트폰,smartphone
+18,습도,humidity
+19,습성,"habit, behavior"
+20,승객,passenger
+21,승용차,"car, vehicle"
+22,승패,outcome
+23,시각,"visual; point of view, perspective; time"
+24,시기,"time, period"
+25,시댁,one's husbands's home
+26,시력,vision
+27,시범,trial
+28,시상식,award ceremony
+29,시선,"gaze, one's eyes"
+30,시절,one's youth; boyhood
+31,시초,beginning
+32,시행,"execution, operation"
+33,식물,plant
+34,식품,food
+35,신경,nerves
+36,신경질,nervous temperment
+37,신고,report
+38,신뢰도,"reliability, confidence"
+39,신분증,i.d. card
+40,신인,"new face, new man"
+41,신입,newcomer
+42,신장,kidney; an increase
+43,신제품,new product
+44,신종,new type of
+45,신체,body; physical ~
+46,신흥국,developing country
+47,실내,indoor
+48,실력,"capability, proficiency"
+49,실마리,clue
+50,실명,one's real name
+51,실물,the real appearance of sth
+52,실속,substance
+53,실시,"enforcement, operation"
+54,실업,unemployment
+55,실외,outdoor
+56,실용성,practicality
+57,실제,actual
+58,실질적,"essential, actual"
+59,실천,"(put sth into) practice, action"
+60,실태,"true condition, actual situation"
+61,실패,failure
+62,실험,experiment
+63,실험실,laboratory
+64,실효,effectiveness
+65,심리,psychological; mentality
+66,심문,interrogation
+67,심사,evaluation
+68,심장,heart
+69,쓸모,useful
+70,아동,children
+71,아름다움,beauty
+72,악용,"misuse, improper use"
+73,악취,stench
+74,안건,agenda
+75,안도,relief
+76,안락사,euthanasia
+77,안면,face
+78,안정,stability
+79,안정감,sense of security
+80,암기,memorization
+81,압력,pressure
+82,애,child; anxiety
+83,애벌레,larva
+84,액체,liquid
+85,야권,opposition
+86,야근,night shift
+87,야생,wild
+88,야외,outdoor
+89,야유회,picnic
+90,약점,weakness
+91,약정,agreement
+92,약확,be weakened
+93,양국,two countries
+94,양극화,polarization
+95,양면,"two sides, both sides"
+96,양보,give way to
+97,양성,training
+98,양심,conscience
+99,양육,nurture
+100,애가 탄다,anxious
+101,안면이 있다,to be acquainted with
+0,깜빡하다,to forget
+1,깨닫다,to realize
+2,깨뜨리다,"to break, smash sth"
+3,꺼리다,to be unwilling/reluctant to do sth
+4,꺾다,"to break, snap"
+5,꼽다,to count
+6,꾸미다,to decorate
+7,꿈꾸다,to dream
+8,끌다,"to attract; to pull, drag"
+9,나무라다,to scold
+10,나타내다,"to turn up, show up, appear"
+11,낙관하다,to be optimistic
+12,날다,to fly
+13,날아가다,to fly away
+14,남다,"to remain, have left over"
+15,낭비하다,"to waste, squander"
+16,낮추다,"to reduce, turn down (price, heat); lower (sound, voice)"
+17,낳다,to have a baby
+18,내다보다,"to look out (a window); to predict (future, weather)"
+19,내보내다,to put/let sb/sth out
+20,넘기다,to hand over/turn over/turn in sth; to pass/miss (deadline); to turn over/flip through (a page/book); to swallow (food); to comb back one's hair
+21,넘나들다,
+22,넘어가다,to fall (down); to cross (mountain); to be fooled/deceived by
+23,넘어서다,"to surpass, exceed"
+24,넘쳐나다,to overflow
+25,넘치다,to be full of
+26,노동하다,"to work, labor"
+27,노력하다,to make an effort
+28,녹다,to melt
+29,논하다,to discuss
+30,높이다,"to increase, improve"
+31,놓치다,to miss
+32,뉘우치다,to regret
+33,늘리다,"to extend, increase"
+34,늘어나다,to increase
+35,늙다,"to get old, age"
+36,늦추다,to delay
+37,다가가다,to approach
+38,다가오다,to get closer
+39,다루다,"to deal with, handle, treat"
+40,다양하다,to be various
+41,다하다,"to do, make"
+42,단정하다,"to be correct, proper, neat, tidy"
+43,단축하다,to shorten
+44,달리하다,to differ
+45,달성하다,to accomplish
+46,담기다,to be filled with
+47,담다,to put
+48,담당하다,to be in charge of; play a role
+49,답습하다,to follow in the footsteps of sb
+50,답하다,to respond to
+51,당기다,to make earlier
+52,당면하다,to confront
+53,당하다,"to match sb; to suffer from, undergo (a bad incident)"
+54,닿다,"to touch, brush against; to reach, arrive at (a place)"
+55,대기하다,to wait for
+56,대비하다,to prepare
+57,대신하다,"instead of, to replace"
+58,대피하다,to evacuate
+59,덜다,to reduce
+60,도입하다,to adopt; to introduce
+61,도전하다,to challenge
+62,돋보이다,to stand out
+63,돌아가시다,to pass away
+64,돋우다,"to raise (sth, a voice); to stimulate; to spice/perk up sth"
+65,돌다,to circle
+66,돌보다,to take care of
+67,돌아다니다,to wander around
+68,돌아보다,"to look back, think back on; to look around"
+69,돌이키다,to look back in time; to reverse a decision
+70,동의하다,to agree with
+71,둘러보다,"to browse, take a look around"
+72,드러나다,"to be exposed, revealed"
+73,드러내다,"to show, reveal, bare, expose"
+74,들르다,to stop by
+75,들리다,to hear
+76,들어주다,"to grant, acede to, comply with"
+77,들이다,to put
+78,등장하다,to appear
+79,따다,"to obtain, get, receive; pluck (a flower); open (a can, bottle); unlock (a door)"
+80,따지다,"to consider, figure out"
+81,떠내려가다,"to drift away, be swept away"
+82,떠넘기다,"to pass on, dump onto sb"
+83,떠돌아다니다,to float around
+84,떠오르다,"to rise; to come to mind, recall"
+85,떨어뜨리다,"to drop, lose, miss"
+86,떼다,"to recede; to remove, take off"
+87,뛰어가다,to run
+88,뛰어나다,to be excellent
+89,뜨다,"to rise, float"
+90,마련하다,"to prepare, arrange"
+91,마비되다,to be paralyzed
+92,막다,to prevent
+93,만족하다,to be satisfied with
+94,말리다,to dry
+95,망설이다,to hesitate
+96,맞추다,"to assemble, piece together; to tune sth to sth"
+97,맡다,"to smell (a scent); to take care of, handle, manage"
+98,매달리다,"to hang on, dangle"
+0,능률,efficiency
+1,능통자,linguist; someone fluent in a language
+2,늦잠,oversleeping
+3,늦잠꾸러기,"a sleepyhead, late riser"
+4,다수결,"majority vote, decision"
+5,다행,"sth fortunate, good"
+6,단념,abandonment
+7,단백질,protein
+8,단위,"unit, measure"
+9,단체,"organization, association; group, party"
+10,단풍,autumn leaves
+11,담합,"price-fixing, collusion"
+12,답변,"answer, reply, response"
+13,답사,"field investigation, on-site survey"
+14,당국,the authorities
+15,당락,election results
+16,당부,a request
+17,당사자,a person directly involved in sth
+18,당선,election (not... 거)
+19,당시,"then, at the time, in those days"
+20,당일,the very day of
+21,대기,waiting
+22,대두,the rise of...
+23,대리,a substitute
+24,대보름,the day of the first full moon of the year
+25,대비하다,to prepare for
+26,대비책,"preparations, provisions, safety net"
+27,대상,a target
+28,대신,instead of
+29,대안,an alternative
+30,대용품,a substitute (not ...리)
+31,대중,the public
+32,대책,"action, measures, steps"
+33,대표,representative
+34,대형,"huge, large in size"
+35,댓글,a comment
+36,도깨비,goblin
+37,도둑,thief
+38,도로변,sidewalk
+39,도자기,"pottery, ceramics"
+40,도전,a challenge
+41,독,poison
+42,독자,a reader
+43,독점,exclusive; a monopoly
+44,돌파구,breakthrough
+45,동력,"power, electricity"
+46,동료,"colleague, co-worker"
+47,동반으로,accompanied by
+48,동참,participation
+49,동호회,"club, society"
+50,두려움,"fear, dread, terror, horror (not  공포감)"
+51,뒷받침,"support, backup"
+52,뒷전,"sth put on the backburner, pushed to the side"
+53,등기,registered mail
+54,등산객,mountain climber
+55,등장,"an appearance (in a movie, play); advent"
+56,땅,"ground, land, soil"
+57,또래,"peer (group), sb of the same age"
+58,마감,deadline
+59,마무리,"finish, completion"
+60,마법,"a spell; sorcery, withcraft"
+61,마술사,a magician
+62,마을,"a village, town"
+63,만류,dissuasion
+64,만족,satisfaction
+65,만족도,level of satisfaction
+66,맛집,famous and delicious restaurant
+67,맞벌이,dual income
+68,맛수,"match, rival"
+69,매력,"charm, appeal"
+70,매립지,landfill
+71,매연,exhaust fumes
+72,매장,a store; a burial
+73,매장량,reserves
+74,매출,sales
+75,맨홀,manhole
+76,먹이,"food, prey"
+77,먼지,dust
+78,면,"face, side, facet, aspect"
+79,면접,interview
+80,면제,"exemption, immunity"
+81,멸종,extinction
+82,명곡,"classic, masterpiece (music)"
+83,명상,meditation
+84,명색,"position, title (one's job)"
+85,모방,"imitation, copy"
+86,모순,contradiction
+87,모집,recruitment
+88,모험,"adventure, risk"
+89,목록,list; inventory
+90,목숨,life (not 생명)
+91,목적지,destination
+92,목축,"livestock farming, ranching"
+93,목표,"goal, aim, target"
+94,무늬,pattern
+95,무대,stage
+96,무리,"sth impossible, too much, beyond one's ability"
+97,무속,shamanism
+98,무인의,"unmanned, uninhabited"
+99,무형의,intangible
+100,문명,civilization
+101,문물,"culture, cultural artifacts"
+102,뒷전에서,behind a person's back
+0,가공되다,to be processed
+1,가꾸다,to raise/grow; to adorn/decorate
+2,가늠하다,"to judge, discern"
+3,가라앉다,"to sink, submerge; to calm down, subside"
+4,가려내다,to sort out; distinguish; pick out
+5,가열하다,to heat up
+6,가입하다,"to join, become a member"
+7,가중되다,"to be made worse, aggravated, compounded"
+8,각색하다,to adapt
+9,간과하다,"to ignore, overlook"
+10,간직하다,"to keep, save, store, cherish"
+11,간파하다,"to penetrate, see through (sb's mind); to grasp/read a situation"
+12,갈팡질팡하다,to panic
+13,감당하다,"to manage, deal with, cope with"
+14,감상하다,"to appreciate, enjoy"
+15,감소하다,to decrease
+16,감수하다,to accept the consequences
+17,감안하다,to consider
+18,감지하다,to detect
+19,감행하다,to risk
+20,강연하다,to lecture on
+21,강요하다,"to force, impose"
+22,강조하다,to emphasize
+23,강화하다,"to toughen, strengthen"
+24,갖추다,"to equip, have, possess"
+25,갚다,to repay
+26,개발하다,to develop
+27,개방하다,to open
+28,개선하다,to improve
+29,개설하다,"to open up, set up (an account)"
+30,개업하다,to start a business
+31,개장하다,"to run, open (a business)"
+32,개조하다,"to remodel, renovate, modify"
+33,개최하다,to hold (an event)
+34,객사하다,to die away from home
+35,거들하다,"to help, assist"
+36,거듭하다,to repeat
+37,거르다,"to skip, omit"
+38,거부하다,"to refuse, reject"
+39,거스르다,to find offensive
+40,거주하다,to reside
+41,거치다,to go/pass through; to pass (a test)
+42,거칠다,"rough, course, uneven, rugged"
+43,"건설하다, 건축하다","to build, construct"
+44,걷잡다,"to hold back, keep back"
+45,걷히다,"to lift, clear up"
+46,검출되다,"to detect, find"
+47,검토하다,"to review, examine, inspect"
+48,게시하다,to post a notification
+49,게재되다,"to publish, print"
+50,겨냥하다,"to target, aim at"
+51,겪다,"to experience, undergo"
+52,견디다,"to stand, bear, endure"
+53,견제하다,"to check up on, keep an eye on"
+54,견주다,to compare
+55,결심하다,"to decide, make up one's mind"
+56,결정하다,to make a decision
+57,와/로 결합되다,to be combined with/into
+58,겸비하다,to combine
+59,경청하다,to listen intently to
+60,곁들이다,to garnish
+61,경쟁하다,to compete
+62,고갈되다,"to be depleted, exhausted"
+63,고려하다,to consider
+64,고립되다,to be isolated
+65,고민하다,to worry
+66,고수하다,"to stick to (belief, plan)"
+67,고생하다,to endure hardship
+68,공격하다,to attack
+69,공급하다,to supply
+70,공존하다,to coexist
+71,공지하다,to give notice
+72,과시하다,to show off one's wealth
+73,관련하다,"to be associated with, regarding sth"
+74,관여하다,"to be involved with, participate"
+75,관찰하다,"to observe, watch"
+76,교육하다,to educate
+77,교체하다,"to change, replace"
+78,교환하다,to exchange
+79,구매하다,"to buy, purchase (not ...입)"
+80,구입하다,"to buy, purchase (not ...매)"
+81,구조하다,"to rescue, save"
+82,굴리다,to roll
+83,궁핍하다,to be in need/bad off
+84,권장하다,to encourage
+85,권하다,to ask for
+86,귀국하다,to return from abroad
+87,그만두다,"to stop, quit"
+88,극복하다,to overcome
+89,근거하다,to be based on
+90,근무하다,to work
+91,급중하다,to rapidly increase
+92,긍정하다,"to agree with, acknowledge"
+93,기념하다,to celebrate
+94,기대하다,"to expect, anticipate"
+95,기부하다,to donate
+96,기여하다,to contribute
+97,기울이다,"to pay attention to, listen to"
+98,긴장하다,to get nervous
+0,사업,"business, enterprise"
+1,사용량,amount used
+2,사용자,user
+3,사용법,"directions, instructions"
+4,사연,"story; situation, circumstances; reason"
+5,사정,"situation, circumstances; reason (negative meaning)"
+6,사표,letter of resignation
+7,사항,change in a situation
+8,사회,society
+9,사회자,chairman; host of a ceremony/show
+10,산등성이,mountain ridge
+11,산림,forest
+12,산책로,hiking trail
+13,산행,hiking
+14,산호,coral
+15,삶,"existence, living"
+16,상,"prize, award"
+17,상가,shopping plaza
+18,상담,counseling
+19,상담원,"an agent, counselor"
+20,상대,someone; a partner; an opponent
+21,상대방,the opposite party; opponent
+22,상대주의,relativism
+23,상사,higher ranked official; one's superior
+24,상상,imagination
+25,상상력,imagination; imaginative power
+26,상승,a rise
+27,상승세,upward trend
+28,상승폭,"an increase, gain"
+29,상징물,symbol
+30,상체,upper body
+31,상태,condition
+32,상품권,gift card
+33,상황,"condition, situation"
+34,색상,colored
+35,색채,colors
+36,생명,life (not 목숨)
+37,생명체,"life form, organism (scientific)"
+38,생물,living things
+39,생물학,biology
+40,생산,production
+41,생산량,"output, yield"
+42,생성,"creation, formation"
+43,생태계,ecosystem
+44,생필품,daily necessities
+45,석탄,coal
+46,선거,election (not... 선)
+47,선발,forerunner
+48,선조,ancestors
+49,선택,"choice, selection"
+50,선호도,preference
+51,설계,"plan, design"
+52,설득,persuasion
+53,설명회,"meeting, presentation"
+54,설문,survey
+55,성분,contents
+56,섬유,"fiber, fabric"
+57,섭취,intake
+58,성공,"success, hit"
+59,성곽,"castle, fortress"
+60,성별,gender
+61,성분,ingredient
+62,성악가,vocalist
+63,성장,"growth, development"
+64,성취,"achievement, fulfillment, success"
+65,성향,tendency
+66,성형,plastic surgery
+67,세상,world
+68,세제,"cleanser, detergent"
+69,세탁,"washing, laundry"
+70,소각장,incinerator
+71,소감,"ones thoughts, opinion"
+72,소개서,introduction letter
+73,소극장,small theater
+74,소극적,passive
+75,소득원,source of income
+76,소량,small amount
+77,소멸,"dissipation, death, extinction"
+78,소모,consumption ( not ...비)
+79,소방관,firefighter
+80,소비,"spending, consumption"
+81,소비자,consumer
+82,소외감,a sense of alienation
+83,소요 시간,the time required
+84,소유,possession
+85,소음,noise
+86,소재,theme
+87,소화,digestion
+88,속도,speed
+89,속마음,mind
+90,속보,breaking news
+91,손난로,hand warmers
+92,손동작,hand gesture
+93,손실,loss
+94,손잡이,knob
+95,수고,"efforts, service"
+96,수리,repair
+97,수명,life expectancy
+98,수분,"water, moisture"
+99,소요 경비,required expenses
+0,관측,observation
+1,교사,teacher
+2,교육,education
+3,교환,exchange
+4,구매,purchase (not ...입)
+5,구매자,"purchaser, buyer"
+6,구성원,a member (of a group or organization)
+7,구입,purchase (not ...매)
+8,구조,"rescue, help"
+9,구조대,rescue team
+10,구직자,job seeker
+11,구체적,"concrete, specific"
+12,국가,nation
+13,국경,border
+14,국내외,domestic and foreign
+15,국책,national policy
+16,귀국,trip back to one's home country
+17,귀농,taking up farming
+18,귀추,trend
+19,귀화,naturalization
+20,규모,"scale, size"
+21,규범,"standard, norms"
+22,규율,"discipline; rule, regulation"
+23,규제,regulation
+24,균,"germs, bacteria (short ver.)"
+25,그늘,shade
+26,그린벨트,"a green belt, green zone (not ...대)"
+27,그물,net
+28,극단,an extreme
+29,극복하다,to overcome
+30,근심,"worry, concern"
+31,근거,"grounds, basis, proof"
+32,금기,taboo
+33,근무,"work, duty"
+34,글쓴이,writer
+35,금전적,monetary
+36,긍정,"affirmation, a yes"
+37,기관,institution
+38,기념,celebration
+39,기능,function
+40,기대,expectation
+41,기본,the basics
+42,기부,donation
+43,기쁨,joy
+44,기상,climate
+45,기성 세대,the older generation
+46,기술,"skill, technique, technology"
+47,기술력,technical skills
+48,기억력,memory
+49,기업,enterprise
+50,기업가,entrepreneur
+51,기운,"energy, vitality, strength"
+52,기존,existing
+53,기준,standard
+54,기한,"time frame, time period"
+55,기호,"sign, symbol"
+56,기회,"opportunity, chance"
+57,긴장,tension
+58,긴장감,feeling of tension
+59,길이,length
+60,난청,hard of hearing
+61,날개,wing
+62,남,other people; another person
+63,남용,abuse
+64,낭만,romance
+65,낭비,waste
+66,내면,"interior, inside"
+67,내실,internal stability
+68,내외,inside and outside
+69,내의,undergarments
+70,노동,labor
+71,노동력,workforce
+72,노동자,laborer
+73,노력,effort
+74,노사,labor and management
+75,노선,route
+76,노약자,senior citizens and the disabled
+77,노조,labor union
+78,노화,aging
+79,녹지대,"a green belt, green zone (not ...트)"
+80,논거,basis of an argument
+81,논란,controversy
+82,논리,"logic, reasoning"
+83,논점,point (get sb's point)
+84,놀이,game
+85,농가,farmhouse
+86,농경,agriculture
+87,농민,farmer
+88,농약,pesticides
+89,농어촌,rural; farming and fishing
+90,농작물,crops
+91,농촌,the countryside
+92,높이,height
+93,뇌,brain
+94,뇌혈관,blood vessel in the brain
+95,눈높이,eye level
+96,눈덩이,snowball
+97,능동적,active
+98,능률,efficiency
+0,가난,"poverty, want (not 곤궁)"
+1,가닥,"strand, thread"
+2,가로수,roadside tree
+3,가루비누,powdered detergent
+4,가면,mask
+5,가무,"singing and dancing, musical entertainment"
+6,가문,family
+7,가몸,drought
+8,가산점,extra credit
+9,가상,reality
+10,가속,acceleration
+11,가시,"thorn, fish bones"
+12,가야금,traditional Korean harp-like instrument
+13,가옥,house
+14,가입,membership
+15,가정,"home, family"
+16,가족력,family history
+17,가축,livestock
+18,가치,"value, worth"
+19,가해자,"an offender, wrongdoer"
+20,각계,all walks of life
+21,각고,hard work
+22,각광,"the spotlight, limelight"
+23,각국,each/every country
+24,각도,angle
+25,각본,script
+26,각종,"various, all kinds of"
+27,간병,"tending, nursing, caring for a patient"
+28,간접,indirectness
+29,갈등,"trouble, discord, feud"
+30,갈피,bookmark
+31,감격,deeply moving
+32,감독,"manager, director"
+33,감상,"watching, listening"
+34,감성,sensitivity
+35,감소분,decrease
+36,감염,infection
+37,감정,"feeling, emotion"
+38,감촉,"touch, feel"
+39,감축,reduction
+40,감탄,admiration
+41,갑부,multimillionaire
+42,강단,"stage, platform"
+43,강박,obsession
+44,강사,instructor
+45,강수량,precipitation
+46,강습,lesson
+47,강연,"talk, speech"
+48,강우,rainfall
+49,각자,personally
+50,강좌,courses
+51,강품,strong wind
+52,강화,reinforcement
+53,개강,beginning of lectures
+54,개개인,an individual (person)
+55,개구쟁이,"a mischievous kid, rascal"
+56,개량,improvement
+57,개명,renaming (of sth)
+58,개미,ant
+59,개발,development (as in improving)
+60,개별,"individual, separate"
+61,개성,"individuality, personality"
+62,개정,"revision, amendment"
+63,개체,"entity, individual (formal)"
+64,개최,hosting (of an event)
+65,개편,"reorganization, restructuring"
+66,객관,objectivity
+67,객관적,objective
+68,객석,"stands, seats (in an auditorium/stadium)"
+69,객지,a place far from home
+70,갯벌,"mud flat, tideland"
+71,거대,giant
+72,거래처,"client, business account"
+73,거미,spider
+74,거미줄,spider web
+75,거부감,reluctance
+76,거주,residence
+77,거주자,resident
+78,거지,homeless person
+79,건설,construction
+80,건설업,construction industry
+81,건성으로,"halfhearted, unenthusiastic"
+82,건의,"proposal, suggestion"
+83,건조,construction; dryness
+84,건조증,xeransis (extreme dryness)
+85,건축가,architect
+86,건축물,"building, structure"
+87,검사,check
+88,검증,"inspection, verification"
+89,검진,medical examination
+90,검토,"review, examination, inspection"
+91,겉,"the outside, exterior; surface"
+92,게시판,bulletin board
+93,겨를,time to spare
+94,격,class; ~과 마찬가지
+95,격려,encouragement
+96,격정,passion
+97,격차,"gap, difference"
+98,격파,destruction
+99,견학,"field trip, tour"
+0,문의,inquiry
+1,문의처,information desk
+2,문자,message
+3,문제점,problem
+4,문헌,"documents, literature"
+5,문화재,"cultural properties, assets"
+6,물류,"distribution, logistics"
+7,물자,"supplies, resources"
+8,물질,"substance, material, composition"
+9,물체,object
+10,물품,"goods, things"
+11,미만,"under, less than"
+12,믿음,"trust, belief, faith"
+13,바위,"rock, boulder"
+14,바탕,"foundation, basis"
+15,박람회,"expo, exhibition"
+16,박사,Ph.D.
+17,박탈감,deprivation; feeling of deprivation
+18,반딧불,glow from a firefly
+19,반론,counter-argument
+20,반박,rebuttal
+21,반사,reflection
+22,반항,"defiance, rebellion, insubordination"
+23,반환,"return, restoration"
+24,발급,"issuing, issuance of"
+25,발신,outgoing
+26,발열원,source of heat
+27,발효,fermentation
+28,방문객,visitor
+29,방어,defense
+30,방언,dialect
+31,방침,policy
+32,배기,exhaust
+33,배송,delivery
+34,배심원,"juror, jury"
+35,범죄자,criminal
+36,범행,crime
+37,법규,"regulation, law"
+38,벽지,wallpaper
+39,벽화,mural
+40,변덕,whim
+41,별개,"another, a different ~"
+42,병균,"germs, bacteria"
+43,병세,"condition, illness"
+44,병원비,medical bills
+45,병충해,"pests, insects"
+46,보배,treasure
+47,보습제,moisturizer
+48,보신,improving one's health
+49,보안,security
+50,보조금,subsidy
+51,보증금,security deposit
+52,보행자,pedestrian
+53,복구,"restoration, recovery (not ...원)"
+54,복권,lottery
+55,복원,restoration (not ...구)
+56,복장,"clothes, attire"
+57,복제,"reproduction, duplication, copy"
+58,복지,welfare
+59,복통,stomachache
+60,복합적,complex; mixed
+61,본격적,"in earnest; full scale, full fledged"
+62,본능,instinct
+63,봉우리,"peak, summit"
+64,부상,"injury, wound"
+65,부작용,side effect
+66,부재중,out (of the office)
+67,부족,"deficiency, lack"
+68,부패,"decomposition, rot; corruption"
+69,분기,a quarter (1/4 of a year)
+70,분배,"distribution, division, allocation"
+71,분별력,judgement
+72,분수,one's place/status in life
+73,분쟁,"dispute, conflict, feud"
+74,분화,differentiation
+75,불가,not allowed
+76,불가분의,"indivisible, inseperable"
+77,불감증,insensitivity
+78,불량,"sth poor, bad, delinquent"
+79,불면증,insomnia
+80,불순물,impurity
+81,불신,"mistrust, distrust"
+82,불황,"recession, slump"
+83,비결,"secret, key to sth"
+84,비교,comparison
+85,비료,fertilizer
+86,비용,"cost, expense, charge"
+87,비율,"ratio, percentage"
+88,비중,"emphasis, weight"
+89,비판,criticism (not...평)
+90,비평,criticism (not ...판)
+91,빈곤,poverty (not ...난)
+92,빈도,frequency
+93,빙하,glacier
+94,빛,light
+95,사고력,thinking skills
+96,사례,"example, case"
+97,사무국,secretariat
+98,사생활,private life
+99,사실,"fact, truth"
+100,변덕을 부리다,"behave on a whim, unpredictably"
+101,분별,"discernment, (good) judgement"
+0,어려움,difficulty
+1,어린아이,children
+2,억양,accent

@@ -1,0 +1,654 @@
+,0,1
+0,지하철역,Train station
+1,출입국관리사무소,Immigration office
+2,여보세요?,Hello (answering the phone)
+3,댁,House honorific
+4,그런데요,Yes it is
+5,죄송하지만,"I'm sorry but, (hon)"
+6,못,Cannot
+7,기다리다,To wait
+8,받다,To receive
+9,입다,To wear
+10,죽다,To die
+11,늦다,To be late
+12,잘못,Wrong
+13,바뀌 주다,To change speaker (on the phone)
+0,월급,Monthly pay
+1,빨리,Quickly
+2,종업원,Attendant
+3,어서 오세요,Welcome
+4,드리다,To give (Hon)
+5,비빔밥,Bibimbap
+6,된장찌개,Soybean paste
+7,이인분,2 portions
+8,맛있게,Deliciously
+9,경치,Scenery
+10,결혼,Marriage
+11,바다,Ocean
+12,시헙,Test
+13,밥,Rice
+14,김치,Kimchi
+15,빵,Bread
+16,햄버거,Hamburger
+17,통닭,A whole chicken
+18,샌드위치,Sandwich
+19,계란 프라이,Fried egg
+20,김밥,Kimbap
+21,떡볶이,Ddeokbokki
+22,회,Raw fish
+23,스파게티,Spaghetti
+24,생선,Seafood
+25,만두,Dumplings
+26,샐러드,Salad
+27,팥빙수,Patbingsu
+28,국수,Soup
+29,라면,Ramyun
+0,운전기사,Driver
+1,츨근,Work Travel
+2,더,More
+3,들어가다,To go in
+4,내리다,To descend
+5,소설책,Novel
+6,뜨겁다,To be hot
+7,무겁다,To be heavy
+8,돕다,To help
+9,차갑다,To be cold
+10,아름답다,To be beautiful
+0,수업,Lesson
+1,부터,From
+2,끝나다,To finish
+3,문법,Grammar
+4,회화,Conversation
+5,매주,Every week
+6,까지,Until
+7,배우다,To learn
+8,가요,Popular song
+9,동요,Children's song
+10,정각,On time
+11,보통,Usually
+12,시작하다,To start
+13,기차,Train
+14,출발하다,To depart
+15,뛰다,To run
+16,회사,Company
+17,서울,Seoul
+18,부산,Busan
+19,저기,Over there
+20,얼굴,Face
+21,알다,To know
+22,마시다,To drink
+23,용돈,Pocket money
+24,신문,Newspaper
+25,뉴욕,New York
+0,시간이 있다,To have time
+1,결레,Pair (of socks)
+2,알겠습니다,I understand
+3,비자,Visa
+4,연정하다,To extend
+5,표,Ticket
+6,빌리다,To loan
+7,나쁘다,To be bad
+8,고프다,To be hungry
+9,아프다,To be in pain
+10,크다,To be big
+11,슬프다,To be sad
+12,식탁,Dinner table
+13,산책,Stroll
+14,노래방,Karaoke
+0,고양이,Hometown
+1,강아지,Puppy
+2,부모님,Parents
+3,지갑,Wallet
+4,새,Bird
+5,비둘기,Dove
+6,넥타이,Neck tie
+7,선물하다,To give a present
+8,키스,Kiss
+9,이매일,Email
+10,한테,To
+11,한테서,From
+12,에게,To 2
+13,에게서,From 2
+14,보내다,To spend
+15,요리,Dish
+16,학원,Institution
+17,좋아하다,To like
+18,잘,Well
+19,만들다,To make
+20,요리사,Chef
+21,되다,To be able
+22,싶어하다,To want (3rd person)
+0,경복궁,Gyeongbokgung Palace
+1,옛날,A long time ago
+2,왕,King
+3,찍다,To take a picture
+4,근처,Vicinity
+5,광화문,Gwanghawmun
+6,얼마나,How long
+7,걸리다,To take time
+8,정도,Around
+9,성균관대,Sungkyunkwan
+10,놀이 공원,Amusement park
+11,정말,Really
+12,술,Alcohol
+13,쯤,About
+14,비행기,Plane
+15,배,Ship
+16,어젯밤,Last night
+17,지난,Last
+18,세수하다,To wash
+19,데이트하다,To date
+20,지난주,Last week
+21,남자,Man
+22,여자,Woman
+23,병원,Hospital
+0,생일,Birthday
+1,선물,Present
+2,어떻게,How
+3,호선,Subway line
+4,갈아타다,To change veichles
+5,왜,Why
+6,약속,Promise
+7,못,Cannot
+8,괜찮다,To be okay
+9,하지만,But
+10,파티,Party
+11,꼭,Certainly
+12,깨끗하다,To be clean
+13,젓가락,Chopstick
+14,숟가락,Spoon
+15,포크,Fork
+16,가위,Scissors
+17,신청서,Application form
+18,볼펜,Ball Pen
+19,치다,To play an instrument
+20,숙제,Homework
+21,시청,City hall
+22,자전거,Bike
+23,자동차,Car
+24,헬리콥터,Helicopter
+25,오토바이,Motorbike
+26,트럭,Truck
+27,구급차,Ambulance
+28,우주선,Spaceship
+29,소방차,Firetruck
+30,택시,Taxi
+31,셔틀버스,Shuttle bus
+32,보드,Board
+33,인라인 스케이트,Skates
+34,오이,Cucumber
+35,배추,Cabbage
+36,무,Raddish
+37,당근,Carrot
+38,양파,Onion
+39,두부,Tofu
+40,파,Spring onion
+41,양배추,Cabbage 2
+42,호박,Pumpkin
+43,콩나물,Beansprouts
+44,토마토,Tomato
+45,옥수수,Corn
+46,고추,Chili pepper
+47,버섯,Field mushroom
+48,고구마,Sweet potato
+49,감자,Potato
+0,달다,To be sweet
+1,짜다,To be salty
+2,쓰다,To be bitter
+3,시다,To be sour
+4,맵다,To be spicy
+5,맛있다,To be tasty
+6,맛없다,To not be tasty
+7,아주머니,Middle-aged woman
+8,개,Counter for thing
+9,얼마,How much
+10,그건,That
+11,아주,A lot
+12,이건,This
+13,배,Boat
+14,너무,Too much
+15,하고,And
+16,주다,To give
+17,모두,Altogether
+18,조금,A little
+19,깎다,To discount
+20,그래요?,Really?
+21,그럼,Then
+22,만,Only
+23,가게,Shop
+24,과일,Fruit
+25,세다,To stand
+26,사탕,Candy
+27,버스,Bus
+28,녹차,Green tea
+29,손님,Customer
+30,장미,Rose
+31,종이,Paper
+32,자장면,Jajangmyun
+33,케이크,Cake
+34,피자,Pizza
+35,양말,Socks
+36,구두,Shoes
+37,맥주,Beer
+38,콜라,Cola
+39,수박,Watermelon
+40,지하철,Subway
+41,타다,To ride
+42,손가락,Finger
+43,문구점,Stationary store
+44,권,Book counter
+45,대,Machine counter
+46,살,Age counter
+47,시,Hour counter
+48,잔,Cup counter
+49,명,Person counter
+50,사람,Person counter 2
+51,분,Person counter hon
+52,마리,Animal counter
+53,송이,Flower counter
+54,장,Paper counter
+55,그릇,Bowl counter
+56,조각,Slice counter
+57,켤레,Pair
+58,병,Bottle counter
+59,하나,1 (traditional)
+60,둘,2 (traditional)
+61,셋,3 (traditional)
+62,넷,4 (traditional)
+63,다섯,5 (traditional)
+64,여섯,6 (traditional)
+65,일곱,7 (traditional)
+66,여덟,8 (traditional)
+67,아홉,9 (traditional)
+68,열,10 (traditional)
+69,열하나,11 (traditional)\
+70,열둘,12 (traditional)
+71,열셋,13 (traditional)
+72,열넷,14 (traditional)
+73,열다섯,15 (traditional)
+74,스물,20 (traditional)
+75,서른,30 (traditional)
+76,마흔,40 (traditional)
+77,쉰,50 (traditional)
+78,예슨,60 (traditional)
+79,일혼,70 (traditional)
+80,여든,80 (traditional)
+81,아혼,90 (traditional)
+0,항상,Always
+1,먼저,First
+2,극장,Movie theatre
+3,공포 영화,Horror movie
+4,벌써,Already
+5,이사하다,To move house
+6,약,Medicine
+7,수영장,Swimming pool
+8,굽다,To roast
+9,끓이다,To boil liquids
+10,삶다,To boil solids
+11,튀기다,To deep fry
+12,볶다,To stir fry
+13,썰다,To chop
+14,반족하다,To knead
+15,넣다,To place
+16,섞다,To mix
+17,담다,To put in
+0,지금,Now
+1,어디,Where
+2,가다,To go
+3,혼자,Alone
+4,같이,Together
+5,동대문,Dongdaemun
+6,시장,Market
+7,동대문 시장,Dongdaemun market
+8,사다,To buy
+9,만나다,To meet
+10,산,Mountain
+11,점심,Lunch
+12,식당,Restaurant
+13,우체국,Post office
+14,시간,Time
+15,우유,Milk
+16,오다,To come
+17,집,House
+18,쓰다,To write
+19,듣다,To listen
+20,화장실,Bathroom
+21,학교,School
+22,극장,Theatre
+23,영화,Movie
+24,게임하다,To play games
+25,직진,Straight
+26,PC방,PC Room
+27,왼쪽,Left
+28,오른쪽,Right
+29,밖,Outside
+30,안,Inside
+31,아래,Beneath
+32,뒤,Behind
+33,옆,Next to
+34,앞,Front
+35,위,Top
+36,쪽,Direction
+37,복,North
+38,동,East
+39,서,West
+40,남,South
+0,여행사,Travel agency
+1,아르바이트,Part time job
+2,일하다,To work
+3,월요일,Monday
+4,수요일,Wednesday
+5,학교,School
+6,학생,Student
+7,주말,Weekend
+8,친구,Friend
+9,함께,Together
+10,영화,Movie
+11,만나다,To meet
+12,등산을 가다,To go mountain climbing
+13,매일,Everyday
+14,자다,To sleep
+15,일어나다,To get up
+16,친절하다,To be kind
+17,비싸다,To be expensive
+18,바쁘다,To be busy
+19,영화관,Movie theatre
+20,공원,Park
+21,쇼핑,Shopping
+22,요리,Cooking
+23,크리스마스,Christmas
+24,청소,Cleaning
+25,화요일,Tuesday
+26,목요일,Thursday
+27,금요일,Friday
+28,토요일,Saturday
+29,일요일,Sunday
+30,아침,Breakfast
+31,정오,Noon
+32,저녁,Dinner
+33,밤,Night
+34,오전,Morning
+35,오후,Afternoon
+36,오늘,Today
+37,어제,Yesterday
+38,내일,Tomorrow
+39,모레,Day after tomorrow
+40,그저께,Day before yesterday
+0,연극,Play
+1,한참 동안,For a long time
+2,이미,Already 2
+3,멀리,Far
+4,막하다,To be stuck in a traffic jam
+5,빠르다,To be fast
+6,공연,Performance
+7,지키다,To keep a promise
+8,지작하다,To be late
+9,모르다,To not know
+10,다르다,To be different
+11,성격,Personality
+12,박물관,Museum
+13,휴지,Toilet paper
+14,버리다,To throw
+15,기대다,To lean
+0,나,I (plain)
+1,저,I (humble)
+2,도,"Too, also"
+3,이다,To be
+4,씨,"Mr, Mrs"
+5,일본 사람,Japanese
+6,일본,Japan
+7,영국,England
+8,영국 사람,English
+9,아니요,No
+10,아니다,To not be
+11,미국,America
+12,미국 사람,American
+13,네,Yes
+14,아,"Ah, oh"
+15,그렇습니까?,Is that so?
+16,어느,Which
+17,자기,Oneself
+18,소개하다,To introduce
+19,의사,Doctor
+20,학생,Student
+21,선생님,Teacher
+22,이름,Name
+23,국적,Nationality
+24,직업,"Job, occupation"
+25,주부,Housewife
+26,회사원,Company employee
+27,나라,Country
+28,언어,Language
+29,사람,Person
+30,한국,Korea
+31,한국 사람,Korean
+32,중국,China
+33,중국 사람,Chinese
+34,러시아,Russia
+35,러시아 사람,Russian
+36,한국어,Korean language
+37,중국어,Chinese language
+38,일본어,Japanese language
+39,영어,English language
+40,러시아어,Russian language
+0,여행,Travel
+1,예쁘다,To be pretty
+2,날씬하다,To be skinny
+3,유학,Study abroad
+4,어떤,What kind of
+5,키,Height
+6,돌아가다,To go back
+7,착하다,To be kind
+8,뚱뚱하다,To be fat
+9,미술,Art
+10,돈,Money
+11,건강,Health
+0,여기,Here
+1,행복,Happy
+2,여행사,Travel agency
+3,안내원,Guide
+4,그렇다,To be like that
+5,사무실,Office
+6,몇,How many
+7,층,Floor
+8,실례지만,Excuse me
+9,화장실,Bathroom
+10,복도,Corridor
+11,끝,The end
+12,(으)로,Through
+13,건물,Building
+14,지하,Basement
+15,개구리,Frog
+16,사자,Lion
+17,닭,Chicken
+18,사슴,Deer
+19,수,Number
+20,읽기,Reading
+21,전화번호,Telephone number
+22,날짜,Date
+23,삼월,March
+24,유월,June
+25,혜화역,Hyehwa Station
+26,출구,Exit
+27,일찍,Early
+28,올라가다,To rise up
+29,생년월일,Birthdate
+30,언제,When
+31,피아노,Piano
+32,화장지,Toilet roll
+33,우산,Umbrella
+34,동전,Copper coins
+35,일,1
+36,이,2
+37,삼,3
+38,사,4
+39,오,5
+40,육,6
+41,칠,7
+42,팔,8
+43,구,9
+44,십,10
+45,십일,11
+46,십이,12
+47,십삼,13
+48,십사,14
+49,십오,15
+50,이십,20
+51,삼십,30
+52,사십,40
+53,오십,50
+54,육십,60
+55,칠십,70
+56,팔십,80
+57,구십,90
+58,백,100
+59,천,1000
+60,만,10 000
+61,십만,100 000
+62,백만,1 000 000
+63,천만,10 000 000
+64,억,100 000 000
+0,날씨,Weather
+1,어떻습니까?,How is it?
+2,춥다,To be cold
+3,계절,Season
+4,와/과,And
+5,여름,Summer
+6,안,Not
+7,좋아하다,To like
+8,배구,Volleyball
+9,테니스,Tennis
+10,수영,Swimmin
+11,음식,Food
+12,노래,Song
+13,어렵다,To be difficult
+14,야구,Baseball
+15,햄버거,Hamburger
+16,농구,Basketball
+17,축구,Football
+18,탁구,Ping Pong
+19,피자,Pizza
+20,김밥,Kimbap
+21,떡볶이,Ddeokbokki
+22,따뜻하다,To be warm
+23,덥다,To be hot
+24,시원하다,To be cool
+25,국,Soup
+26,아침,Breakfast or morning
+27,김치,Kimchi
+28,빵,Bread
+29,밥,Rice
+30,아프다,To hurt
+31,맵다,To be spicy
+32,비,Rain
+33,겨울,Winter
+34,왜,Why
+35,그래서,So
+36,눈,Snow
+37,많이,A lot
+38,비빔밥,Bibimbap
+39,조금,A little
+40,볼링,Bowling
+0,책을 보세요,Please look at the book
+1,100쪽을 보세요,Please look at page 100
+2,들으세요,Please listen
+3,따라하세요,Please repeat after me
+4,같이 하세요,Please do it together
+5,다시하세요,Please repeat yourself
+6,대답하세요,Please answer
+7,알겠습니다,I understand
+8,모르겠습니다,I don't know
+0,무엇,What
+1,컴퓨터,Computer
+2,이것,This
+3,저것,That over there
+4,책상,Desk
+5,그것,That
+6,가족,Family
+7,사진,Picture
+8,누구,Who
+9,분,Honorific of 사람
+10,제,My
+11,여동생,Little sister
+12,대학생,University Student
+13,의,Possessive particle
+14,남동생,Little brother
+15,오빠,Older brother (female)
+16,보다,To look
+17,공책,Notebook
+18,창문,Window
+19,친구,Friend
+20,가방,Bag
+21,옷,Clothes
+22,책,Book
+23,사과,Apple
+24,전화,Phone
+25,안경,Glasses
+26,목걸이,Necklace
+27,부인,Wife
+28,텔레비전,Television
+29,시계,Clock
+30,명칭,Title
+31,할아버지,Grandfather
+32,할머니,Grandmother
+33,아버지,Father
+34,누나,Older sister (male)
+35,언니,Older sister (female)
+36,삼촌,Unmarried uncle
+37,고모,Aunt
+38,남편,Husband
+39,외할아버지,Mother's side grandfather
+40,외할머니,Mother's side grandmother
+41,어머니,Mother
+42,형,Older brother (male)
+43,외삼촌,Unmarried mother's side uncle
+44,이모,Maternal aunt
+45,아내,Wife 2
+0,커피숍,Coffee shop
+1,앉다,To sit down
+2,서로,Each other
+3,취미,Hobby
+4,주말,Weekend
+5,보통,Usually
+6,영화,Movie
+7,종종,More often than not
+8,극장,Movie theatre
+9,로맨틱한 영화,Romantic Movie
+10,공포 영화,Horror movie
+11,액션 영화,Action movie
+12,SF 영화,Special effects movie
+13,그렇게,Like that
+14,혼자서,On one's own
+15,길다,To be long
+16,멀다,To be far
+17,가장,Most
+18,제일,Most 2
+19,제주도,Jeju Island
+20,경주,Gyeongju
+21,설악산,Seollak Mountain
+22,전주,Jeonju
+23,남원,Namwon
+24,그림 그리기,To paint
+25,수상 스키,Water skiing
+26,스킨스쿠버,Scuba diving
+27,낚시,Fishing
+28,단구,Terrace
+29,요리,Cooking
+30,영하 감상,Watch a movie
+31,음악 감상,Listen to music
+32,수영,Swimming
+33,볼링,Bowling
+34,등산,Mountain climbing
+35,수집하기,Collecting
+36,외국어 배우기,Learn a foreign language
+37,인터넷,Internet
+38,바둑,Go
+39,춤,Dance
+40,악기 연구,To play an instrumentᅮ
+41,사진 찍기,To take a photo
+42,조깅,Jogging
+43,독서,Reading
+44,골프,Golf
+45,스키,Skiing
+46,쇼핑,Shopping
+47,십자수,"Sewing, cross stitch"

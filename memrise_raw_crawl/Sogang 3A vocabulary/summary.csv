@@ -1,0 +1,478 @@
+,0,1
+0,직장,one's place of work
+1,상사,boss-supervisor
+2,신입 사원,new employee
+3,동아리,club for people with common interests
+4,선배,senior
+5,신입 회원,new member
+6,미혼,single (unmarried)
+7,사회학,sociology
+8,자기소개,self introduction
+9,근무하다,to work in a company
+10,궁금하다,to be curious
+11,똑똑하다,to be smart
+12,적다,to be small
+13,시간이 적다,to have little time
+14,활발하다,to be lively
+15,우연히,by chance/by accident
+16,성격이 맞다,matching personalities
+17,어디 가는 길이에요?,Where are you on your way to?
+18,국적,nationality
+19,꿈,dream
+20,미팅,blind date
+21,미팅을 하다,to have a blind date
+22,이것저것,this and/or that
+23,이웃,neighbor
+24,평일,weekdays
+25,해외,overseas
+26,해외 출장,overseas business trip
+27,활동,activity
+28,활동을 하다,to take an active part (in)
+29,들어오다,to enter
+30,함께,together
+31,회사에 들어오다,to enter a company as employee
+0,결혼식,Wedding
+1,결혼식장,wedding hall
+2,박수를 치다,to clap one's hands
+3,봉투,envelope
+4,부케를 던지다,to throw the bouquet
+5,"-이,가 시집가다",to get married (female)
+6,"-이,가 장가가다",to get married (male)
+7,신랑,bridegroom
+8,신부,Bride
+9,축의금,congratulatory money
+10,피로연,a reception
+11,피로연장,a reception hall
+12,장례식,A funeral
+13,장례식장,a funeral parlor
+14,빈소,room where coffin/portrait is
+15,영정,portrait
+16,위로하다,to console
+17,절을 하다,to bow
+18,조의금,condolence money
+19,향을 피우다,to burn incense
+20,방문하다,to visit
+21,손님을 맞다,to receive visitors
+22,별거 아니에요,It's nothing.
+23,교수님,professor
+24,부장님,department manager
+25,연구실,research lab
+26,환송회,farewell party
+27,뵈다,to see (humble form)
+28,칭찬하다,to praise
+29,외출 중,to be out
+30,이야기를 나누다,to have a talk
+31,댁,house (honorific)
+32,세뱃돈,New Year's money given to juniors
+33,연휴,consecutive holidays
+34,윶놀이,traditional game played with 4 sticks
+35,세배를 드리다,to perform a new year's bow
+36,검은색,black color
+37,흰색,white color
+38,대기실,a waiting room
+39,띠,a band (hair band etc)
+40,와이셔츠,a dress shirt
+41,정장,formal dress/suit
+42,주의하다,to be careful
+43,어둡다,to be dark/gloomy
+44,진하다,to be thick
+45,진하게,thickly/too much (make up)
+46,말없이,without a word
+47,가까운 사이,close relationship
+48,신경을 쓰다,to pay attention
+49,액세서리를 하다,to wear accessories
+0,내용물,Contents
+1,소포,"Parcel, package"
+2,저울,scales
+3,배편,surface mail by ship
+4,항공편,airmail
+5,보통 우편,regular post
+6,빠른 우편,express mail
+7,고지서,a bill
+8,사용료,fee for use
+9,수수료,service charge
+10,수표,a cheque
+11,원화,the Korean currency
+12,환율,the exchange rate
+13,출입국 관리 사무소,an immigration office
+14,서명하다,to sign one's name
+15,인지,a stamp
+16,성함,a name (honorific form)
+17,"-이,가 깨지다",to be broken
+18,떼어 내다,to tear away
+19,사은품,"a free, promotional gift"
+20,선착순,a first-come-first served basis
+21,어린이,child
+22,예정,"a schedule, plan"
+23,행사,event
+24,보관하다,to have custody of (something)
+25,보호하다,to look after (someone)
+26,태어나다,to be born
+27,"-이,가 할인 되다",to be discounted
+28,두고 가다,to put something somewhere and leave it
+29,종합 안내소,general information center
+30,승강장,platform
+31,거스름돈,change (money)
+32,관람,looking around
+33,관람객,a spectator
+34,대여,lending
+35,대여료,rent
+36,대여하다,to lend
+37,대인,adult
+38,소인,child
+39,신분증,ID card
+40,애완동물,a pet
+41,전날,one day ahead
+42,피해,Damage
+43,피해를 주다,to do damage
+44,분리하다,to separate
+45,분리수거함,a recycling container
+46,행동하다,to behave
+47,구매 시,at the time of purchase
+48,외국인 등록증,alien ID card
+49,은행 잔고 증명서,a bank statement
+50,자연스럽다,to do it naturally
+51,예절을 지키다,to observe proper etiquette
+52,안내 방송,an announcement
+53,공공장소,public place
+54,장애인,a disabled person
+55,노약자,a senior citizen
+56,임산부,a pregnant woman
+57,좌석,a seat
+58,전원,power (electricity)
+59,진동,vibration
+60,박스,Box
+61,금액,an amount of money
+62,은행,Bank
+63,비밀 번호,pin number/password
+64,통장,bankbook
+65,현금,cash
+66,현금 카드,cash card
+67,환전,exchange
+68,연정하다,to extend
+69,재발급하다,to reissue
+70,확인 버튼,verification button
+71,미술관,art gallery
+72,그림을 그리다,to draw a picture
+73,독서,a close reading
+74,매수,the number of tickets
+75,매표 시간,box office hours
+76,영화 상영,movie showing
+77,가방을 싸다,to pack a suitcase
+78,재학 증명서,certificate of enrollment
+79,등록금 납입 증명서,receipt for tuition
+80,전동차,electrically-powered vehicle (subway train)
+81,새로 문을 열다,to open the doors for a new business
+82,퍼레이드,a parade
+83,관심이 있다,to have an interest in
+84,호랑이,tiger
+85,미아 보호 센터,a center for mission children
+86,통행,passing (through)
+87,영상 안내기,video guide
+88,음성 안내기,audio guide
+89,봉지,a pack
+90,번호표를 뽑다,to take a number (ticket)
+91,(을/를) (에) 올려놓다,to put (a thing) up on (something)
+0,건물,building
+1,강의실,lecture room
+2,멀티미디어실,multimedia room
+3,보건실,school infirmary
+4,컴퓨터실,computer lab
+5,탁구장,table tennis room
+6,과,department
+7,교환 학생,exchange student
+8,보고서,a report/paper
+9,학생증,studend ID card
+10,학점,academic grades
+11,후배,a junior
+12,가입하다,to join/become member of
+13,신청하다,to apply for
+14,신청서,application form
+15,모이다,gather/get together
+16,모임,a gathering
+17,대출,Lending
+18,반납,return
+19,반납하다,to return
+20,반납일,return date
+21,연체료를 내다,to pay a late fee
+22,이용 규칙,terms of use
+23,규칙을 지키다,to follow the rules
+24,맞은편,opposite side
+25,매주,each week
+26,복도,corridor
+27,지하,Underground
+28,홈페이지,homepage
+29,출력하다,to print out
+30,다다음 주,2 weeks from now
+31,"-이,가 닫히다",to be closed (passive)
+32,"-이,가 지나다",to be overdue
+33,반납일이 지나다,to pass the due date
+34,"이,가 -에게 혼나다",to get scolded
+35,경비 아저씨,security guard
+36,놓고 나오다,to put something somewhere and leave
+37,사실은,actually/the truth is
+38,주의 사항,points to be careful of
+39,당연하지!,of course!
+40,언어,language
+41,자신감,self confidence
+42,자신감이 생기다,to gain self confidence
+43,환경,environment/surroundings
+44,경험하다,to experience
+45,느끼다,to feel
+46,느낀 점,what one felt
+47,"-이,가 늘다",to improve
+48,-에 적응하다,to adapt
+49,해결하다,to solve (a problem)
+50,새롭다,to be new/unfamiliar
+51,익숙하다,to be familiar with
+52,점점,gradually
+53,한국 사람이 다 됐대요,they say I became like a Korean.
+0,업무,"duty, business"
+1,일반 업무,general duties
+2,교육,"education, training"
+3,마케팅,marketing
+4,홍보,promotion
+5,프로젝트,a project
+6,담당하다,to be in charge of
+7,맡다,to be in charge of
+8,인정받다,"to win recognition, be acknowledged"
+9,만족하다,to be satisfied
+10,보람을 느끼다,to feel the value of something
+11,구인 광고,a job advertisement
+12,경험자,an experienced person
+13,아르바이트생,"a working student, part-time employee"
+14,인턴사원,an intern
+15,정식 사원,a regular employee
+16,모집하다,to recruit
+17,사람을 뽑다,to select somebody
+18,-에 지원하다,to apply for
+19,"-이,가 (으)로 채용되다",to be employed
+20,경쟁률이 높다,to be highly competitive
+21,보수,"payment, salary, wage"
+22,신문사,a newspaper company
+23,자격증,a certification
+24,자격증을 따다,to obtain a certification
+25,조언,advice
+26,조언을 듣다,"to seek advice, to get advice"
+27,격려하다,to encourage
+28,문의하다,to make an inquiry
+29,문의 전화,a call of inquiry
+30,"-이,가 정해지다","to be decided, fixed, arranged"
+31,"-이,가 진행되다",to progress
+32,보험 회사,an insurance company
+33,동남아,south east asia
+34,사회,society
+35,사회 경험,social experience
+36,사회생활,"social life, working life"
+37,해외여행,overseas trip
+38,게다가,in addition
+39,경험을 쌓다,to acquire experience
+40,긴장이 되다,to be strained
+41,좋았겠다,that must have been great
+42,경력,a career
+43,관광지,a tourist site
+44,동유럽,eastern europe
+45,목적,purpose
+46,미래,future
+47,여행상품,a package tour
+48,여행 상품 기획가,a package tour planner
+49,신혼여행,a honeymoon
+50,여행지,a travel destination
+51,연령,age
+52,일정,"an itinerary, journey"
+53,재작년,the year before last
+54,정보,information
+55,휴양지,a resort
+56,(와/과) 관계되다,to be related/connected with
+57,기획하다,to plan
+58,"-이,가 (으)로 예상되다",to be anticipated
+59,또한,also
+60,매우,Very
+61,3년차,3 years of experience
+62,돈이 들다,to cost money
+63,뜨는 직업,up and coming career
+64,서비스 정신,service minded
+65,오는 22일,the coming 22nd
+66,주 5일제,5-day work week
+67,호프집,a pub
+68,서빙,serving
+69,자유롭다,to be flexible (office hours)
+70,바닷물,seawater
+71,성별,sex (gender)
+0,기계,machine
+1,가전제품,electronic items in the home
+2,콘센트,"socket, outlet"
+3,콘센트에 꽂다,"to plug into an outlet, socket"
+4,종이가 걸리다,paper jam
+5,컴퓨터가 안 켜지다,computer won't turn on
+6,토너가 떨어지다,to run out of toner
+7,고객,customer
+8,상담원,call-centre worker
+9,연락 가능한 번호,a number to contact you on
+10,이름과 연락처를 남겨 주세요,please leave your name and contact info
+11,결과,result
+12,상대방,the person you're talking to
+13,원본,original copy
+14,누르다,to press
+15,통화중,in the middle of a call
+16,모델명,model number
+17,시기,time
+18,구입시기,time of purchase
+19,지역,"area, region"
+20,구입하다,"to purchase, buy"
+21,서비스 기사,serviceman
+22,"-이,가 저장 되어 있다",to be saved (in a computer)
+23,그래 주셨으면 좋겠어요,"if you did that, it'd be good, thanks"
+24,기능,function
+25,실수로,by mistake
+26,안내서,information brochure
+27,양,amount
+28,양이 많다,to be a large amount
+29,관람하다,"to look around (a museum, gallery)"
+30,"-이,가 남다",to remain
+31,글을 올리다,to upload writing
+32,포장하다,to wrap
+33,곤란하다,"to be difficult, have trouble with"
+34,물에 빠뜨리다,to fall into water
+35,"-이,가 포장되어 있다",to be wrapped together
+36,할 수 없이,unavoidable
+37,축제 기간,the festival period
+38,회비,membership fee
+39,시험 기간,exam period
+40,복사기,a copy machine
+41,스캐너,a scanner
+42,파워 버튼,a power button
+43,플러그,a plug
+44,연결이 잘못되어 있다,to be improperly connected
+45,고객 상담원,customer inquiries center
+46,인쇄하다,to print
+47,클릭하다,to click
+48,현금 인출기,ATM
+49,기타,etc.
+50,을/를 와/과 연결하다,"to connect, to link"
+51,확인하다,to confirm
+52,가능하다,"to be possible, feasible"
+53,두부,tofu
+54,디자인,design
+55,사실,the truth
+56,실수,"a mistake, error"
+57,여성,a female
+58,콩나물,Bean sprouts
+59,무시하다,"to ignore, to disregard"
+60,올리다,to upload
+61,예를 들면,for example
+62,오고 가다,to come and go
+63,태풍,typhoon
+64,희망 사항,wish(es)
+65,한정식,korean-style meal (with many side dishes)
+66,새로 생기다,to be newly built
+0,아파트,apartment
+1,기숙사,dormitory
+2,원룸,one-room apartment
+3,주택,house
+4,하숙집,boarding house
+5,거실,living room
+6,부엌,kitchen
+7,샤워실,shower stall
+8,가구,furniture
+9,싱크대,a sink
+10,옷장,wardrobe
+11,침대,bed
+12,가스가 들어와요,the gas works (now)
+13,난방이 되다,to have heating
+14,물이 나오다,to have water
+15,물이 내려가다,to have the water drain
+16,불이 들어와요,the light works (now)
+17,비가 새다,to leak (when raining)
+18,창문이 닫히다,to be closed (window)
+19,보증금,a deposit
+20,부동산,real estate agency
+21,부동산 중개인,real estate agent
+22,쇼핑센터,shopping center
+23,월세,monthly rent
+24,전세,lease of a house on deposit basis
+25,주택가,residential area
+26,집주인,owner of the house
+27,뜨겁다,to be hot
+28,주변 환경,nearby amenities
+29,공기가 맑다,the air is clear/fresh
+30,전망이 좋다,to have a good view
+31,장단점,strong and weak points
+32,힘든 점,point of difficulty
+33,구하다,to look for/seek
+34,제안하다,to suggest/propose
+35,불친절하다,to be unfriendly
+36,지저분하다,to be messy
+37,반씩 내다,to pay fifty-fifty
+38,뭘 그렇게 열심히 보고 있어?,what are you looking at so carefully? (informal speech)
+39,우리 이렇게 하면 어떨까?,how about if we do this? (informal speech)
+40,가족적,family-like atmosphere
+41,공동생활,living together with others
+42,비,a fee
+43,매점,a stall
+44,관리비,building maintenance fees
+45,기숙사비,dormitory fees
+46,요금,a rate-a charge
+47,가스 요금,gas rate
+48,수도 요금,water rate
+49,전기 요금,electricity rate
+50,정도,about/degree
+51,추첨,lottery
+52,운영하다,to run a business
+53,"-이,가 포함되다",to be included
+54,각각,each - separately
+55,따로,separately - apart
+56,미리,in advance
+57,2인 1실,double occupancy
+58,추첨에서 떨오지다,to lose in a lottery
+59,여러분께 도움이 되면 좋겠습니다,I hope this advice will be of help to you.
+0,외모,appearance
+1,인상,impression
+2,첫인상,first impression
+3,단발머리,"bobbed, short hair"
+4,생머리,straight hair
+5,파마머리,permed hair
+6,갸름하다,oval (as in face)
+7,마르다,very thin
+8,체격이 좋다,to have good physique
+9,사교적이다,to be sociable
+10,솔직하다,"to be candid, frank"
+11,얌전하다,"to be modest, shy (female)"
+12,유머 감각이 있다,to have a sense of humor
+13,적극적이다,"to be active, outgoing"
+14,점잖다,"to be gentle, very polite (male)"
+15,활동적이다,"to be active, energetic"
+16,묘사하다,"to describe, represent"
+17,어떻게 생겼는데?,how does he/she look?
+18,무스를 바르다,to apply mousse
+19,잘생기다,to be good looking
+20,대화가 통하다,to have good conversations
+21,얼마 전에,not long ago
+22,이성 친구,a love interest
+23,-에 얼마나 신경을 쓰는데,to care a lot about appearance
+24,능력,capability
+25,능력이 있다,to be very capable
+26,명함,business card
+27,"-이,가 넘다",to exceed
+28,생각을 깊게 하다,to think deeply
+29,다양하다,"to be diverse, varied"
+30,절대,"never, absolutely not"
+31,눈이 높다,to be too picky
+32,발이 넓다,to have a wide circle of friends
+33,입이 무겁다,to be good at keeping secrets
+34,비밀을 지키다,to keep a secret
+35,둥글다,round in shape
+36,날씬하다,to be slim
+37,뚱뚱하다,To be fat
+38,달걀형이다,to be egg shaped (face)
+39,네모나다,to be square shaped (face)
+40,튼튼하다,"to be strong, solid, sturdy"
+41,통통하다,to be chubby
+42,성격,"personality, character"
+43,이해심이 많다,to be very understanding
+44,적극적이다,to be active
+45,바르다,to apply
+46,드라이하다,to dry (hair)
+47,동호회,an association of like-minded people
+48,깊다,to be deep
+49,생각이 깊다,to be thoughtful and considerate

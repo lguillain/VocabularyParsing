@@ -1,0 +1,1947 @@
+,0,1
+0,싸이다,to be wrapped (싸다) passive 이/가
+1,보이다,to be seen (보다) passive 이/가 *to show causative 이/가
+2,쓰이다,to be used (쓰다) passive 이/가
+3,나뉘다,to be divided (나누다) passive 이/가
+4,바뀌다,to be changed (바꾸다) passive 이/가
+5,놓이다,to be placed (놓다) passive 이/가
+6,쌓이다,to be piled (쌓다) passive 이/가
+7,꺾이따,to be broken (꺾다) passive 이/가
+8,섞이다,to be mixed (섞이다) passive 이/가
+9,덮이다,to be covered (덮다) passive 이/가
+10,뽑히다,to be selected (뽑다) passive 이/가
+11,씹히다,to be chewed (씹다) passive 이/가
+12,잡히다,to be caught (잡다) passive 이/가
+13,밟히다,to be stepped on (밟다) passive 이/가
+14,막히다,to be blocked (막다) passive 이/가
+15,먹히다,to be eaten (먹다) passive 이/가
+16,읽히다,to be read (읽다) passive 이/가
+17,긁히다,to be scratched (긁다) passive 이/가
+18,닫히다,to be closed (닫다) passive 이/가
+19,잊히다,to be forgotten (잊다) passive 이/가
+20,끌리다,to be pulled (끌다) passive 이/가
+21,밀리다,to be pushed (밀다) passive 이/가
+22,열리다,to be opened (열다) passive 이/가
+23,풀리다,to come undone/solve (풀다) passive 이/가
+24,물리다,to be bitten (묻다) passive 이/가
+25,들리다,to be heard (듣다) passive 이/가
+26,잘리다,to be cut (자르다) passive 이/가
+27,불리다,to be called (부르다) passive 이/가
+28,눌리다,to be pressed (누르다 ) passive 이/가
+29,뚫리다,to be pierced (뚫다) passive 이/가
+30,감기다,to be wound (감다) passive 이/가
+31,담기다,to be filled (담다) passive 이/가
+32,잠기다,to be locked (잠그다) passive 이/가
+33,안기다,to be held (안다) passive 이/가
+34,끊기다,to be cut (끊다) passive 이/가
+35,빼앗기다,to be deprived (빼앗다) passive 이/가
+36,씻기다,to be washed (씻다) passive 이/가
+37,쫓기다,to be chased (쫓다) passive 이/가
+38,찢기다,to be ripped (찢다) passive 이/가
+39,믿기다,to be believed (믿다) passive 이/가
+0,사고,accident
+1,가스사고,gas accident
+2,화재사고,fire accident
+3,감전사고,electrocution accident
+4,교통사고,traffic accident
+5,접촉 사고,minor collision
+6,음주운전 사고,drunk driving accident
+7,신고하다,to register/notify (marriage; birth; document)
+8,보험으로 처리하다,to handle through insurance
+9,보험금을 받다,to receive insurance money
+10,합의하다,to come to an agreement/settlement
+11,합의금을 주다,to give settlement money
+12,합의금을 받다,to receive settlement money
+13,사건,incident
+14,강도,armed robbery
+15,절도,unarmed robbery (theft)
+16,폭행,assult
+17,사기,fraud
+18,납치,kidnapping
+19,살인,murder
+20,피해자,victim
+21,납치당하다,to be kidnapped
+22,폭행하다,to be assulted
+23,도난당하다,to be robbed
+24,도둑맞다,to have something stolen
+25,소매치기를 당하다,to be pick-pocketed
+26,범인을 잡다,to catch a suspect
+27,절도 혐의로 체포되다,to be arrested for theft
+28,체포하다,to arrest
+29,국도,national highway
+30,발생하다,to occur/happen
+31,인근,vicinity
+32,이송되다,to be transferred to
+33,치료를 받다,to receive treatment
+34,모,mister/miss (used to refer to someone in news articles without using their full name)
+35,사망하다,"to die (formal, official docs)"
+36,보이스 피싱,voice phishing
+37,피해액,(the amount of the) damage
+38,혐의,suspicion/charge
+39,긴급,emergency
+40,세계적으로,worldwide
+41,치안,public order/security
+42,예방하다,to prevent
+43,각종,various (각)
+44,대처하다,to handle/cope with something
+45,신속하게,rapidly
+46,응급 환자,emergency patient
+47,근로자들,workers
+48,부당하다,to be unfair
+49,부담하다,to take responsibility of something
+50,112 범죄신고,police station phone number
+51,"119 화재신고,응급환자",emergency phone number 911
+52,"117 여성피해,학교폭력",violence against women and bullying phone number
+53,123 가스 사고 신고,gas leak phone number
+54,1345 외국인 종합안내센터,foreigner info center
+55,1544-1350 외국인 근로자 보호 임금체불,center for protection of foreign workers
+56,정밀검사,thorough medical exam
+57,진단서,medical certificate
+58,살인을 당하다,to be murdered
+59,신고하다,to report (a crime/person)
+60,사고를 당하다,to get in an accident (당)
+61,다치다,to get hurt
+62,교통사고를 내다,to cause a car accident (내다)
+63,사고가 발생하다,for an accident to occur/happen
+64,경찰서,the police
+65,병원에 입원하다,to be hospitalized
+66,늦잠을 자다,"to oversleep, get up late"
+67,배탈이 나다,to have an upset stomach (나다)
+68,시험을 망쳤다,to screw up on an exam/fail (망)
+69,결혼식이 엉망이 됐어요.,The wedding became a mess. (엉망)
+70,어제 계단에서 넘어졌어요.,"Yesterday, (I) fell down/on the stairs."
+71,여행 내내 비가 왔어요.,It rained throughout (my) vacation.
+72,신분증을 집에 두고 왔어요.,I left my ID card at home.
+73,제 책 반납해 주세요.,Please return my book. (to the library)
+74,정밀검사를 받다,to get a complete medical checkup
+75,소풍,picnic (소)
+76,나머지는 제가 할게요.,I'll do the rest/the remainder.
+77,번역해 주세요.,Please translate this.
+78,저 주시는 거예요?,Are you giving (it) to me?
+79,잠깐 편의점 좀 갔다 올게요.,I go (and come back) to the convenience store briefly.
+80,우유 좀 사다 줄래요?,Can you buy me some milk?
+81,사다 드릴까요?,May I buy you ... ? (드리다 give)
+82,진단서를 받다,to receive a medical certificate
+83,전화로 통화 중이에요.,I’m on the phone. (I’m in the middle of a call)
+84,남자 친구를 데리고 가세요.,Take (Go with/Bring) your boyfriend with you. (데리고 가다)
+85,제 실수가 아닌데요.,It wasn’t my fault/mistake. (데요)
+86,우선,first of all
+87,사진을 찍어 두다,"to take photos (for some purpose, like evidence/insurance)"
+88,길에서 폭행당했어요.,I was beaten/attacked on the street.
+89,손등을 찍혔어요.,My back of my hand got smashed/stabbed. (찍히다)
+90,범인은 잡혔대요?,Did they catch the criminal? (대요)
+91,주위에서 일어나는 사건,incidents that have come in the area (주위)
+92,빗길에,"a road slippery with rain, a road in the rain (에)"
+93,2명 사망,2 deaths (명)
+94,인근 병원,a nearby hospital
+95,발생한 사고,the accident that occurred
+96,폭행 혐의로 체포되다,to be arrested on charges of assault
+97,어젯밤,last night (젯)
+98,인하다,"be caused by, arise from"
+99,사기로 인한 피해액,damages caused by a fraud
+100,퇴원하다,to be discharged from the hospital
+101,자유롭다,to be free (like a free person)
+102,나도 이제는 자유롭게 살고 싶어요.,"I, too, want to live freely now. (나, 싶다)"
+103,현장 주변,at the scene (현 + 주)
+104,제체,"congested, stagnated"
+105,정체를 빚고 있다,"for (traffic) to be congested, backed-up, jammed"
+106,부당한 대우를 받다,to receive unfair treatment
+107,임금 체불,overdue wages
+108,외국인 근로자 보호,foreign worker protection
+109,사고가 나다,for there to be an accident (whose fault is unknown 나다)
+0,출생률,birth rate
+1,태어나다,to be born (spoken)
+2,출생하다,to be born (formal;official docs)
+3,자라다,"to grow up, be raised"
+4,성장하다,"to grow up, develop"
+5,고령화,aging
+6,나이를 먹다,to grow old
+7,늙다,to age
+8,사망률,death rate
+9,죽다,to die (spoken)
+10,사망하다,"to die (formal, official docs)"
+11,출산율,"fertility rate (or maybe birthrate, lol)"
+12,낳다,to give birth to (spoken)
+13,출산하다,"to give birth to (formal, official docs)"
+14,키우다,to raise
+15,양육하다,to nurture
+16,북한,North Korea
+17,앙골라,Angola
+18,잠비아,Zambia
+19,높다,"to be high, tall"
+20,낮다,"to be low, flat"
+21,늘다,to increase (spoken)
+22,줄다,to decrease (spoken)
+23,증가하다,to increase (formal)
+24,감소하다,to decrease (formal)
+25,유아,toddler
+26,저출산,low birth rate
+27,진입하다,to enter into something
+28,장려정책을 펼치고 있다,to have policies to promote
+29,혜택을 받다,to benefit from something
+30,상황,"circumstance, situation,"
+31,시행되다,to take effect
+32,장려금,government incentive money
+33,지자체,local government
+34,금액,amount
+35,아동,child
+36,청소년,youth/teenager
+37,성인,adult
+38,청년층,younger generation
+39,장년층,older generation
+40,노년층,elderly
+41,국가별,regional
+42,심각하다,"to be severe, serious"
+43,부담스럽다,to be burdened
+44,맞벌이,dual-income
+45,지원하다,to support
+46,양육,"nurture, raise"
+47,재정적,financial
+48,개인주의,individualism
+49,확산되다,"to proliferate, spread"
+50,신혼부부 전세 자금 지원,newlywed housing deposit subsidy
+51,신혼부부 주택특별 공급,newlywed special housing subsidy
+52,아이돌봄 서비스 지원,daycare service subsidy
+53,"본인, 배우자 출산 휴가","maternity, paternity leave"
+54,출산 장려금,childbirth grant
+55,"보육료, 유아학비 지원",childcare education subsidy
+56,가정양육수당 지원,low-income family subsidy
+57,영유아 건강검진 지원,Infant and toddler health check-up subsidy
+58,방과후 보육료 지원,afterschool program subsidy
+59,다문화가정 보육교육비 지원,multicultural family education subsidy
+60,양육비,child rearing expenses
+61,평균수명,average life expectancy
+62,유년인구,population of children
+63,개교,"opening, founding (of a school)"
+64,노약자,elderly or weak people
+65,불치병,incurable disease
+66,신약,new medicine
+67,공익광고,public service advertisement
+68,출산 장려 정책,policy to promote childbirth
+69,에 불과하다,"to be just/only something (looking down, ex. Its just $5)"
+70,부양하다,to fully support a person (financially)
+71,얽매이다,"to be restricted, constrained"
+72,최저 수준,lowest level
+73,주요국,leading/major country
+74,출산자녀 수,number of children born
+75,통계청,National Statistical Office
+76,천국인구추계,population projection/estimation (추계)
+77,전체 거주자 가운데 외국인 비율,"Of the total residents, the percentage of foreigners"
+78,거주자,resident (거)
+79,비율,percentage
+80,차이가 있다,to have a difference
+81,국가별,country-by-country
+82,유년인구,children's population
+83,합계,"sum, total, aggregate"
+84,추이,"development (of), progress"
+85,출산율 및 출생아수,fertility rate as well as number of births per woman
+86,고령화의 추이 및 전망,developments in aging as well as the future outlook
+87,전망,view (a fine view); prospect/outlook (a look at the future)
+88,의학 기술이 발달하다,for medical technology to develop
+89,일반화하다,to generalize; popularize
+90,회사를 경영하다,to manage a company/business 경
+91,신약이 개발되다,for a new drug to be developed
+92,불치병을 치료하다,to treat an incurable disease
+93,급격히 증가하다,to rapidly increase (증)
+94,노인 인구,elderly population (인)
+95,약속 시간이 지나다,to be past the appointment time
+96,가게를 가지고 있다,to have/own a shop (가지)
+97,약속 시간을 잊어버리다,to forget the appointment time
+98,한국에 거주하다,to reside in Korea
+99,공짜로 얻다,to get something for free (as a gift)
+100,생산가능인구,population that is potentially able to produce (children)
+101,고령사회로 진입하다,to enter into an aged society
+102,노인을 부양하다,to support the elderly
+103,인구구성 불균형 문제,composition of the population imbalance issue
+104,구성,composition
+105,불균형,imbalance
+106,수가 계속 증가하다,to continue to increase in number
+107,도입,introduction
+108,사회 적응 제도,social adaptation system
+109,해결 방법,a solution (a method of resolving some problem)
+110,장려,"encourage, promote"
+111,정책,a policy
+112,일자리를 만든다,to create jobs
+113,육아를 담당하다,to be in charge of infant care
+114,담당하다,to be in charge of; take responsibility of
+115,루이스 기자가 취재했습니다,Reporter Louise is covering (the story).
+116,시급히,at once; immediately
+117,풀어 야 할 과제,an assignment that we have to solve
+118,서울 도심,downtown Seoul
+119,2학년이 두 학급,second grade has two classes (of students)
+120,20명에 불과하다,to be nothing more than 20 people
+121,전교생,the whole school (population)
+122,강당,"lecture hall, assembly hall"
+123,빼곡히 메우다,to be packed/crammed together (like sardines in a can)
+124,메우다,"to crowd, pack, cram"
+125,노인 복지관,senior center
+126,당시,at that time; in those days
+127,20세 미만,less than 20 years old
+128,65세 이상,more than 65 years old
+129,앞지르다,"to surpass, overtake, pass"
+130,이르다,to arrive (at/in) get (to)
+131,4배,4 times (something); quadruple
+132,결국,after all (sentence starter)
+133,한편,"meanwhile, on the other hand (sentence starter)"
+134,즉,in other words (sentence starter)
+135,숙련되다,to be skilled at something
+136,노동력,"labor, workforce"
+137,생산 현장에서 적극 활용하다,to be actively utilized on the shop floor
+138,현장,"scene, place, spot (like of an accident or some working place)"
+139,적극적,"active (actively involved), aggressive, enthusiastic"
+140,활용하다,"to utilize, to put something to good use"
+141,대책,"a measure (countermeasure, to combat some problem)"
+142,연계하다,"to tie, connect, link with smthg"
+143,동시,at the same time; concurrently
+144,가방에 넣는 척하다,to pretend to put it into the bag
+145,돌봐주다,to look after (someone)
+146,배가 닿는 항구,a ship that reaches port
+147,이들이 젊은 층의 자녀를,this class of young people's children
+148,쓰레기를 내 놓는 사람,the person who takes out the trash
+149,펼치다,to unfold; unroll
+150,적다,to be few; small
+151,조사하다,to investigate/look into (조)
+152,자녀에 얽매인 삶이 싫다,to hate having one's life shackled to a child's (to be tied down by a child)
+153,응답하다,"to respond, reply, answer"
+154,개인주의가 확산되다,for individualism to spread
+155,살펴보다,"to examine, search, check"
+156,맘 놓고 하다,to put one's mind at ease
+157,아끼다,"to save, economize, be thrifty"
+158,혜택을 선택하다,to select benefits
+159,금액이 다르게 책정되다,for the set price (amount) to vary
+160,가격을 책정하다,to set/fix the price
+161,셋째,third
+162,넷째,fourth
+163,출산 장려금을 지급하다,to pay a childbirth grant
+164,지급하다,give (sb sth / sth to sb) pay (out)
+165,보육,childcare; daycare
+166,본인과 배우자,you and your spouse
+167,아이돌봄,taking care of a child (childcare) 명사
+168,잔업수당을 받다,to get paid for overtime work (receive overtime benefits)
+0,신문사,newspaper company
+1,기사,article (newspaper)
+2,머리기사,"lead story/headline, cover story (headline)"
+3,광고,advertisement
+4,사설,editorial
+5,정치면,political column
+6,경제면,business column
+7,사회면,social column
+8,문화면,culture column
+9,스포츠면,sports column
+10,국제면,international news column
+11,제호,"a title (magazine, book)"
+12,1면 사진,front picture
+13,지면,paper (magazine)
+14,사진설명문,caption
+15,주요 기사 안내,main/major news info (summary box found on the front page)
+16,공중파 방송,public TV broadcast
+17,유선 방송,cable broadcast
+18,인터넷 방송,internet broadcast
+19,기자,reporter
+20,특파원,correspondent
+21,취재하다,to gather/cover something
+22,아나운서,announcer
+23,보도하다,to report (media)
+24,제작하다,to produce
+25,프로듀서,producer
+26,채널,channel
+27,시청자,viewer
+28,채널을 돌리다,to change the channel
+29,시청하다,to watch TV (news)
+30,프로그램,television program
+31,생방송,live broadcast
+32,속보,breaking news
+33,재방송,rerun
+34,뉴스,news
+35,시사 프로그램,current affairs program
+36,특집방송,feature broadcast
+37,드라마,drama
+38,스포츠 중계방송,sports broadcasting
+39,예능 프로그램,entertainment program
+40,수출되다,to be exported
+41,판권,copyright
+42,시나리오,scenario
+43,쏠리다,to focus
+44,색다르다,to be unconventional (positive way)/to be exotic
+45,형식,a type/form
+46,방영되다,to be broadcast
+47,소통하다,to communicate
+48,거주하다,to inhabit
+49,구성원,member
+50,운영되다,to become managed/operated
+51,이주민,an immigrant
+52,교육 방송,educational broadcast
+53,친숙하다,to be familiar (with someone/thing 친숙하게 생각하다)
+54,구사하다,to have a command (of something)
+55,혼혈인,mixed blood/race person
+56,호의적,favorable
+57,방송 출연,appearance on TV
+58,면,a newspaper column
+59,정보 전달하다,to deliver information
+60,지상파 방송,public broadcast (지)
+61,뿐만 아니라,besides (뿐)
+62,동창회,reunion party
+63,잡지를 구독하다,to subscribe to a magazine
+64,며칠 전부터,for the last few days
+65,꾸준히,"steadily, consistently"
+66,귀화를 하다,to be naturalized (Korean citizenship)
+67,연예인들,celebrities
+68,다운 모습,having a favorable appearance
+69,답다,to be like (한국인다운 모습)
+70,남자답다,to be manly (a man who fulfills his role as a man)
+71,신선한 웃음,"fresh humor (new, refreshing humor)"
+72,호의적,"kind, friendly, favorable (towards)"
+73,등장하다,"to appear, make an appearance, come on (연극)"
+74,거침없는 사람,"an outspoken, feisty person (driving forward past obstacles)"
+75,입담,skill at talking
+76,거침없다,"to be without hesitation, reserve, shyness, (effortlessly)"
+77,발휘하다,"to demonstrate, show (one’s abilities)"
+78,약방에 감초,"an indispensable thing/person (유재석, )"
+79,감초,licorice (was used to sweeten medicine)
+80,활약하다,to play an active part in
+81,흔하다,"to be common, commonplace"
+82,유창하다,"to be fluent, eloquent"
+83,시기,opportunity/chance/period of time (시간 기간)
+84,구사하다,to have a command of
+85,연예계,the entertainment business
+86,진출하다,"to push to the front, make a foray towards"
+87,사로잡다,"to captivate, fascinate (시청자들)"
+88,대체로,"generally, most, overall"
+89,영향,"effect (on), influence (on)"
+90,더빙,dubbing
+91,빼놓다,"to leave something, somebody out"
+0,먹이다,to feed 먹다 causative N을/를
+1,녹이다,to melt 녹다 causative N을/를
+2,죽이다,to kill  죽다 (to die) causative N을/를
+3,내다,to take out 나다(to come out) causative N을/를
+4,높이다,to raise 높다(to be high) causative N을/를
+5,줄이다,to reduce 줄다(to decrease) causative N을/를
+6,속이다,to cheat 속다(to be cheated) causative N을/를
+7,끓이다,to boil s.t. 끓다(to boil) causative N을/를
+8,눕히다,to lay s.t. down 눕다(to lie down) causative N을/를
+9,넓히다,to widen 넓다 causative N을/를
+10,앉히다,to seat 앉다 causative N을/를
+11,읽히다,to make read 읽다 causative N을/를
+12,입히다,to dress s.o. 입다 causative N을/를
+13,익히다,to cook 익다 (to be cooked) causative N을/를
+14,식히다,to cool s.t. 식다 (to cool) causative N을/를
+15,알리다,to make known 알다 causative N을/를
+16,얼리다,to freeze 얼다(to be frozen) causative N을/를
+17,울리다,to make s.o. cry 울다 causative N을/를
+18,살리다,to save someone's life 살다(to live) causative N을/를
+19,돌리다,to turn s.t. 돌다 causative N을/를
+20,늘리다,to increase 늘다 causative N을/를
+21,말리다,to dry s.t. 마르다 causative N을/를
+22,웃기다,to make laught 웃다 causative N을/를
+23,맡기다,to entrust 맡다(to keep) causative N을/를
+24,벗기다,to undress s.o. 벗다(to take off) causative N을/를
+25,신기다,to put shoes on s.o.신다(to wear shoes) causative N을/를
+26,숨기다,to hide s.t. 숨다(to be in hiding) causative N을/를
+27,씻기다,to let wash 씻다 causative N을/를
+28,재우다,to put to sleep 자다 causative N을/를
+29,깨우다,to wake s.o. 깨다(to be awake) causative N을/를
+30,태우다,to burn s.t. 타다(to burn) causative N을/를
+31,세우다,to stop s.t. 서다(to be stopped) causative N을/를
+32,비우다,to empty 비다(to be empty) causative N을/를
+33,돋구다,to enhance 돋다(to rise) causative N을/를
+34,낮추다,to lower 낮다 (to be low) causatives N을/를
+35,늦추다,"to extend, delay, postpone 늦다(to be late) causative N을/를"
+36,맞추다,to match 맞다(to fit) causative N을/를
+0,정,"feelings of affection, compassion, sympathy, attachment to someone or something"
+1,정을 주다,to give Jeong
+2,정을 느끼다,to feel Jeong (from someone else)
+3,정이 많다,"to have a lot of Jeong, to be warmhearted"
+4,정이 들다,to become attached to (having affection for each other)
+5,정이 넘치다,to be overflowing with Jeong (compassion)
+6,정이 없다,to not have Jeong (compassion)
+7,정이 떨어지다,"to lose Jeong, cut attachment with someone (begin to dislike)"
+8,흥,"an intrinsic sense of joy, pleasure"
+9,흥을 내다,"to cause someone to feel joy, excitement"
+10,흥이 많다,"to have a lot of energy, excitement"
+11,흥이 나다,"to feel joy, excitement"
+12,개방적,"open (liberal, open-minded)"
+13,진보적,progressive
+14,낙천적,optimistic
+15,폐쇄적,"closed (cliquish, narrow-minded)"
+16,보수적,conservative
+17,비관적,pessimistic
+18,혈연을 중시하다,to place emphasis on blood ties
+19,우리 의식을 느끼다,to feel a sense of community
+20,온정주의가 있다,to have sympathy or bias for someone (neg)
+21,서열을 중시하다,to place emphasis on rank
+22,체면을 중시하다,to place emphasis on reputation
+23,스치스런,shameful
+24,가는 정이 있어야 오는정이 있다,"to give and take, scratch each other's backs"
+25,미운 정 고운 정이 들다,to go through good times and bad times together
+26,정들자 이별,just when we started becoming familiar we had to say goodbye
+27,독특하다,to be unique
+28,관련되다,"to be connected, related"
+29,표현,expression (like 우리)
+30,일상생활,routine life
+31,쓰이다,to be used
+32,베푼다,to graciously give something
+33,일상적인,routine
+34,방식이다,the way of...
+35,이러하다,to be like this
+36,지나치다,to be excessive
+37,간섭,interference
+38,사고방식,way of thinking
+39,사물놀이,traditional percussion quartet
+40,마당놀이,traditional outdoor performances
+41,어깨춤,shoulder dancing
+42,배려,"consideration, regard (feelings toward someone)"
+43,사양하다,to decline
+44,거절하다,to refuse
+45,챙겨주다,to care for
+46,열광,enthusiasm
+47,발현,"revelation, manifestation"
+48,화해,reconcilation
+49,사고방식을 표현하다,to express one's way of thinking
+50,정서,"emotion, feeling, (formal) sentiment"
+51,내려오다,to be passed down (문화)
+52,예로부터,from ancient times
+53,다소,"somewhat, a little"
+54,이별,"farewell, parting"
+55,이별을 고하다,to part from
+56,전 세계,the whole world
+57,통하다,"to go, pass, move through (ventilate)"
+58,민족,"people, ethnic group"
+59,어깨춤을 들썩이다,"for one’s shoulders to dance in excitement (jiggle, heave 동사)"
+60,참다,"to suppress, stifle"
+61,저렇게,"so, in that way"
+62,시간을 내다,to make/arrange time for
+63,눈물을 참다,to hold back tears
+64,화를 참다,to hold in (back) one’s anger
+65,감동적,"moving, touching"
+66,기운 내세요. 힘을 내세요.,Cheer up. Pull yourself together.
+67,미워하다,"to hate, dislike (미)"
+68,워낙,"so, very"
+69,피는 물보다 진하다,blood is thicker than water
+70,떠오르다,"to rise up, come up, emerge"
+71,나누다,"to divide, split, share"
+72,얹다,"put on, place (sth on sth)"
+73,얹어주다,to throw in for free
+74,덤으로 더 드릴게요.,I’ll throw in a more for free.
+75,솜씨,"skill, ability (dexterity)"
+76,깊어지다,to become deeper -  deeper water/relationship
+77,우울하다,"to be depressed, gloomy"
+78,환기,ventilation
+79,활짝,wide (open)
+80,집까지 같이 가주다,to show someone home
+81,달라고 부탁하다,to ask (a favor 달라)
+82,미리 사 두었다,to have bought in advance
+83,열광시키다,to enfever/thrill (the viewers)
+84,세계로 뻗어나다,to spread throughout the world
+85,장벽을 넘다,to go beyond a barrier
+0,변화,"change/alteration 환경, 모습, 상황"
+1,대가족,extended family
+2,핵가족,nuclear family
+3,1인 가구,single-person household
+4,다문화 가족,multi-cultural family
+5,한부모 가족,single parent family
+6,입양 가족,adoptive family
+7,독신으로 혼자 살다,to be single and living alone (living like a (male) spinster)
+8,주말부부로 살다,to be a long distance couple (live together on weekends)
+9,기러기부부로 살다,"to live with one parent abroad (lit. ""goose parent"")"
+10,아이를 입양하다,to adopt a child
+11,효도하다,to be filial (devoted) to one's parents
+12,부모님을 모시다,to support one's parents
+13,부모님께 복종하다,to obey one's parents
+14,가부장적이다,to be patriarchal
+15,혈연을 중시하다,to place emphasis on blood ties
+16,아들을 선호하다,to prefer sons
+17,여자가 가사를 전담하다,the woman is responsible for all housework
+18,분가하다,to move out of one's parent's house (after marriage)
+19,독립하다,to be independent
+20,개인 생활을 중시하다,to place emphasis on one's personal life
+21,아들과 딸을 차별하지 않다,to not discriminate between sons and daughters
+22,부부가 맞벌이를 하다,to be a couple that has a dual income
+23,부부가 가사를 분담하다,to split the housework
+24,50%가 맞벌이를 하다,50% of households have a dual income
+25,소중하게,preciously
+26,20대 초반이다,to be in one's early twenties (대=generation)
+27,형태,form
+28,가장,head of the household
+29,이어 가다,to continue
+30,이에 반해,contrarily (이에)
+31,역할,role
+32,달라지다,to alter/shift (달)
+33,복종하다,to obey
+34,가족 관련 기념일,family related anniversary days
+35,기념일,anniversary day
+36,어린이날,Children's day (5월5일)
+37,차별,discrimination
+38,법정 공휴일,national holiday
+39,어버이날,Parent's day (5월8일)
+40,카네이션,carnation (flower)
+41,입양의 날,Adoption day (5월11일)
+42,입양문화,culture of adoption
+43,활성화,vitalization
+44,부부의 날,Couple's day (5월21일)
+45,깨닫다,to realize
+46,둘이 하나가 된다는 뜻에서 21일로 정해졌다,They picked the 21st to represent 2 becoming 1
+47,현대,modern times
+48,정시에 퇴근하다,to leave work right on time
+49,권장하다,to encourage
+50,몸이 건전하다,to have a sound (healthy) body
+51,주중 하루라도,even most days of the week
+52,전업 남편,house-husband
+53,전업 주부,house-wife
+54,조금 쌀쌀해요.,I feel a little cold. (chilly)
+55,분위기,"mood, atmosphere"
+56,주변,surroundings
+57,아이를 낳다,to give birth to a baby
+58,독신자,a bachelor/spinster (they will never get married)
+59,자유,freedom
+60,친척,"relative, relation (extended family)"
+61,분담했으면 좋겠어요.,I hope we can share (the task/work).
+62,여러가지,various(가지)
+63,진짜 웃겨요.,(It's) really funny.
+64,전혀 안웃겨요.,That's not funny at all.
+65,전혀,"completely, absolutely, not at all"
+66,마찬가지다,to be the same (마찬)
+67,책임,responsibility/duty
+68,결정하다,to determine/decide (결)
+69,전담하다,to take charge of
+70,선호하다,to prefer
+71,늘어나다,"to  grow, increase, rise, mount (up)"
+72,작고 실용적인 집,small but practical house
+73,젊은 사람들,young people
+74,전 독립해서 혼자 살고 있어요.,I'm independent and live alone.
+75,효자네요.,He's really a devoted son.
+76,대부분이고요.,It's the most part. (of people who think one way)
+77,소중함을 깨달았어요.,I realized it's importance.
+78,정하다,to decide (no 결)
+79,정해지다,"to be set, fixed, arranged"
+80,시간이 부족한 거예요.,"I'm short of time. (I don't have enough time, lacking)"
+81,부족하다,"to lack, to be short of something"
+82,현대인,a modern person/man
+83,책임지다,to become responsible for (책)
+84,일을 결정하고 가사를 분담하다,to determine the task and share the housework
+85,역할이 커지다,for one's role to be extended/become larger
+86,분위기가 없어지다,for the mood/atmosphere to be gone (of a certain way of thinking/feeling)
+87,분가 시키다,to marry off and move out a child (son/daughter)
+0,호랑이도 제 말하면 온다,to speak of the devil (when you talk about the tiger he will come)
+1,식은 죽 먹기,a piece of cake (eating cold porridge)
+2,누워서 떡 먹기,easy as pie (eating rice cake while lying down)
+3,하늘의 별 따기,to be almost impossible (choosing a star from the sky)
+4,세 살 버릇 여든까지 간다,old habits die hard (habits learned at age 3 will continue until age 80)
+5,싼게 비지떡,to get what you pay for (cheap rice cake is low quality)
+6,떡 줄 사람은 생각도 않는데 김칫국부터 마신다,to not count their chickens before they hatch (They have no intention of giving you rice cake but you already drank the kimchi soup which is what people drink at the start of a meal)
+7,배보다 배꼽이 더 크다,more trouble than it's worth (your belly button is bigger than your belly)
+8,입에 쓴 약이 몸에 좋다,"no pain, no gain (the medicine that tastes bitter is good for your health)"
+0,두손으로 드리다,to give something with both hands (shows respect)
+1,두손으로 받다,to receive something with both hands (shows respect)
+2,고개를 돌리고 술을 마시다,to turn one's head away and drink alcohol (shows respect; turn your head away from the most senior person)
+3,허리를 굽혀 인사하다,to greet with a deep bow (at least 45 degrees)
+4,높임말을 사용하다,to use honorifics (in speech)
+5,무릎을 끓고 앉다,to sit on one's knees (legs folded under)
+6,책상다리를 하고 앉다,to sit cross-legged
+7,어른이 숟가락을 드신 후에 밥을 먹다,to start eating after the elder person has picked up their spoon (shows respect)
+8,식탁에 밥그릇을 놓고 먹다,to put the rice bowl on the table and eat (not holding it in your hands)
+9,버스나 지하철에서 자리를 양보하다,to give up one's seat on the bus or subway
+10,어른 앞에서 담배를 피우지 않다,to not smoke in front of one's elders
+11,낯설다,to be unfamiliar
+12,어려움을 겪다,to experience hardship (겪다)
+13,실수를 하다,to make a mistake
+14,적응이 안 되다,to not be accustomed to
+15,실례가 되다,to be rude
+16,오해하다,to misunderstand
+17,착각하다,"to be mixed up, delude oneself, mistake (A for B)"
+18,익숙하다,"to be familiar, used to"
+19,적응하다,to adjust to
+20,습관이 되다,to become habitual
+21,어른 앞에서 다리를 꼬고 앉다,to sit beside elders with one's legs crossed (This is rude.)
+22,다른 사람에게 손가락질을 하다,to point your finger at others (This is rude.)
+23,윗사람에게 물건을 한 손으로 드리다,to give something to one's senior with only one hand (This is rude.)
+24,적응기,period of adjustment/adaptation
+25,인사말,greeting (words)
+26,섭섭하다,to be disappointed/sorry
+27,다정하다,to be kind/friendly (정)
+28,조의금,condolence money (for funerals)
+29,빈소,funeral parlor
+30,위로,consolation/comfort
+31,부의,funeral gifts (money)
+32,문화 적응,acculturation (adapting to a culture)
+33,시차 적응이 잘 안 되다,I'm having trouble getting over the jet lag. (시차)
+34,문화 차이 말하다,to speak about cultural differences
+35,우리의 행동 중 무엇이 널 화나게 했어나요?,What did I do to make you angry? (행동)
+36,요즘 영어는 생활속에서 필수이다.,"These days, English is neccessary in life. (생활속에서)"
+37,제가 착각했어요.,I got mixed up. (제가)
+38,허리를 굽혀 인사하는 것에 익숙해졌어요.,I've gotten used to greeting others by bowing.
+39,굽히다,"to bend, stoop down"
+40,예쁠수록,"the prettier it is, the more"
+41,이상할수록,"the stranger it is, the more"
+42,편안하다,"to be peaceful, calm, restful"
+43,화면,"screen, monitor"
+44,첫인상,first impression
+45,갈수록,"more and more so in time, as time goes by, day by day"
+46,많으면 많을수록 좋아요.,The more the better. ~with (으)면 you can add before 수록 but it can be dropped
+47,어릴수록,"the younger they are, the more..."
+48,한두 단락,one or two paragraphs
+49,금방,"soon, shortly, any minute"
+50,그렇게 하지 않나 봐요?,It seems like it's not like that?
+51,구급차가 서 있네요.,There's an ambulance (standing) there. (네요)
+52,어디 편찮으세요?,Are you ill/unwell? (formal)
+0,정보를 검색하다,to search for information
+1,이메일을 보내다,to send an email
+2,인터넷 게임을 하다,to play internet games
+3,블로그를 하다,to make a blog
+4,자료를 올리다,to upload data
+5,영화를 내려 받다,to download a movie
+6,채팅하다,to chat
+7,인터넷 뱅킹을 하다,to do internet banking
+8,인터넷 쇼핑을 하다,to go internet shopping
+9,중독이 되다,to become addicted
+10,부정확한 자료가 있다,to have inaccurate information
+11,유해한 정보가 많다,to have a lot of harmful information
+12,개인 정보가 유출되다,to leak personal information
+13,시간을 낭비하다,to waste time
+14,폭력적인 게임이 많다,to have many violent games
+15,눈이 나빠지다,one's eyesight is getting worse
+16,건강을 해지다,to damage one's health
+17,장바구니,shopping basket
+18,상품명,product name
+19,수량,amount/quantity
+20,선택,choice/selection
+21,변경,"change/alteration 계획, 주소, 시험 날짜"
+22,삭제,elimination/deletion
+23,주문하기,ordering
+24,상품 가격,price of goods(상/가)
+25,포인트 할인,discount points
+26,SNS,social network service
+27,배송비,delivery cost (비)
+28,배송료,delivery fee (료)
+29,총 결제 금액,the total amount (of something)
+30,결제 방법,method of payment
+31,신용 카드,credit card
+32,무통장 입금,direct deposit
+33,계좌이체,account transfer
+34,휴대폰 결제,cellphone payment service
+35,결제하기,paying
+36,화상 전화,video call
+37,올라오다,to come up
+38,발견하다,to detect
+39,풍경,scenery
+40,소식,news
+41,대표적인,a representative (a person)
+42,포털 사이트,search portal
+43,제공하다,to serve (to provide: 정보를 제공하다)
+44,지식in 서비스,Q&A service
+45,동호회인,club member 동호
+46,강점이다,strongest point
+47,최초,first
+48,젊은 세대,young(er) generation
+49,할인,discount
+50,일시불,lump sum payment
+51,주문완료,order completion
+52,할부기간,"installment period (payment, no space)"
+53,카드구분,card classification (type)
+54,음식을 골고루 먹다,to eat a well balanced diet/meals
+55,인터넷 후기,internet reviews
+56,학교 생활의 장단점,the pros and cons of your school life
+57,버릇이 되다,to become a bad habit
+58,유익한 사이트,a helpful/good website
+59,유해한 사이트,a harmful website
+60,덜 공부해요.,I study less.
+61,편식하다,to only eating one thing (imbalanced diet)
+62,편애하다,to only like one person (favoritism)
+63,편도,one way (ticket)
+64,술에 중독됐어요.,(He's) addicted to alcohol.
+65,이해 안 됐어요.,I don't have understanding of (something).
+66,본체,harddrive
+67,전원,power (power on)
+68,은행일을 보다,to take care of/do stuff at the bank
+69,버스를 놓치다,to miss the bus
+70,돈을 빼다,to take out money (from the bank)
+71,송금하다,to wire money
+72,입금하다,to deposit money
+73,출금하다,to withdraw money
+74,일을 보러 가요.,I'm going to take care of stuff (business/errands).
+75,사기를 당하다,"to be swindled, conned, scammed"
+76,정확하다,"to be accurate, correct, exact"
+77,"17,000원에 팔고 있어요.","It's selling for 17,000 won."
+78,부정확하다,"to be inaccurate, incorrect"
+79,신용카드로 계산할게요.,I'll pay by credit card.
+80,이틀만,just two days
+0,눈에 안치다,to not meet one's expectations
+1,눈이 빠지도록 기다리다,to eagerly wait for something
+2,한눈을 팔다,to not focus on something
+3,눈을 붙이다,to get some sleep; to take a nap (not used for sleeping at night)
+4,입이 짧다,to only eat a small amount
+5,얼굴이 반쪽이 되다,to look very tired (like from sickness or pain)
+6,코 묻은 돈,money with snot on it (children's money)
+7,콧대를 꺾다,to win (said to your rival)/ to break someone's ego/arrogrance
+8,등을 돌리다,to turn your back on someone (betrayal or exclusion)
+9,머리가 잘 돌아가다,"to be smart, to have the brain's gears turn well"
+10,귀에 못이 박히다,"to drill into someone's head, hearing something too many time (scolding)"
+11,배 꼽이 빠지다,to laugh too much
+0,코미디,comedy
+1,로맨틱 코미디,romantic comedy
+2,멜로 영화,melodrama
+3,액션 영화,action movie
+4,공포 영화,horror movie
+5,전쟁 영화,war movie
+6,감독,director
+7,상영 시간,show time
+8,관람 등급,age restriction (on films)
+9,줄거리,plot
+10,주연,lead role
+11,조연,supporting role
+12,표를 예매하다,to reserve a ticket
+13,개봉,premiere
+14,장르,genre
+15,출연,appearance (make an appearance in a show)
+16,관객 평,audience reviews
+17,일일 연속극,daily soap opera
+18,미니 시리즈,mini series
+19,주말 드라마,weekend drama
+20,시청률이 높다,to get high ratings
+21,연기력이 뛰어나다,the performance is outstanding
+22,배경음악이 아름답다,the background music is beautiful
+23,인기가 많다,to be very popular
+24,화제가 되다,to make headlines
+25,배우가 멋있다,the actor is wonderful
+26,줄거리가 흥미롭다,the plot is interesting
+27,영상미가 뛰어나다,the picture quality is excellent
+28,주인공,main character
+29,반대하다,"to do the opposite, to oppose"
+30,염려하다,to be anxious
+31,음력,lunar calendar
+32,대통령 선거,presidential election
+33,범죄자,criminal
+34,시사회,preview
+35,관객,audience
+36,애타게,impatiently
+37,작품,work of art
+38,고개를 끄덕이다,to nod one's head
+39,한류,Hallyu 'the Korean wave'
+40,방영하다,to air/televise (영)
+41,대표적이다,to be a representative (이다)
+42,한산해지다,to become dull
+43,열풍,fad
+44,중심 역하다,to play an important role (in some activity/show)
+45,비롯하다,"to start a thing for the first time, originate"
+46,공감하다,to sympathize
+47,보편적이다,to be universal
+48,담고 있다,to contain
+49,가치가 있다,"to be valuable/worthy (to be of use, to be worth doing) used like an adjective"
+50,보편적인 진리,a universal truth
+51,본격적인 장마철이 시작됐어요.,The rainy season has officially started.
+52,봉사하는 것은 가치가 있어요.,Volunteering is (really) worth doing.
+53,전혀 가치가 없어요.,It's really a dead loss. (it's not worth it at all)
+54,그렇기는 생각해요.,I agree with that. / I think the same way on that.
+55,매력이 있다,"to be attractive, have appeal"
+56,해외,abroad
+57,국내,domestic
+58,국제,international
+59,중독성이 있다,to have addictive qualities
+60,게다가,additionally
+0,체류 자격을 변경하다,to change one's visa status
+1,귀화 시험을 보다,to take a test to change one's nationality
+2,요건을 갖추다,to satisfy the necessary conditions
+3,절차를 밟다,to go through formalities (procedures)
+4,심사에 통과하다,to pass examination/screening (심)
+5,영주권을 받다,to receive permanent residence
+6,국적을 취득하다,to acquire citizenship
+7,국적을 변경하다,to change one's nationality
+8,귀화허가 신청서를 제출하다,to submit an application for permission of naturalization
+9,서류 심사를 통과하다,to pass a document screening process
+10,면접 심사를 받다,to have an interview screening
+11,귀화 허가통지서를 받다,to receive a permission of naturalization document
+12,가족관계등록부를 신청하다,to apply for a family register
+13,외국 국적을 포기하다,to renounce one's foreign citizenship
+14,주민등록증을 발급받다,to receive a resident card
+15,외국인등록증을 반납하다,to turn in (return) one's alien registration card
+16,가족관계등록신고,registering a family status change registration form
+17,외국국적포기신고,registering a foreign citizenship renouncement
+18,외국국적포기확인,checking a foreign citizenship renouncement
+19,주민등록신고,registering a resident form
+20,등록기준지시구청,district office  you are registered with
+21,읍사무소,countryside big district office
+22,면사무소,countryside small district office
+23,본국대사관,embassy of one's home country
+24,출입국관리사무소,immigration office
+25,주민센터,community service center
+26,고충,"difficulty,problem"
+27,의사소통에 어려움이 있다,to have difficulties in communication
+28,비자 연장을 해야 하다,to have to extend/renew one's visa
+29,국적이 없어서 불이익을 당하다,to be stateless and therefore disadvantaged
+30,피해를 받다,to receive damage
+31,체류 및 국적취득,residency and citizenship
+32,목적,purpose/objective
+33,영주 F5,permanent resident visa
+34,자격 취득,qualification 취
+35,날로,day by day
+36,재입국허가,re-entry permission
+37,주소지,address
+38,지방선거,local election
+39,건전하다,"to be sound,healthy"
+40,자립하다,to be self-reliant
+41,법무부장관,the Minister of Justice
+42,인정하다,"to admit into,accept into"
+43,소정의,small amount of
+44,이수하다,to complete (a course of study)
+45,이민정책,immigration policy
+46,방향,direction
+47,제도,rules/regulations (system)
+48,과정,process
+49,심사,screening
+50,면제받다,to receive an exemption
+51,귀화,changing one's nationality
+52,국적회복,reinstatement of citizenship
+53,단기체류 외국인,transient/short-term foreigners
+54,거소신고,reporting one's residence
+55,기출문제,test question (that came from a previous exam version)
+56,해당,applicable thing
+57,공무원,public official
+58,차별 대우,discriminatory treatment
+59,수수료,"charge,fee"
+60,모국어,native language
+61,허가를 받다,to get permission
+62,취득하다,to acquire
+63,변경하다,"to alter,switch (경)"
+64,제출하다,to submit
+65,반납하다,to return (something)
+66,견디다,"to endure,tolerate"
+67,적응하다,to adjust to
+68,인권 침해,human rights violation
+69,가정 불화,"family feud,trouble"
+70,임금 체불,back pay (wages)
+71,비자 변경,visa change
+72,고충 상담,consultation
+73,기출문제를 풀다,to solve sample test problems
+74,부여,granting/giving
+75,각,each/every
+76,통지서,written notice
+77,기준,standard/criteria
+78,참고 견디다,to keep a stiff upper lip (grin and bear it)
+79,굽,heel
+80,성능이 뛰어나다,to give high performance (electronic product)
+81,제법,considerably
+82,서투르다,"to be poor at, lacking, unskilled"
+83,통역,interpretation
+84,힘이 들다,to be tough(onerous) (들다)
+85,도움을 요청하다,to ask sb for help
+86,주민자치센터,community center (independent org. 자치)
+87,조언을 하다,to advise sb (조)
+88,교육과정,course of study
+89,지원,"support, aid, backing"
+90,기권하다,to abstain
+91,현황,present condition/state of affairs
+92,법제사법분과위원회,the Legislation and Judiciary Committee
+93,시험에 대비하다,to get ready for an examination
+94,편이다,tend to be (~ᄂ/은/는 + 편)
+95,빨리 끝난 편이에요.,It tends to be over quickly.
+96,문제에 부닥치다,to run up against a problem
+97,외국인치고,for a foreigner (grammar)
+98,농구 선수,basketball player
+99,행동하는 건 아기 같아요.,He/She acts like a baby.
+100,안색이 안 좋다,for one's complexion to not be good
+101,표정이 어둡다,for one to have a gloomy expression
+102,상담사,counselor
+103,절차를 순서대로,the order of the procedures
+104,지속적,continuous
+105,편의,a convenience
+106,물어봐도 돼요?,May I ask why?
+107,지위,"status, position, rank"
+0,환경이 오염되다,for the environment to become polluted
+1,환경오염 문제가 심각하다,environmental pollution is a serious problem
+2,지구온난화,global warming
+3,자동차를 많이 이용하다,to use a car lot
+4,자동차가 매연을 발생시키다,to generate car exhaust fumes
+5,공기가 나빠지다,the air quality is getting bad
+6,대기오염이 심각하다,air pollution is a serious problem
+7,자동차 이용을 줄이다,to reduce car usage
+8,대증교통을 이용하다,to use public transportation
+9,샴푸를 이용하다,to use shampoo
+10,세제를 이용하다,to use laundry detergent
+11,물이 더러워지다,the water is getting dirtier
+12,수질오염이 심각하다,water pollution is a serious problem
+13,바닷물이 오염되다,the oceans are becoming contaminated
+14,해양오염이 심각하다,sea pollution is a serious problem
+15,필요한 양만 사용하다,to only use the required amount
+16,일회용품을 많이 이용하다,to use a lot of disposable products
+17,쓰레기를 많이 버리다,to throw out a lot of garbage
+18,쓰레기가 넘쳐나다,to be overflowing with garbage
+19,쓰레기를 매립하다,to bury garbage (landfill)
+20,땅이 오염되다,the soil is becoming polluted
+21,쓰레기를 소각하다,to burn garbage
+22,유해성분이 발생하다,for toxins to be released
+23,쓰레기를 분리수거하다,to sort the garbage
+24,쓰레기를 재활용하다,to recycle garbage
+25,동절기 실천 매뉴얼,manual for saving energy in winter
+26,하절기 실천 매뉴얼,manual for saving energy in summer
+27,가정용,for domestic use
+28,교육시설,educational facilities
+29,절약,"saving, frugality"
+30,석유 에너지,oil energy
+31,벌이다,to begin
+32,사무실,office
+33,사회복지시설,social welfare facility
+34,상점,store
+35,음식점,eatery
+36,대기,atmosphere (air)
+37,오염을 줄이다,to reduce pollution
+38,숙박시설,accomodations
+39,의료시설,medical facilities
+40,제조업,manufacturing business
+41,캠페인,campaign
+42,참여하다,to participate in
+43,제공하다,to supply/provide
+44,방긋 웃다,to smile (sweetly at a person)
+45,소각하다,to incinerate
+46,유해 물질,toxic substance (물)
+47,매립하다,to bury (trash)
+48,분해되다,to decompose
+49,에너지절약,energy conservation
+50,공공 기관,public institution
+51,앞장서고 있다,to take the lead
+52,여름철,summertime
+53,유지하다,to maintain
+54,냉방기,cooler
+55,끄다,"to put out, extinguish"
+56,순차 가동을 하다,to sequentially operate
+57,가동을 하다,to operate (가동)
+58,특정 지자체,specific local governments
+59,1인 1부채 운동,1 person should use 1 (hand) fan movement (to save energy in summer)
+60,내복 입기 캠페인,wear thermal underwear campaign (to save energy in winter)
+61,승용차 요일제,"system where you can't use your car one day of the week (to save energy, usually for government workers but some private companies too)"
+62,넥타이 안 매기 운동,don't wear a necktie movement (take off your necktie to stay cool instead of using a/c)
+63,매립지,land where there was previously a landfill (?maybe)
+64,매립장,landfill
+65,소각장,incineration plant
+66,난방,heating
+67,절전,power-saving
+68,절수,water-saving
+69,순환,circulation
+70,정보제공,provision of information
+71,숙식제공,provision of accomodations
+72,순차 가동,sequential operation
+73,자제하다,to refrain from doing something
+74,설정하다,to set (the temperature of a device)
+75,조절하다,"to adjust, regulate"
+76,소등하다,to turn off the lights
+77,앞장서다,to take the lead
+78,장바구니,shopping bag
+79,토양,soil (not 땅)
+80,물병을 가지고 다니다,to carry a water bottle (with you)
+81,자가용,one's own car
+82,비닐봉투,plastic bag
+83,전기장판,electric pad
+84,전기 온풍기 ,electric heater
+85,사용을 자제하다,to refrain from using
+86,전기 난방 기기,electric heating devices
+87,건강을 유지하다,to maintain good health
+88,실내,interior (of a room)
+89,전기 냉방 기기,electrical cooling devices
+90,희망 온도,the desired temperature
+91,전기밥솥,electric rice cooker
+92,압력 밥솥,pressure cooker
+93,밥 대신에,instead of rice
+94,장시간 보온,keeping warm for a long time (rice in a ricecooker)
+95,절전모드를 설정하다,to set to sleep mode (computer)
+96,청소기,vacuum cleaner
+97,냉기 순환,cool air circulation
+98,조명은 완전히 소등하다,to turn the lighting completely off
+99,에너지를 절약하다,to save energy
+100,이용량이 증가다,to increase in usage/ growth in usage of
+101,버스환승 할인제도,bus transfer discount system
+102,안개,fog/mist
+103,종량제,a metered system (pay as you go: the Seoul garbage bag system)
+104,지나친 카페인 섭취,excessive caffeine intake
+105,수면에 어려움을 겪다,to have difficulties sleeping(수면)
+106,원인,a cause/the cause
+107,주부들,housewives
+108,가정과 기관,households and organizations (가/기)
+109,먹을거리,things to eat (먹을)
+110,동영상을 보다,to watch videos (동)
+111,플러그를 뽑아 놓다,to pull the plug out
+112,에너지난을 해결하다,to solve/fix the energy crisis
+113,전기 부족 문제,electrical outages/shortages
+114,어제보다 기분이 훨씬 나아요.,I feel much (훨씬) better than yesterday.
+115,선풍기,electrical fan
+116,부채,fan (any fan)
+117,햇빛도 가리다,to shield from the sun
+118,환경을 보호하다,to protect the environment
+119,가정에서,at home (가)
+120,전문가,"expert, specialist"
+121,국토가 좁다,a country has limited land
+122,태우다,to burn something
+123,이어지다,"to continue on, to lead to"
+124,무엇이든 물어보세요.,Ask me anything.
+125,가정의 골칫거리,the bane of the household
+126,골칫거리,"trouble, nuisance"
+127,환경 보호 협회,Environmental Protection Association EPA
+128,양을 줄이다,to reduce the quantity or amount (쓰레기)
+129,앞서,"before, prior to (talking about something)"
+130,부분은 미처 생각하지 않다,for people to not think that far (미처)
+131,자세히,in detail (자)
+132,땅속에서 분해되다,to decompose underground
+133,일부,a part of
+134,엄청난 시간,a huge amount of time
+135,바람직한 방법,a desirable/advisable method
+136,유해 성분,harmful ingredient (성)
+137,배출되다,"to emit/produce (something toxic, trash)"
+138,이와 같은 문제들,problems like these
+139,구체적,specific/detailed (구)
+140,청년 실업,youth unemployment
+141,경우,"case, scenario"
+142,매장,"shop, store (매)"
+143,지구가 방긋 웃다,the earth is smiling at us
+144,근무 중에,while on duty (at work)
+145,자치단체,municipality
+0,질서를 지키다,to keep order
+1,규칙을 지키다,to keep rules
+2,질서를 어기다,to go against (public) order
+3,규칙을 어기다,to break rules
+4,질서를 위반하다,to violate (public) order
+5,규칙을 위반하다,to violate rules
+6,다른 사람에게 피해를 주다,to harm others
+7,다른 사람때문에 피해를 입다,to be harmed because of others
+8,공동주택에서,multi-unit dwelling
+9,이웃에게 피해를 주다,to harm neighbors
+10,층간 소음,noise complaint issues
+11,아이들이 뛰다,the children are running
+12,애완동물을 키우다,to raise pets
+13,운전할 때,when you drive
+14,안전벨트를 매다,to fasten one's seatbelt
+15,음주 운전을 하다,to drink and drive
+16,교통법규를 지키다,to follow traffic rules
+17,신호를 위반하다,to run a (red) light
+18,과속을 하다,to be speeding
+19,범칙금을 내다,to pay a penalty
+20,유아용 카시트에 앉히다,to put a child in a carseat
+21,거리에서,on the street
+22,오른쪽으로 걷다,to walk on the right hand side
+23,줄을 서다,to line up
+24,새치기를 하다,to cut in line
+25,횡단보도로 건너다,to cross at the crosswalk
+26,무단 횡단을 하다,to jaywalk
+27,공공장소에서 금연하다,to forbid smoking in public places
+28,침을 뱉다,to spit
+29,무단 횡단 금지,No jaywalking
+30,쓰레기 무단 투기 금지,No illegally dumping trash
+31,낙서 금지,No graffiti
+32,흡연 금지,No smoking
+33,출입 금지,No tresspassing
+34,사진 촬영 금지,No photography
+35,운전 중 휴대전화 사용금지,No using your cell phone while driving
+36,전 좌석 안전벨트를 착용하다,for all seats to have on a seatbelt
+37,안전모를 착용하다,to put on a safety helmet
+38,공공장소,public place
+39,독자들,readers
+40,요구하다,to demand
+41,애완동물,pet
+42,애완견,pet dog (lapdog)
+43,배설물,"poop, stool"
+44,치우다,"to tidy, clean up"
+45,질서,order
+46,정의 실현,realization of justice
+47,흔히,commonly
+48,저지르다,to commit something (crime etc.)
+49,경범죄,misdemeanor (minor offense)
+50,타인,other people
+51,평화로운 생활,peaceful life
+52,범칙행위,act of offense
+53,삼가다,to be careful
+54,스토킹,stalking
+55,허위광고,false advertising
+56,동물등록제,animal registry
+57,과태료,"fine, penalty (과)"
+58,통제구역,restricted area
+59,관계자 외 출입금지,authorized personnel only
+60,안전띠 매기,wearing a seatbelt
+61,큰 손해를 입다,to suffer (receive) great loss/damage (손해)
+62,공동,"joint, communal"
+63,애완하다,"to love, pet, fondle"
+64,우측 보행 합시다!,Let's walk on the right side! (우측)
+65,괴롭다,to be distressful
+66,윗사람이 질서를 지키다,to obey orders from above (people above you in status)
+67,자꾸 반복해서 연습하다,to practice over and over and again and again
+68,미루다,"to delay, postpone; 2 to infer, guess"
+69,지저분하다,"to be dirty, unclean, squalid"
+70,지저분하게 먹다,to eat in a messy way
+71,오르내리다,to go/walk up and down
+72,보행자,pedestrian
+73,보행하다,to walk (보)
+74,좌측 보행,walk on the left
+75,우회전,a right turn
+76,좌회전,a left turn
+77,착용하다,to put on/wear/have smthg on
+78,단속을 하다,to crackdown on smthng (crime)
+79,집중단속하다,to concentrate on cracking down on smthg (law offenders)
+80,무단,without (무)
+81,금연 구역,no smoking zone
+82,음주,drinking (alcohol)
+83,쓰레기를 무단 투기하다,to illegally throw away trash
+84,법적,"way, method, manner"
+85,처벌하다,to punish
+86,중범죄,a serious (criminal) offense
+87,벌금,a fine (벌)
+88,생후 3개월 개,a three month old dog
+89,맨입으로 왔어요.,what does this mean?
+90,꽃잎이 떨어져요.,A flowers petals fall off.
+91,뒷일을 부탁해요.,I'll leave it up to you. (I'll entrust you with the matter.)
+92,도와 주려고 한 건데 헛일했네요.,"I tried to help, but it was useless (in vain/fool's errand) 헛일"
+93,남을 괴롭히다,to harass others (남)
+94,범칙금을 물게 되다,to be fined/pay a penalty
+95,조항,"article, clause, provision"
+96,처벌 항목,punishment item/clause/provision
+97,암표매매,buying a selling illegal tickets
+98,전국으로 확대되다,to be extended nationwide
+99,대행 기관,an agency (doing by proxy 대행)
+100,관공서,a public govt office
+101,지정하다,"to designate, appoint"
+102,부과되다,to be charged/fined (부)
+103,건물 외부에 써 놓아,written outside the building
+104,전면에,in front
+105,실시되다,to go into effect
+106,의견이 많다,to have many opinions
+107,예절을 요구하다,to demand (a certain amount of) etiquette (manners)
+108,이어폰도 꽂지 않다,to not use earphones
+109,버릇이 고치다,to correct a bad habit
+110,진동으로 해 놓았어요.,I set it to vibrate (cellphone)
+111,목줄을 매지 않다,to not use a leash
+112,데리고 나오지 않다,to not come out with (something)
+113,행위,a deed/action
+114,빈집,a vacant house
+115,길에서 소변을 보다,to urinate on the street
+116,아무 데나,anywhere
+117,소란스럽다 ,"to be uproarious, very noisy"
+0,산 정상에 오르다,to climb to the top of the mountain
+1,단풍을 구경하다,to look at fall foliage
+2,캠핑을 하다,to go camping
+3,삼림욕을 하다,to take a therapeutic walk through the forest
+4,피서를 즐기다,to stay cool during summer
+5,물놀이를 하다,to play in the water (swim)
+6,해수욕을 하다,to swim in the sea
+7,일광욕을 하다,to bathe in the sun
+8,모래찜질을 하다,to take a sand bath
+9,수상 레포츠를 즐기다,to enjoy water sports
+10,낚시를 하다,to go fishing
+11,싱싱한 해산물을 맛보다,to try the fresh seafood
+12,템플스테이를 하다,to do a temple stay
+13,명상을 하다,to meditate
+14,사찰음식을 맛보다,to try temple food
+15,108배를 하다,to do 108 prostrations
+16,조상들의 생활 모습을 엿보다,to get a glimpse of the lifestyle of our ancestors
+17,과거로의 시간 여행을 하다,to travel to the past
+18,유물을 관람하다,to view artifacts
+19,유적지를 방문하다,to visit a historical site
+20,국립곤원,national park
+21,의 수도,The capital city
+22,섬,island
+23,역사 유적지,historical site
+24,항구 도시,port city
+25,활기가 넘치다,to be overflowing with energy
+26,전통적이다,to be traditional
+27,고즈넉하다,to be tranquil
+28,공기가 맑다,for the air to be fresh
+29,재래시장,traditional market
+30,야시장,night market
+31,야경,night view
+32,왕릉,royal tomb
+33,탑,pagoda
+34,한옥,traditional village
+35,평화롭다,to be peaceful
+36,감탄하다,to admire (something)
+37,만족스럽다,to be gratifiying
+38,훌륭하다,to be excellent
+39,건축양식,style of architecture
+40,조각기술,piece of technology
+41,장엄함,magnificence
+42,유적,ruins
+43,유물,"relic, artifact"
+44,해변을 산책하다,to take a walk along the beach
+45,바닷가에서 해수욕을 즐기다,to enjoy one's time at the beach
+46,조상들의 지혜를 엿보다,to get a glimpse of the wisdom of our ancestors
+47,올레길을 걷다,to walk along Olle trail
+48,둘레길을 걷다,to walk along Dulle path
+49,전통 체험을 하다,to have a traditional experience
+50,동쪽,East
+51,서쪽,West
+52,남쪽,South
+53,북쪽,North
+54,동해안,East coast
+55,서해안,West coast
+56,남해안,South coast
+57,중부,central region
+58,전통음식을 맛보다,to try traditional food
+59,가정식을 맛보다,to try homemade food
+60,길거리음식을 맛보다,to try street food
+61,포장마차,street cart food
+62,유네스코 세계문화유산,UNESCO world heritage
+63,인류,humanity
+64,각국,each country
+65,부동산 유산이 등재되다,to become listed as a heritage property
+66,세계유산의 종류,type of world heritage
+67,문화 유산,cultural heritage
+68,자연 유산,natural heritage
+69,복합 유산,mixed heritage (both cultural and natural)
+70,등재되다,to become listed
+71,이외,"other than, except for"
+72,석굴암 불국사,Seokguram and Bulguksa Temple
+73,해인사 장경판정,Haeinsa Temple
+74,종묘,Jongmyo Shrine
+75,창덕궁,Changdeokgung Palace
+76,화성,Hwaseong Fortress
+77,경주역사유적지구,Gyeongju Historic Area
+78,고창 화산 강화 고인돌 유적,"Gochang, Hwasan and Ganghwa Dolmen Sites"
+79,제주화산섬과 용암동굴,Jeju Volcanic Island and Lava Tubes
+80,조선왕릉,Royal Tombs of the Joseon Dynasty
+81,한국의 역사마을 하회와 양동,Historic Villages of Korea Hahoe and Yangdong
+82,남한산성,Namhansanseong Fortress
+83,해수욕장,beach (해)
+84,계곡,"valley, creek"
+85,좋은 게 없죠.,There's nothing better (than).
+86,짐이 많다,to have a lot of stuff (이사할때)
+87,뭘 할지는 정했어요?,Have you decided what you'll do?
+88,생각할 여유가 없다,to have no thoughts to spare (no time to think)
+89,수도였던 곳,the former Capital (경주)
+90,감탄이 절로 나오다,to find oneself in awe of 
+91,절로,"naturally, by itself"
+92,마치 과거로 시간,like a time into the past
+93,고개가 숙여졌다,one's head is bowed down
+94,불상,a statue of the Buddha
+95,10원짜리 동전,10 won coin
+96,그냥 둘러보는 중입니다. ,I'm just looking (around). (둘러보다 look around)
+97,대장경,"the complete collection of Buddhist Sutras, Laws and Treatises, a collection of all the sacred writings of Buddhism"
+98,팔만대장경,"the Tripitaka Koreana, the complete collection of Buddhist scriptures carved on over eighty thousand woodblocks ~ located in 합천"
+99,해인사,Haeinsa Temple where the 팔만대장경 are housed.
+100,실제로 보다,to see something in reality (first-hand)
+101,목판,"woodblock, woodcut"
+102,하나하나,one by one
+103,찻소리,traffic noise
+104,벗어나다,to get out (of)/away from
+105,차 소리에서 벗어나다,to get away from the sound of traffic
+106,힘이 생겼다,"to feel energetic (again, after not feeling so)"
+107,새벽에 일찍 일어나다,to get up at the crack of dawn
+108,예불,buddhist sevice (maybe at dawn)
+109,기상하다,to get up; get out of bed (NOT 일어나다)
+110,눈꺼풀이 천근만근,my eyelids feel heavy (and sluggish)
+111,몸이 천근만근이에요.,My body feels heavy and sluggish.
+112,눈꺼풀,eyelids
+113,사찰 음식은 입에 맞았어요?,Did the temple food suit your taste?
+114,곤란하다,"to be difficult; to be awkward, embarrassing"
+0,개학하다,to have the school term begin
+1,여름 방학하다,to have summer vacation
+2,겨울 방학하다,to have winter vacation
+3,학기,semester
+4,학교에 입학하다,to be admitted to school
+5,학교에 들어가다,to enter school
+6,시험을 보다,to take a test
+7,시험을 치르다,to take an exam
+8,학교를 졸업하다,to graduate from school
+9,학교를 마치다,to complete school
+10,점수,points/score
+11,평균,an average
+12,성적,grades/marks
+13,학년,school year
+14,과목,subject
+15,담임,homeroom teacher
+16,성적 통지표,report card
+17,구분,classification
+18,국어,Korean
+19,수학,math
+20,사회,social studies
+21,과학,science
+22,중간고사,midterm exam
+23,기말고사,final exam
+24,출석,attendance
+25,결석,absences (결석하다 - to be absent from school)
+26,지각,lates
+27,가정 통신문,school newsletter/home correspondence
+28,인재들,talented people
+29,교육목표,educational objectives (ns)
+30,실력을 기르다,to develop one's ability
+31,적성을 살리다,to nuture one's natural born ability (inherited from one's parents)
+32,개성을 살리다,to develop one's individuality (own special character)
+33,특기를 살리다,to develop the things you do better than others
+34,소질을 개발하다,to develop the skills in order to do something well
+35,자신감을 키우다,to boost one's self-confidence (build-up)
+36,창의력을 키우다,to develop creativity
+37,사고력을 키우다,to develop thinking skills
+38,조기교육,early education
+39,학교까지 태우다,to get a ride to school (passive)
+40,씻기다,to be washed (passive)
+41,의무교육,compulsory education
+42,등록비,tuition fee
+43,일반계,general (school type)
+44,전문계,vocational (2 year school type)
+45,특수목적 고등학교,special-purpose high school
+46,교육열,education fever (parents who are obsessed with their kids education)
+47,입학식,entrance ceremony
+48,학기 사이사이에,at the interval of semesters
+49,과정 기간,course period
+50,대학수학능력시험 (수능),University Admissions Test
+51,치르다,to pay for
+52,사교육,private education
+53,진학률,entrance rate (of a school)
+54,OECD회원국,OECD member country
+55,경제 성장,economic growth
+56,원동력,"motivation, driving force"
+57,지나치게,excessively
+58,소규모,small scale (small scale party)
+59,과외,private lesson
+60,어학연수,language study (usually abroad)
+61,유형,category/type (유)
+62,사교육비,private education fee
+63,커지다,to expand
+64,정부,government/administration
+65,방과후학교,after school program
+66,운영하다,to manage/operate
+67,수능강의,CSAT program (Internet based learning program to prepare for the university admissions test)
+68,강화하다,to intensify
+69,노력을 기울이다,to focus one's efforts (on something)
+70,포장하다,to wrap up/take out
+71,끈으로 묶다,to tie up with string
+72,화초,potted flower
+73,시들시들하다,to be slightly wilted
+74,햇볕,sunshine
+75,비료,fertilizer
+76,상처,wound/scar
+77,아물다,to heal
+78,소독하다,to disinfect
+79,학교 명칭,school name
+80,입학 연령,school entry age
+81,평균 기온,average temperature
+82,순서대로,in order of (importance)
+83,좋은 교육을 통해,(by way of) getting a good education
+84,맡다,"to undertake, keep"
+85,입학시험,school entrance exam (no space)
+86,중간에,in the middle
+87,기말,end of term
+88,인문계,"humanities (accounting, business etc.)"
+89,유치원,kindergarten
+90,혼자서 잘 먹다,to eat well on one's own (no 밥)
+91,읽고 쓸 수 있다,to be able to read and write
+92,드디어 다 했어요.,It's finally done. (드디어 at last)
+93,기자입니다.,I'm a journalist.
+94,30분 전에,30 minutes ago
+95,복잡할 텐데요.,It will tend to be complicated.
+96,내일 종일,all day tomorrow
+97,사이에만,only between (1시부터 2시 사이에만)
+98,성적이 대학 입시에 중요해요.,Grade are important for the college entrance exam.
+99,최고의 컨디션,the best condition
+100,일찍 재웠어요.,I sent him to bed early.
+101,긴장하다,"to be anxious, nervous (긴)"
+102,밥을 먹였어요.,I made him eat.
+103,동생에게 자주 울렸어요.,I often made my brother cry.
+104,택시를 세웠어요.,I stopped a taxi. (I made a taxi stop)
+105,사람들을 울리고 웃겼어요.,(It) made the people cry and laugh.
+106,1년에 여러 번,several times a year
+107,자원,resource (--을 절약하다)
+108,나타나다,"to show up, appear, come into view (나타)"
+109,자신의 아이들,one's children
+110,욕심,greed
+111,대상,"target, grand prize"
+112,지출,"expense, spending (formal)"
+113,부담,a burden
+114,부담을 주고 싶지 않아요.,I don't want to burden you with (my problems).
+115,강의를 듣다,to attend a lecture(class)
+116,어느 학교 다녀요?,What university did you go to?
+117,대학교 예체능학부 다녀요.,I went to the 대학교 (college name) School of (학부) Art (예체).
+118,미술 학사를 전공했어요.,I majored in art.
+119,서울대학교 공대 기계공학부 다녀요.,I went to SNU School of Mechanical Engineering.
+120,예체능계 고등학교,Arts High School ~계 is only for high school
+121,자연계,"Science, Math, Biology Studies (???)"
+0,꿈이 있다,to have a dream (1st person)
+1,꿈을 이루다,to achieve one's dream
+2,꿈을 가지다,to have a dream (2nd/3rd person)
+3,꿈을 실현하다,to realize one's dream
+4,꿈을 꾸다,to have a dream (to dream a dream)
+5,꿈을 좇다,to chase one's dream
+6,꿈을 키우다,to pursue one's dream
+7,꿈을 펼치다,to follow one's dream
+8,미래를 꿈꾸다,to dream of the future
+9,미래를 설계하다,to shape the future
+10,목표를 세우다,to establish a goal
+11,목표를 정하다,to set a goal
+12,실패하다,to fail
+13,노력하다,to make an effort
+14,도전하다,"to defy, challenge"
+15,꾸준히 노력하다,to make a consistent effort
+16,최선을 다하다,to do one's best
+17,인내가 있다,to have patience
+18,좌절하다,to be frustrated
+19,목표를 이루다,to achieve one's goal
+20,성과를 얻다,to get a result
+21,극복하다,to overcome
+22,성공을 거두다,to achieve success
+23,성취하다,to accomplish
+24,목표에 도달하다,to reach one's goal
+25,절망에 빠지다,to fall into despair
+26,안타깝다,to be regrettable
+27,권리,"right, claim"
+28,존중하다,"to respect, honor"
+29,비례대표,proportional representation
+30,선출되다,to be elected
+31,간직하다,"to keep, cherish"
+32,자기 계발,self-improvement
+33,제빵 자격증,baking license
+34,백만장자,millionaire
+35,타임머신,time machine
+36,자기암시,self-suggestion
+37,꾸준하다,to be consistent
+38,품다,"to hatch, incubate"
+39,장담하다,to guarantee
+40,사리,"sensible, self-interest"
+41,수시,non-scheduled
+42,생명력,vitality
+43,꿈을 그리다,to paint a picture of one’s dream (to draw a dream)
+44,멋지다,"wonderful, cool (지)"
+45,인형,"doll, puppet"
+46,실천되다,to put (smthg) to practice/action
+47,마침내,"finally, at long last (literary)"
+48,실패를 두려워하다,to be afraid of failure
+49,국회,National Assembly
+50,다문화가정,a multicultural family (가정)
+51,단체,"organization, society (단)"
+52,이주 여성,a female immigrant
+53,고향을 떠나다,to leave one’s hometown
+54,현명하다,"to be wise, sagacious"
+55,꽤,quite (ᄁ)
+56,완전히,completely
+57,방송인,broadcaster (a person)
+58,동시통역사,a simultaneous interpreter (translator)
+59,우주여행을 하다,to travel into space
+60,복권에 당첨되다,to win the lottery
+61,불쌍하다,"to be pitiful, pathetic"
+62,성과를 거두다,to bear (collect) the fruits of one’s labors
+63,성과,"result, the fruits of one’s labors"
+64,꾸준히,consistently
+65,끈기가 없다,to lack tenacity
+66,끈기가 있다,to have tenacity
+67,꿈을 성취하다,to fulfill one’s dream
+68,혼나다,"to be scolded, told off"
+69,가정,"supposition, hypothetical"
+70,구체적 미래를 설계하다,to have a detailed plan for the future
+71,좌절에 빠지다,to fall into frustration
+72,그러다가,after carrying on (like this) for awhile (*then)
+73,학교로 데리러 갈게요.,I’ll collect you from school. (I’ll pick you up from school.)
+74,이민자 출신,a person who has risen from being just an immigrant (?maybe)
+75,명언,a wise saying
+0,대통령 선거,presidential election
+1,국회의원 선거,national assembly election
+2,후보자,candidate
+3,출마하다,to run for
+4,당선되다,to be elected
+5,유권자,voter
+6,뽑다,"to pick, to recruit"
+7,투표하다,to cast a ballot
+8,선출하다,to elect
+9,선거일,election day
+10,투표 장소,voting location
+11,투표 용지,ballot
+12,투표함,ballot box
+13,개표하다,to count (ballots)
+14,지도자,leader
+15,인품이 훌륭하다,to have integrity
+16,책임감이 있다,to have a sense of responsibility
+17,공정하다,to be fair
+18,판단력이 있다,to have good judgement
+19,정직하다,to be honest
+20,지도력이 있다,to have leadership
+21,투표소를 방문하다,to visit a polling station
+22,신분증을 제시하다,to show one's ID card
+23,신분증을 확인하다,to check someone's ID card
+24,투표용지를 받다,to receive a ballot
+25,기표소에 들어가다,to go into the voting booth
+26,기표하다,to fill in a ballot
+27,투표함에 넣다,to put (the ballot) into the ballot box
+28,열띠다,to be heated
+29,낙선하다,to lose an election
+30,정부형태,a system of government
+31,대통령중심제,presidential system
+32,직접선거,a direct election
+33,규정,"rule, regulation"
+34,연임 제한이 없다,there is no limit for serving consecutive terms
+35,허용하다,"to permit, allow"
+36,현행 한법,existing constitution
+37,전일,the other day
+38,중앙선거관리위원회가,The National Election Commission
+39,공시하다,to make a public announcement
+40,유효 투표,a valid ballot
+41,다수,majority
+42,민주화,democratization
+43,능력,ability
+44,도덕성,morality
+45,규모,"scale, size"
+46,사안,"issue, matter"
+47,민생,livelihood
+48,공약,"pledge, promise"
+49,연임,serve consecutive terms
+50,파악하다,to comprehend
+51,수호하다,"to protect, defend"
+52,현혹되다,"to be blinded, bewildered"
+53,수렴하다,to collect (opinions)
+54,귀를 기울이다,to listen carefully
+55,자질,qualification 자
+56,투표권,the right to vote (투)
+57,범위,"scope, range"
+58,법률,"law, legislation"
+59,구성되다,to made of (composed)
+60,지역구,local (district) constituencies (electorates)
+61,규정을 두고 있다,to put rules and regulations into place
+62,후보 등록을 하다,to register as a candidate
+63,불가능,impossibility
+64,생명과 재산을 수호하다,to protect one's life and property
+65,그러하다,to be that sort (kind) of
+66,실현,realization
+67,지니다,"to keep, carry, have"
+68,올바른 판단,just decision (correct judgement lit.)
+69,장학금,scholarship
+70,선거권을 갖다,to have the right to vote (선)
+71,도장을 찍다,to stamp one's seal
+72,안내문,sign
+73,자질이 중요하다,for qualifications to be important 자질
+74,공약,"pledge, promise"
+75,의견 수렴,acceptance of an opinion
+76,낙선하다,"to lose an election, be defeated"
+77,귀를 기울이다,to listen carefully to
+78,열띤 토론을 벌이다,to wage a heated debat
+79,토론,debat
+80,의견을 수렴하다,to gather/collect opinions
+81,연휴,a long weekend
+82,여행사,a travel agency
+83,그거야 말하나 마나지요.,There is no point in saying that. (? correct)
+84,알아보다,"to look into, to investigate"
+85,약속해 놓다,to make a deal/promise/commitment.
+86,들어주다,"to grant, accede to (formal)"
+87,지지하는 유권자,supporting voters
+88,분명 판단력,clear judgement
+89,평소 모습이 저런 사람,an ordinary looking man like him
+90,뽑히다,"to be chosen, selected"
+0,연애하다,to have a relationship
+1,선을 보다,to see each other with the intent of marriage
+2,중매 결혼,arranged marriage
+3,이혼하다,to get divorced
+4,결혼하다,to get married
+5,약혼하다,to get engaged
+6,연애 결혼,marriage based on love (space)
+7,주례,someone who can officiate a marriage
+8,신부,wife
+9,신랑,husband
+10,하객,guest
+11,사회자,master of ceremonies
+12,청혼하다,to propose
+13,상견례를 하다,to arrange a meeting between families
+14,결혼 날짜를 잡다,to reserve a wedding date (space)
+15,결혼식장을 잡다,to reserve a wedding venue
+16,예단을 준비하다,to prepare a dowry (from brides family to grooms family)
+17,예물을 준비하다,to prepare wedding gifts (exchange between bride and groom)
+18,혼수를 장만하다,to purchase home furnishings
+19,청첩장을 돌리다,to send out wedding invitations
+20,함을 보내다,to send a box of wedding gifts (from the grooms family to the bride)
+21,결혼식을 하다,to have a wedding ceremony
+22,폐백을 드리다,to pay respect to the groom's family (parents throw jujubes and chesnuts which represent children at the bride and she has to catch them with her skirt to wish her to have many children)
+23,피로연을 하다,to have a wedding reception
+24,신혼여행을 가다,to go on a honeymoon (가다)
+25,신혼집,newlyweds home
+26,붉은색,red (붉)
+27,비용도 많이 들다,to also cost alot
+28,예단은 안 하다,to not have a dowry (~은 안 하다)
+29,반지만 하다,to purchase only a ring
+30,신랑감,suitable groom
+31,발바닥,sole of your foot
+32,보름달이 떴어요,the full moon has risen
+33,거스름돈,change(money)
+34,반찬 가게,side dish store
+35,잠자리,place to sleep
+36,풍습,a custom
+37,축의금,congradulatory money (for weddings)
+38,결혼 허락을 받다,to receive permission to get married
+39,본격적이다,"to be genuine (진짜의) real, genuine"
+40,옷감등이 들다,to purchase fabric
+41,시댁 식구들,in-laws
+42,절차를 진행하다,to proceed with a procedure
+43,혼례상,ceremonial wedding table
+44,소나무,pine tree
+45,대나무,bamboo
+46,기러기,wild goose
+47,암탉,hen
+48,수탉,rooster
+49,자녀를 상징하다,to symbolize children
+50,예복,formal dress
+51,족두리,Korean bridal crown
+52,이마에는 곤지를 찍다,to put a red spot on the bride's forehead
+53,두 볼에는 연지를 찍다,to put two red spots on the bride's cheeks
+54,막아주다,to charm against bad luck
+55,존경하다,to respect/admire
+56,대표하다,to represent
+57,낭비,waste
+58,불필요하다,to be unnecessary
+59,검소하다,to be frugal
+60,집을 구하다,to look for a house
+61,부동산,property
+62,닮다,to resemble
+63,동아리,club
+64,마침,just (in time)
+65,유학,study abroad
+66,선택하다,to choose/select
+67,무시하다,to ignore
+68,집안 (가문),family (entire)
+69,특별하다,to be special
+70,상징하다,to symbolize
+71,성실하게,sincerely
+72,우수하다,to be superior
+73,우연히,"by accident, by chance (우연히 다시 마나다)"
+74,유학 대신에,instead of studying abroad
+75,몰론,of course
+76,감정이 중요하다,for (one's) feelings to be important
+0,경제 주체,main agents of the economy
+1,가계,household (budget)
+2,기업,business
+3,정부,government/administration
+4,소비자,consumer
+5,생산자,producer/manufacturer
+6,수요,demand
+7,공급,supply
+8,세금을 내다,to pay tax
+9,세금을 걷다,to collect tax
+10,직원을 고용하다,to employ staff
+11,월급을 받다,to get monthly salary
+12,생산하다,to produce/manufcature
+13,판매하다,to sell
+14,제공하다,to supply/provide
+15,소비하다,to consume/spend
+16,구매하다,to purchase
+17,대기업,major company
+18,중소기업,small business
+19,농산물,farm products
+20,수산물,marine products
+21,공산품,industrial products
+22,물가가 오르다,for the price to be increased
+23,물가가 내리다,for the price to be decreased
+24,소비가 늘다,for consumer spending to have grown (to be growing)
+25,소비가 줄다,for consumer spending to be reduced
+26,경기가 좋다,the economy is good
+27,경기가 나쁘다,the economy is bad
+28,수출하다,to export
+29,수입하다,to import
+30,수출품,export products
+31,수입품,import products
+32,해외 투자하다,to invest in overseas business
+33,사업에 투자하다,to invest in a business
+34,실업률이 증가하다,the unemployment rate increases
+35,실업률이 감소하다,the unemployment rate decreases
+36,손해,damage/loss
+37,이익,profit/gain
+38,환율이 오르다,the exchange rate increases
+39,환율이 내리다,the exchange rate decreases
+40,선진국,developed country
+41,개발도상국,developing country
+42,저개발국,underdeveloped country
+43,산업,industry
+44,농업,farming industry
+45,수산업,fishing industry
+46,공업,manufacturing industry
+47,건설업,construction industry
+48,서비스업,service industry
+49,국민총소득,gross national income/per capita income
+50,경제성장률,rate of economic growth
+51,작은 영토,a small territory/domain
+52,자원이 부족하다,to be lacking in resources
+53,급격하다,to be rapid/sudden
+54,조선업계,shipbuilding industry
+55,매출,sales
+56,주최하다,to host
+57,무리하게,"excessively, rashly, (biting off more than one can chew)"
+58,극복하다,to overcome
+59,자발적으로,voluntarily (자발)
+60,단단하다,to be solid/firm
+61,20-50클럽,20-50club (countries whose per capita income is over US$20
+62,수준,level/standard
+63,경쟁력,competitiveness
+64,갖추다,to to be equipped with
+65,국민경제,national economy
+66,규모,scale/size
+67,적정선의 인구,"feasable population level (established, drawn population (requirement))"
+68,조건,condition/terms
+69,청신호,green light
+70,폭설,heavy snow
+71,냉해,cold-weather damage
+72,고용하다,to be silent/tranquil
+73,비교하다,"to compare A to B, make a comparison"
+74,느끼다,"to feel, sense, experience"
+75,경기,"business, economy (=sports match)"
+76,물가가 올랐어요.,The prices have gone up.
+77,주체,"main agent, principal agent (경제 --)"
+78,경제주체인,economic players/agents
+79,인구수,total population
+80,1인당,"per person, each person"
+81,일정 기간 동안,for a certain period of time
+82,집에서 애를 보다,to take care/watch a kid at home
+83,짐을 들다,to carry (lift) a suitcase (luggage).
+84,한 시간 기다려야 한다는데,even though you have to wait an hour
+85,굶다,to starve
+86,주식에 투자하다,to invest in stocks
+87,차로 데려다 준대요.,(He) said he’ll give us a ride.
+88,초보운전,a novice/beginning driver
+89,한국어가 많이 늘었네요.,"Your Korean has improved. (늘다, 네요)"
+90,고향이 그립다,to be homesick/to miss one’s hometown
+91,물건을 썩혀 버리다,things are left to ruin/waste/rot
+92,여기저기 찾아다니다,look for sb(sth) here and there(all over the place)
+93,발전하고 있는 나라예요.,It’s a country that is developing. (반전하다)
+94,국제 유가 상승,rising oil prices (internationally 국제)
+95,폭설과 냉해,heavy snow and cold weather damage
+96,사업에 영향이 미치다,to have an effect on business
+97,대기업,conglomerate
+98,대중교통,public transport
+99,설을 앞두다,to be ahead of Lunar New Year (the time before New Year’s)
+100,안정,"stable, stabilize (안정되다)"
+101,밤새우다,to stay up all night without sleep
+102,낫겠어요.,I better/ I’d rather. (겠어요)
+103,돈을 들이다,to spend money on (something 들이다)
+104,지역난방,district heating
+105,7% 넘게 오르다,more than 7% increase
+106,지난해,the previous year (지난)
+107,인상된 월세,increased monthly rent (인)
+108,당장,right now (당)
+109,다가오다,"to approach (someone), to draw near"
+110,올겨울,"this coming winter, this winter"
+111,무려,"as much as, as many as, no fewer than"
+112,30% 가까이,nearly 30% (가까)
+113,20년 가까이,nearly 20 years (가까)
+114,안정세,stable
+115,가난한 나라,a poor country
+116,한강의 기적,Miracle of the Han River
+117,10위권의 무역 거래량을 가진 나라,(one of the world’s) top 10 trading countries (거래량 volume)
+118,급격한 경제 성장,rapid economic growth
+119,세계 1위,first place in the world
+120,반도체 매출,semiconductor sales (like for computer chips)
+121,최대의,the biggest/largest/maximum
+122,경제 강국,an economic power/powerhouse
+123,기술을 가진 나라,a country with technology (가지다)
+124,무리하게 돈을 빌리다,to borrow money excessively/carelessly (무리하다)
+125,외환 위기,The 1997 Asian Financial Crisis
+126,위기를 해결하다,to fix the crisis(해...)
+127,국제통화기금,The International Monetary Fund (IMF)
+128,금 모으기 운동,a campaign to collect gold/money
+129,위기를 이겨내다,to beat the crisis/to overcome the crisis (이기...)
+130,모두 갚다,to pay everything back
+131,그 결과,as a result (결)
+132,위기 이후,after the crisis
+133,훌륭하다,"to be excellent, magnificent (훌)"
+134,경제 상황,economic situation
+135,진입의 기준이 되다,to be the basis of entry (criteria 기준 for entry 진입)
+136,인구 1인당,per head(capita) of population
+137,인구,population
+138,"5,000만 명",50 million people
+139,경쟁력을 갖추다,to establish/provide competitiveness (between population and per capita income)
+140,실제 인구,the actual population
+141,만족하게,satisfactorily; properly
+142,넘는 나라,a country that is passing (a set of conditions)
+143,넘다,"to climb/pass (over), exceed/go beyond"
+144,유일하다,"to be the only (one), sole (thing/person) (형용사)"
+145,대열 진입하다,to enter the ranks (like of becoming a developed country)
+146,더 발전하기,developing further
+147,변화를 확인하다,to confirm the change (변화)
+0,회의를 준비하다,to prepare for a meeting
+1,회의하다,to have a meeting
+2,보고서를 작성하다,to write up a report
+3,결재를 하다,to authorize
+4,결재를 받다,to receive authorization
+5,보고하다,to report on/present
+6,외근을 나가다,to work out of the office
+7,출장을 가다,to go on a business trip
+8,근무하다,to work (in an office)
+9,야근하다,to work overtime at night
+10,월급,monthly salary
+11,주급,weekly salary
+12,일당,daily wage
+13,연봉,annual income
+14,수당,"extra pay (for overtime work, or some benefit)"
+15,상여금,bonus pay
+16,급여,wage/salary
+17,직함,(someone's) title
+18,사장,president
+19,이사,chairman
+20,부장,department head
+21,과장,section chief
+22,대리,deputy section chief
+23,사원,employee
+24,직장상사,work supervisor
+25,직장동료,work colleague
+26,부하직원,subordinate
+27,휴가를 내다,to take a vacation
+28,조퇴하다,to leave work early
+29,결근하다,to be absent (from work)
+30,누구나,anyone
+31,바로,directly
+32,일단,first/once
+33,태도,attitude
+34,관리,administration
+35,비법,secret method
+36,업무,business/work
+37,이외,except/besides
+38,개인적인,personal
+39,주 5일 근무제,A 5 day work week
+40,대다수,majority
+41,경우,"case, scenario"
+42,분명하다,to be clear/distinct
+43,상관없다,to not matter (ns)
+44,기분이 전환을 하다,"to refresh one’s mind, to divert oneself."
+45,입석만 있다,to have only standing room
+46,너무 실망하지 마세요.,Don’t be too disappointed.
+47,직함이 어떻게 되세요?,What’s your title?
+48,성함이 어떻게 되세요?,What’s your name? (성함)
+49,이름이 어떻게 되세요?,What’s your name? (이름)
+50,졸리다,"to feel sleepy, get drowsy"
+51,먹기 싫다,to hate to eat
+52,표가 다 팔렸대요.,The tickets are all sold out.
+53,당연하지요.,Of course. (당연)
+54,편한 대로 하세요.,Do whatever is comfortable.
+55,마음대로 하세요.,Do as you please. (can be rude depending on how you say)
+56,둘다 좋아요.,I like both. (둘다)
+57,둘다 똑같아요.,They are both the same/alike. (둘다)
+58,먹고 살려고 일해요.,I work for a living. (먹고살리다)
+59,지난번에도 같은 말을 했잖아요.,"You said that last time, too. (잖아요)"
+60,용감하다,"to be brave, have courage"
+61,과제를 하다,to do an assignment or task
+62,화가 나다,to get angry (but not show)
+63,화를 내다,to get angry and show
+64,카드 대금을 결제하다,to make a card payment
+65,좌석이 있다,to have seats remaining (like for a movie/concert)
+66,먹든지 말든지,whether you eat or not
+67,하든지 말든지,whether I do it or not
+68,가든지 말든지,whether I go or not
+69,시간이 있든지 말든지,whether I have time or not
+70,퇴사하다,to resign from a company
+71,그만두다,to quit one’s job
+72,퇴직,retirement
+73,업무 태도,work attitude (업무)
+74,우는 모습을 보이면 안 돼요.,You shouldn’t show tears/have the appearance of looking sad.
+75,세상에 공짜는 없어요.,There is no such thing as a free lunch.
+76,업무 이외의,other than work (업무)
+77,책임감이 가지다,to bring/have a sense of responsibility
+78,입사하다,to join a company
+79,업무 일지를 쓰다,to write a log of work that was done (office)
+80,수업 일지를 쓰다,to write a log of what was done (school)
+81,신입 사원,a new employee
+82,영업 부서,sales and marketing department
+83,회의에 참석하다,to attend a meeting
+84,영업직,a sales job
+85,출퇴근 시간이 어떻게 되나요?,What are your commuting hours?
+86,출퇴근 길,the route you commute by
+87,등교하다,to go to school (출근)
+88,하교하다,to come home from school (퇴근)
+89,아이를 안든지 업든지 해야겠어요.,I guess the child should be hugged or held (in one’s arms).
+90,우선 제 소개를 할게요.,"First of all, let me introduce myself."
+91,궁금한 게 있어요.,I’m curious about some things./I have some questions.
+92,나만의 방법,my own way/method
+93,불이 꺼지지 않다,for the light to not go out/get turned off
+94,직함에 따라,in accordance with one’s title (에 따라 grammar)
+95,수직 관계,"vertical relationships (사장, 사원)"
+96,수평이 맞는지 좀 봐 주세요.,"Come see if I’ve leveled it correctly. (수평  horizontal, leveled picture/clock)"
+97,좀 더 분명하게 설명해 주시겠습니까?,"Could you please explain it a bit more clearly? (분명, 주시곘습니까)"
+98,존댓말,honorific speaking (Korean)
+99,점점 친해지다,to become friends bit by bit
+100,오랜 시간이 걸리다,to take a long time
+101,또한,"also, to, as well (sentence connector)"
+102,함께 일하는 만큼,as well as working together(~는 만큼 grammar)
+103,대인 관계,(inter)personal relationships
+104,자기 관리,self-management
+105,업무 이외의 일을 하지 마세요.,Don't do things other than work.
+106,줄이다,to become reduced

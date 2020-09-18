@@ -1,0 +1,1061 @@
+,0,1
+0,전화번호,phone number
+1,이따가,a little later
+2,국제전화,international call
+3,시외전화,long distance call
+4,휴대전화,cellphone
+5,핸드폰,cellphone
+6,국,the leading digits of a phone number
+7,의,dash (-)
+8,범죄,crime
+9,안내,notice
+10,화재,fire
+11,구조,rescue
+12,신고,report
+13,불이 나다,there is a fire
+14,나중에,later
+15,고속전철,high-speed train
+16,열쇠고리,key chain
+17,바로,"just, right"
+18,여행사,travel agency
+19,괜찮다,to be all right
+20,전화번호를 누르다,to dial phone number
+21,신호가 가다,to be ringing (phone)
+22,전화벨이 울리다,to ring (phone)
+23,잘못 걸다,to have the wrong number
+24,켜다,to turn on
+25,끄다,to turn off
+26,누르다,to press
+27,문자 메시지,text message
+28,음성 메시지,voice message
+29,메시지를 보내다,to send a message
+30,메시지를 확인하다,to check a message
+31,메시지를 남기다,to leave a message
+32,받다,to receive
+33,전화를 걸다,to make a phone call
+34,바꾸다,to change/to transfer a call
+35,전화를 받다,to answer the phone
+36,주문하다,to order
+37,주소,address
+38,호,room number
+39,배달하다,to deliver
+40,부탁,request/favor
+41,무역,trade
+42,정말,really
+43,웬일이세요?,What's up?
+44,잠깐만요,"wait a minute,/hold on"
+45,아니에요?,isn't it?
+46,늦다,to be late
+47,약속하다,to make an appointment/promise
+48,약속을 어기다,to break an appointment/to break promise
+49,약속을 지키다,to keep an appointment/to keep a promise
+50,수영장,swimming pool
+51,눈,snow
+52,눈사람,snowman
+53,세일,a sale
+54,왜,why
+55,언제나,always
+56,일찍,early
+57,아직,still/not yet
+58,여자,woman
+59,아마,probably/possibly
+60,통화하다,to speak over the phone
+61,통화종이다,the phone line is busy
+62,전화를 끊다,to hang up the phone
+63,코미디,comedy
+64,출장,business trip
+65,심심하다,to be bored
+66,다,all
+67,시작,start
+68,운전하다,to drive
+69,결혼하다,to get married
+70,아이,child
+71,앞으로,from now on/in the future
+0,계절,season
+1,봄,spring
+2,생각,thought
+3,스키,skis
+4,스키장,ski resort
+5,여름,summer
+6,가을,fall
+7,겨울,winter
+8,피다,to bloom
+9,딸기,strawberry
+10,진달래,azalea
+11,개나리,forsythia
+12,휴가,leave/holiday (from work)
+13,수박,watermelon
+14,감,persimmon
+15,단풍,autumn leaves
+16,구경,sightseeing
+17,수영,swimming
+18,비빔냉면,bibim-naengmyeon (mixed cold noodles)
+19,한가하다,to be available/to be at leisure
+20,피아노,piano
+21,도시,city
+22,시골,countryside
+23,스케이트,skates
+24,태권도,taekwondo
+25,여러분,you (plural)/everybody
+26,사계절,four seasons
+27,등산하다,to climb mountains
+28,바람이 불다,the wind blows
+29,취미,hobby
+30,벚꽃,cherry blossom
+31,흐리다,to be cloudy
+32,하늘,sky
+33,구름이 끼다,to be cloudy
+34,맑다,to be clear
+35,개다,to clear up
+36,안개가 끼다,to be foggy
+37,비가 오다,to rain
+38,비가 내리다,to rain
+39,비가 그치다,to stop raining
+40,눈이 오다,to snow
+41,눈이 내리다,to snow
+42,눈이 그치다,to stop snowing
+43,바람이 강하다,wind is strong
+44,바람이 약하다,wind is weak
+45,안개,fog
+46,구름,cloud
+47,불다,to blow
+48,강하다,to be strong
+49,약하다,to be weak
+50,바람,wind
+51,결혼식,wedding ceremony
+52,신혼여행,honeymoon
+53,인터넷,internet
+54,예매,booking
+55,양말,socks
+56,외출,going out
+57,화장하다,to put on make-up
+58,잠옷,pajamas
+59,아내,wife
+60,아들,son
+61,딸,daughter
+62,밤,night
+63,일기예보,weather forecast
+64,남쪽,south
+65,지방,area/region
+66,출근,going to work
+67,빨래,laundry
+68,전국,the whole country
+69,낮,day
+70,선선하다,to be cool
+71,쌀쌀하다,to be chilly
+72,덥다,to be hot
+73,춥다,to be cold
+74,따뜻하다,to be warm
+75,도,degree
+76,눈,eye
+77,키,height
+78,습하다,to be humid
+79,바닷가,beach
+80,더,more
+81,장마철,monsoon season
+82,눈싸움,snowball fight
+83,소풍,picnic
+84,꽃구경,appreciating the flowers
+85,피서,vacation in summer
+86,해수욕장,beach (recreational)
+87,야영을 하다,to camp
+88,독서하다,to read a book
+89,나이,age
+90,무게,weight
+91,길이,length
+92,편,counting unit for movies
+93,출연료,an actor's fee/performancer's fee
+94,목,neck
+95,모래,sand
+96,짓다,to build
+97,요즘,these days
+98,웃다,to laugh/to smile
+99,인구,population
+100,평균수명,average life span
+101,세,years of age
+102,억,one hundred million
+0,초,beginning
+1,끝나다,to finish
+2,찍다,to take (a photo)
+3,휴일,day off
+4,공휴일,public holiday
+5,연휴,long weekend
+6,계획이 있다,to have plans
+7,중학교,middle school
+8,계획이 없다,to not have any plans
+9,계획을 세우다,to make plans
+10,이제,now (2)
+11,설날,Lunar New Year
+12,계획,plan
+13,비자,visa
+14,되다,to become
+15,학기,school term
+16,사귀다,to make (friends)
+17,필요하다,to require/to be needed
+18,숙박,lodging
+19,준비물,things to prepare
+20,등산화,hiking boots
+21,가지고 가다,to bring
+22,틈틈이,when you have the time
+23,휴가철,holiday season
+24,방문,visit
+25,그러니까,and so/therefore
+26,아니면,or
+27,밀리다,to be left undone
+28,이곳저곳,here and there (not ...기...)
+29,주로,mainly/mostly
+30,중,among
+31,제일,most
+32,영화 보기,watching movies
+33,영화 감상,watching movies
+34,음악 듣기,listening to music
+35,음악 감상,listening to music
+36,감상,enjoying/appreciation
+37,책 읽기,reading books
+38,독서,reading books
+39,사진 찍기,taking photos
+40,그림 그리기,drawing
+41,노래 부르기,singing
+42,그리다,to draw
+43,추다,to dance
+44,그림,picture
+45,춤,dance
+46,춤 추기,dancing
+47,여행,trip
+48,운동,exercise
+49,등산,mountain hiking
+50,낚시,fishing
+51,바둑,Baduk (Go)
+52,컴퓨터 게임,computer game
+53,요리,cooking
+54,노래방,karaoke room
+55,쓰다,to use (ex. an umbrella)
+56,우울하다,to be depressed
+57,강,river
+58,책방,bookstore
+59,소설,novel
+60,슬프다,to be sad
+61,예매하다,to book/to reserve (tickets only)
+62,편하다,to be convenient
+63,어렵다,to be difficult
+64,인터넷,internet
+65,공포 영화,horror movie
+66,액션 영화,action movie
+67,코미디 영화,comedy movie
+68,멜로 영화,romantic movie
+69,만화 영화,cartoon
+70,전쟁 영화,war movie
+71,공사 과학 영화,science fiction movie
+72,가족 영화,family movie
+73,무섭다,to be scary
+74,귀엽다,to be cute
+75,로봇,robot
+76,세상,world
+77,총,gun
+78,칼,knife
+79,주인공,main character
+80,축구,football/soccer (US)
+81,경기,sport game
+82,예약하다,to make a reservation
+83,음악회,concert (not 콘...)
+84,외식,eating out
+85,데이트,date
+86,외국인,foreigner
+87,감동적,impressive
+88,살,years of age
+89,병에 걸리다,to fall ill
+90,병,illness
+91,때문에,because (of)
+92,죽다,to die
+93,꼭,certainly
+94,울다,to cry
+95,남자,man
+96,나오다,to appear in
+97,배우,actor
+98,감독,director
+99,탁구를 치다,to play pingpong
+100,탁구,pingpong
+101,치다,to hit
+102,마다,every
+103,배우다,to learn
+104,별로,not very
+105,하다,to play
+106,타다,to ride
+107,농구,basketball
+108,약구,baseball
+109,배구,volleyball
+110,태권도,taekwondo
+111,골프,golf
+112,당구,billiards/pool
+113,테니스,tennis
+114,배드민턴,badminton
+115,스키,skis
+116,스케이트,skates
+117,자전거,bicycle
+118,스노보드,snowboard
+119,공,ball
+120,사용하다,to use
+121,팀,team
+122,손,hand
+123,준비운동하다,to warm up
+124,신다,"to wear (shoes, socks)"
+125,샤워,shower
+126,머리를 감다,to wash one's hair
+127,모니터,monitor
+128,조사,research
+129,보내다,to spend time
+130,방법,method
+131,집안일,housework/chores
+132,스포츠,sports
+133,관광지,tourist spot
+134,놀이공원,amusement park
+135,온천,hot spring
+136,활동,activity
+137,카드,(credit) card
+138,미역국,seaweed soup
+139,와이셔츠,dress shirt
+140,이해하다,to understand
+141,생활,life
+142,특히,especially/particularly
+143,드라마,TV series
+144,조깅,jogging
+0,길,street/road/path
+1,묻다,to ask
+2,아파트,apartment
+3,찾다,"to look for, to find"
+4,왼쪽,left
+5,실례지만,"Excuse me, but.."
+6,번,number
+7,출구,exit
+8,이쪽,this way
+9,그쪽,that way
+10,저쪽,that way (over there)
+11,오른쪽,right
+12,건너다,to cross
+13,건너편,the opposite side
+14,지하도,underpass
+15,육교,overpass
+16,횡단보도,crosswalk
+17,층,floor/level
+18,샌드위치,sandwich
+19,대사관,embassy
+20,미술관,art gallery/art museum
+21,호텔,hotel
+22,나오다,to come out
+23,신문사,newspaper office
+24,똑바로,straight
+25,기숙사,dormitory
+26,오피스텔,a building with both business and apartments
+27,원룸,studio apartment
+28,북문,north gate
+29,서문,west gate
+30,동문,east gate
+31,얼마나,(for) how long
+32,걸리다,to take (time)
+33,호선,subway route or line (number)
+34,교통,transportation
+35,버스,bus
+36,시내버스,intra-city bus
+37,고속버스,long-distance bus
+38,마을버스,neighborhood bus
+39,택시,taxi
+40,일반택시,standard taxi
+41,모범택시,deluxe taxi
+42,기차,train
+43,자동차,car
+44,자전거,bicycle
+45,비행기,airplane
+46,배,ship
+47,연락,contact
+48,젓가락,chopsticks
+49,이메일,email
+50,비디오,video
+51,밀리다,to be jammed/to be packed
+52,머리,head
+53,늦다,to be late
+54,곳,place
+55,호수,lake
+56,자리,seat/one's place
+57,교통수단,means of transportation
+58,떠나다,to leave
+59,빨리,fast
+60,오래,long (period of time)
+61,조심하다,to be careful
+62,비키다,to move aside/to get out of the way
+63,앉다,to sit
+64,역,station
+65,정류장,bus stop
+66,공항,airport
+67,고속버스 터미널,express bus terminal
+68,타다,to get on/to ride
+69,내리다,to get off
+70,갈아타다,to transfer (traveling)
+71,도착하다,to arrive
+72,여관,inn
+73,민박,guest house
+74,펜션,lodge
+75,콘도,condominium
+76,회,sashimi
+77,만지다,to touch
+78,사진을 찍다,to take a photo
+79,담배,cigarettes
+80,담배를 피우다,to smoke
+81,주차하다,to park a car
+82,떠들다,to make a noise/ to chat
+83,지각하다,to be tardy
+84,게임,game
+85,안내 방송,announcement
+86,모르다,to not know
+87,걱정하다,to be worried
+88,가르치다,to teach
+89,걷다,to walk
+90,세우다,to stop
+91,기사,driver
+92,들어가다,to go in
+93,출발하다,to depart
+94,사거리,crossroads
+95,신호등,traffic light
+96,직진,go straight
+97,좌회전,left turn
+98,우회전,right turn
+99,초록색,green
+100,매일,every day (not ᄂ..)
+101,아이스크림,ice cream
+102,부르다,to be full
+103,고르다,to select
+104,빠르다,to be fast
+105,너무,too
+106,많이,"much, many"
+107,번호,"assigned number (phone number, postal code, etc.)"
+108,모시다,to accompany/to escort
+109,다 왔습니다,here we are
+110,동,building number within an apartment complex
+111,왜,why
+112,비,rain
+113,약속,plans/appointment/promise
+114,세탁소,dry cleaner
+115,놀이터,playground
+116,돈가스,pork cutlet
+117,주유소,gas station
+118,PC방,internet cafe
+119,레코드,record
+0,선물,gift
+1,장미 (꽃),rose
+2,꽃,flower(s)
+3,케이크,cake
+4,꽃가게,flower shop
+5,빵,bread
+6,빵집,bakery(1)
+7,옷가게,clothing store
+8,빵가게,bakery(2)
+9,과일가게,fruit store
+10,서점,bookstore
+11,문방구,stationary store
+12,편의점,convenience store
+13,시장,market
+14,백화점,department store
+15,슈퍼마켓,supermarket
+16,바지,pants
+17,과일,fruit
+18,그렇지만,"but, however"
+19,하숙집,boarding house
+20,아줌마,madam
+21,장소,place (not ᄀ...)
+22,이유,reason
+23,주인,"shopkeeper, owner"
+24,치즈,cheese
+25,색,color
+26,빨간색,red
+27,파란색,blue
+28,노란색,yellow
+29,하얀색,white
+30,까만색,black
+31,검은색,black
+32,길다,to be long
+33,짧다,to be short
+34,튼튼하다,"to be healthy, to be strong"
+35,약하다,to be weak
+36,두껍다,to be thick
+37,얇다,to be thin
+38,무겁다,to be heavy
+39,가볍다,to be light
+40,비싸다,to be expensive
+41,싸다,to be cheap
+42,가깝다,"to be near, close"
+43,멀다,"to be distant, far away"
+44,코트,coat
+45,자동차,car
+46,어떻다,how (it) is
+47,빨갛다,to be red
+48,파랗다,to be blue
+49,노랗다,to be yellow
+50,까맣다,to be black
+51,하얗다,to be white
+52,보여 주다,to show
+53,다르다,to be different
+54,죄송하다,to be sorry
+55,다시,again
+56,또,again
+57,구경하다,"to watch, to look around, to go sightseeing"
+58,얼마,how much
+59,송이,counting unit for flowers
+60,대,"counting unit for cars, appliances, electronics, etc."
+61,켤레,pair
+62,개,counting unit for things
+63,마리,counting unit for animals
+64,자루,counting unit for pens
+65,벌,counting unit for clothing
+66,권,counting unit for books
+67,장,counting unit for paper
+68,병,counting unit for bottles
+69,통,"counting unit for boxes, gum, letters"
+70,신발,shoes
+71,식빵,bread
+72,티셔츠,T-shirt
+73,표,ticket
+74,콜라,cola
+75,껌,gum
+76,셔츠,shirt
+77,전화기,telephone
+78,고양이,cat
+79,슬리퍼,slippers
+80,빌리다,to lend
+81,닫다,to close
+82,만들다,to make
+83,전화하다,to call
+84,바쁘다,to be busy
+85,돕다,to help
+86,스웨터,sweater
+87,치마,skirt
+88,바나나,banana
+89,귤,tangerine
+90,포도,grape
+91,튤립,tulip
+92,입어 보다,to try on clothes
+93,선물하다,to give a present
+94,깎다,"to discount, to reduce"
+95,꽃다발,bouquet
+96,손수건,handkerchief
+97,상품권,gift certificate
+98,인형,doll
+99,화장품,cosmetics
+100,향수,perfume
+101,액세서리,accessories
+102,만년필,fountain pen
+103,프랑스,France
+104,돌아가다,"to go back, to return"
+105,넥타이,tie
+106,노래,song
+107,결혼식,wedding ceremony
+108,프로그램,program
+109,주말,weekend
+110,여러 가지,"various, many"
+111,먼저,first (early)
+112,한복,traditional Korean clothes
+113,넥타이핀,tie pin
+114,피곤하다,to be tired
+115,목걸이,necklace
+116,선글라스,sunglasses
+117,노트북,laptop computer
+118,잃어버리다,to lose
+119,어깨,shoulder
+120,메다,to carry on one's shoulder
+121,연락하다,to contact
+0,혼자,"alone, by oneself"
+1,같이,together
+2,그럽시다,let's do that
+3,가다,to go
+4,오다,to come
+5,나가다,"to exit, to go out"
+6,들어오다,"to enter, to come in"
+7,올라가다,to go up
+8,내려오다,to come down
+9,한식집,Korean restaurant
+10,일식집,Japanese restaurant
+11,중국집,Chinese restaurant
+12,양식집,Western restaurant
+13,내일,tomorrow
+14,비빔밥,bibimbab
+15,불고기,bulgogi
+16,정문,main entrance
+17,그래요?,oh really? is that so?
+18,음식,food
+19,오늘,today
+20,값,price
+21,싸다,to be cheap
+22,학생식당,student restaurant
+23,가깝다,"to be near, close"
+24,무슨,"what kind of, what"
+25,아주,very
+26,맛,"taste, flavor"
+27,맛있다,to be delicious
+28,맵다,"to be hot, spicy"
+29,잘,well
+30,외국인,foreigner
+31,한식,Korean food
+32,일식,Japanese food
+33,양식,Western food
+34,중국 음식,Chinese food
+35,자장면,jajangmyeon
+36,초밥,sushi
+37,스테이크,steak
+38,맛없다,to taste bad
+39,달다,to be sweet
+40,시다,to be sour
+41,짜다,to be salty
+42,싱겁다,to be bland
+43,쓰다,to be bitter
+44,크리스마스,Christmas
+45,차,tea
+46,살다,to live in
+47,알다,to know
+48,열다,to open
+49,놀다,"to play, hang out"
+50,만들다,to make
+51,멀다,"to be distant, far away"
+52,좀,a little
+53,간장,soy sauce
+54,고추,hot pepper
+55,식혜,sweet rice drink
+56,카레,curry
+57,냉면,naengmyeon (cold noodles)
+58,갈비탕,beef rib soup
+59,김치찌개,kimchi stew
+60,된장찌개,bean-paste stew
+61,칼국수,kalguksu (seafood handmade noodles)
+62,갈비,beef ribs
+63,삼겹살,roasted pork
+64,국수,noodles
+65,떡볶이,ddeokbokki
+66,김밥,kimbab
+67,라면,ramen
+68,닭갈비,"spicy, stir-fried chicken"
+69,삼계탕,chicken soup with ginseng
+70,순두부찌개,soft tofu stew
+71,아침,"morning, breakfast"
+72,점심,"lunch time, lunch"
+73,저녁,"evening, dinner"
+74,설악산,Mt. Seorak
+75,인분,"serving, portion (of food)"
+76,중에서,among
+77,상추,lettuce
+78,보통,"usual, normal, usually, normally"
+79,외국,foreign
+80,종업원,employee
+81,뭘,what (contraction of 무엇을)
+82,물,water
+83,요일,day of the week
+84,주다,to give
+85,드리다,to give (honorific)
+86,일,one
+87,이,two
+88,삼,three
+89,사,four
+90,오,five
+91,육,six
+92,칠,seven
+93,팔,eight
+94,구,nine
+95,십,ten
+96,개,counting unit for things
+97,잔,counting unit for cups
+98,커피,coffee
+99,병,counting unit for bottles
+100,소주,soju
+101,그릇,bowl
+102,사과,apple
+103,사탕,candy
+104,초콜릿,chocolate
+105,배,ship
+106,고프다,to be hungry
+107,다리,leg
+108,아프다,"to be painful, to hurt"
+109,단어,word
+110,참다,"to endure, to suppress"
+111,모르다,to not know
+112,케이크,cake
+113,생일,birthday
+114,오렌지,orange
+115,일어,the Japanese language
+116,짬뽕,Chinese hot noodles
+117,볶음밥,fried rice
+118,탕수육,sweet and sour pork
+119,스파게티,spaghetti
+120,라자냐,lasagna
+121,콤비네이션,combination
+122,손님,customer
+123,피자,pizza
+124,알겠습니다,"okay, I understand"
+125,물냉면,mul-naengmyeon (cold noodle soup)
+126,술집,bar
+127,마시다,to drink
+128,시키다,to order
+0,지금,now
+1,시,"hour, o'clock"
+2,분,minute
+3,십,ten
+4,이십,twenty
+5,삼십,thirty
+6,사십,forty
+7,오십,fifty
+8,육십,sixty
+9,칠십,seventy
+10,팔십,eighty
+11,구십,ninety
+12,백,hundred
+13,천,thousand
+14,만,ten thousand
+15,원,won
+16,시계,"watch, clock"
+17,수,number
+18,시간,"time, hour"
+19,반,half
+20,오전,a.m.
+21,오후,p.m.
+22,아르바이트,part-time job
+23,쯤,about
+24,회의,meeting
+25,잠깐,"for a minute, just a moment"
+26,어서 오세요,"welcome, please come in"
+27,이야기하다,to talk
+28,고맙다,to be thankful
+29,월,month
+30,일,day
+31,며칠,"what day, a few days"
+32,내일,tomorrow
+33,뭐,what (contraction of '무엇')
+34,글쎄요,"hmmm, well"
+35,쉬다,to rest
+36,날짜,date
+37,요일,day of the week
+38,월요일,Monday
+39,화요일,Tuesday
+40,수요일,Wednesday
+41,목요일,Thursday
+42,금요일,Friday
+43,토요일,Saturday
+44,일요일,Sunday
+45,하숙집,boarding house
+46,이번,this time
+47,여행,trip
+48,방학,school vacation/holiday
+49,언제,when
+50,날,day
+51,시험,exam
+52,졸업식,graduation ceremony
+53,파티,party
+54,때,time
+55,일어나다,to get up
+56,수업,class
+57,세수하다,to wash one's face
+58,이를 닦다,to brush one's teeth
+59,타다,to get on/to ride
+60,내리다,to get off
+61,술,alcohol
+62,잠,sleep
+63,식사,meal
+64,조금,a little
+65,어제,yesterday (contraction)
+66,아름답다,to be beautiful
+67,그저께,the day before yesterday (long)
+68,그제,the day before yesterday (contraction)
+69,어저께,yesterday (long)
+70,오늘,today
+71,모레,the day after tomorrow
+72,지난 주 ,last week
+73,이번 주,this week
+74,다음 주,next week
+75,지난 달 ,last month
+76,이번 달,this month
+77,다음 달,next month
+78,지난,"last, previous"
+79,다음,next
+80,주,week
+81,달,month
+82,작년,last year
+83,올해,this year
+84,내년,next year
+85,운동장,sports field
+86,구두,(dress) shoes
+87,쉽다,to be easy
+88,어렵다,to be difficult
+89,돕다,to help
+90,놀다,"to play, hang out"
+91,기다리다,to wait
+92,쇼핑,shopping
+93,기분,feeling
+94,한국어,the Korean Language
+95,청소,cleaning
+0,안녕하십니까?,"Hello, how do you do?"
+1,네,"yes; I see, okay"
+2,저,I (humble)
+3,이름,name
+4,성,family name
+5,씨,Mr./Mrs.
+6,선생님,teacher
+7,인도,India
+8,중국,China
+9,사람,"person, people"
+10,제,my (humble)
+11,그리고,and
+12,친구,friend
+13,반갑습니다,I'm glad to meet you.
+14,어느,which
+15,나라,country
+16,미국,the United States
+17,아니요,no
+18,일본,Japan
+19,그렇습니까?,is that (so)?
+20,한국,Korea
+21,호주,Australia
+22,러시아,Russia
+23,독일,Germany
+24,몽골,Mongolia
+25,태국,Thailand
+26,영국,the U.K.
+27,국적,nationality
+28,왔습니다,came
+29,캐나다,Canada
+30,회사원,office worker
+31,그럼,then
+32,학생,student
+33,대학생,college student
+34,직업,job
+35,의사,doctor
+36,간호사,nurse
+37,변호사,lawyer
+38,가수,singer
+39,경찰,police officer
+40,은행원,banker
+41,비서,secretary
+42,기자,journalist
+43,교수,professor
+44,그런데,by the way
+45,무엇,what
+46,누구,who
+47,처음 뵙겠습니다.,Nice to meet you!
+48,반갑다,to be glad
+49,가다,to go
+50,오다,to come
+51,만나다,to meet
+52,쓰다,to write
+53,자다,to sleep
+54,인사하다,to greet
+55,먹다,to eat
+56,듣다,to listen
+57,입다,to wear
+58,읽다,to read
+59,학교,school
+0,점원,(store) clerk
+1,이것,this (thing)
+2,교과서,textbook
+3,그렇다,to be like that
+4,저것,that (thing) 
+5,사전,dictionary
+6,책상,desk
+7,잡지,magazine
+8,읽기 책,reading book
+9,책,book
+10,필통,pencil case
+11,연필,pencil
+12,볼펜,(ballpoint) pen
+13,지우개,eraser
+14,자,ruler
+15,지갑,"wallet (US), purse (UK)"
+16,돈,money
+17,신분증,ID card
+18,여권,passport
+19,카드,(credit) card
+20,가방,bag
+21,휴지,tissue
+22,손수건,handkerchief
+23,거울,mirror
+24,모자,hat
+25,공책,notebook
+26,수첩,"pocket notebook, small notebook"
+27,종이,paper
+28,열쇠,key
+29,과자,snack foods
+30,이,this
+31,그,that
+32,저,that (over there)
+33,여기,here
+34,있다,"to exist, to be, to have"
+35,달력,calendar
+36,지도,map
+37,없다,"to not exist, to not be, to not have"
+38,교실,classroom
+39,칠판,blackboard
+40,분필,chalk
+41,의자,chair
+42,그림,picture
+43,옷걸이,hanger
+44,텔레비전,television
+45,문,door
+46,창문,window
+47,많다,"to be many, much"
+48,적다,"to be a few, a little"
+49,크다,to be big
+50,작다,to be small
+51,좋다,to be good
+52,나쁘다,to be bad
+53,날씨,weather
+54,주스,juice
+55,물건,thing(s)
+56,주머니,"pocket, small pouch"
+57,학생회관,student union building
+58,은행,bank
+59,어디,where
+60,도서관,library
+61,화장실,restroom
+62,식당,restaurant
+63,서점,bookstore
+64,우체국,post office
+65,사무실,office
+66,앞,in front of
+67,뒤,behind
+68,옆,"the side, beside"
+69,위,on
+70,밑,under
+71,아래,below
+72,안,inside
+73,밖,outside
+74,1층,1st floor
+75,지하,basement
+76,침대,bed
+77,냉장고,refrigerator
+78,신문,newspaper
+79,컴퓨터,computer
+80,전화,phone
+81,맥주,beer
+82,옷,clothes
+83,우유,milk
+84,집,"house, home"
+85,근처,"nearby, around"
+86,백화점,department store
+87,컵,cup
+88,지하철,subway
+89,역,station
+90,회사,company
+91,극장,theater
+92,병원,hospital
+93,약국,pharmacy
+94,가게,store
+95,공원,park
+96,시장,market
+97,정류장,bus stop
+98,커피숍,coffee shop
+99,우리,our
+100,참,really
+101,교회,church
+0,하다,to do
+1,가족,family
+2,사진,picture; photo (not 그...)
+3,보다,to see
+4,자주,often
+5,가끔,sometimes
+6,일,work
+7,숙제,homework
+8,공부,study
+9,이야기,story
+10,노래,song
+11,운동,exercise
+12,산책,"stroll, walk"
+13,일하다,to work
+14,공부하다,to study
+15,숙제하다,to do homework
+16,운동하다,to exercise
+17,이야기하다,to talk
+18,노래하다,to sing a song
+19,산책하다,"to go for a stroll, to take a walk"
+20,사다,to buy
+21,김치,kimchi
+22,영화,movie
+23,음악,music
+24,날마다,everyday (not 매...)
+25,부르다,to sing
+26,명,counting unit for people
+27,몇,"how many, what (with a counter)"
+28,아버지,father
+29,어머니,mother
+30,누나,older sister (for males)
+31,모두,all
+32,부모님,Parents
+33,계시다,to be (honorific)
+34,고향,hometown
+35,형,older brother (for males)
+36,오빠,older brother (for females)
+37,남동생,younger brother
+38,여동생,younger sister
+39,동생,younger sibling
+40,남,male
+41,여,female
+42,언니,older sister (for females)
+43,나,I (plain)
+44,할머니,grandmother
+45,할아버지,grandfather
+46,외할아버지,grandfather (mother's side)
+47,외할머니,grandmother (mother's side)
+48,형제,siblings
+49,주무시다,to sleep (honorific)
+50,잡수시다,"to eat (honorific, not 드..!)"
+51,드시다,to eat (honorific)
+52,말하다,"to say, to speak"
+53,말씀하시다,"to say, to speak (honorific)"
+54,하나,one (pure-Korean)
+55,둘,two (pure-Korean)
+56,셋,three (pure-Korean)
+57,넷,four (pure-Korean)
+58,다섯,five (pure-Korean)
+59,여섯,six (pure-Korean)
+60,일곱,seven (pure-Korean)
+61,여덟,eight (pure-Korean)
+62,아홉,nine (pure-Korean)
+63,열,ten (pure-Korean)
+64,개,counting unit for things
+65,권,counting unit for books
+66,좋아하다,to like
+67,주부,housewife
+68,아주,very
+69,안,not
+70,고등학생,high school student
+71,재미있다,"to be fun, interesting"
+72,산,mountain
+73,공기,air
+74,조용하다,to be quiet
+75,깨끗하다,to be clean
+76,더럽다,to be dirty
+77,예쁘다,to be pretty
+78,시끄럽다,to be noisy
+79,넓다,"to be wide, broad"
+80,좁다,to be narrow
+81,복잡하다,"to be crowded, to be complicated"
+82,따뜻하다,to be warm
+83,시원하다,to be cool
+84,덥다,to be hot
+85,춥다,to be cold
+86,바다,sea
+87,그래서,"so, therefore"
+88,생선,fish
+89,대학교,"college, university"
+90,겨울,winter
+91,여름,summer
+92,친절하다,to be kind
+93,들,plural particle
+94,사랑하다,to love
+95,어떻다,how (it) is
+96,경제학,economics
+97,전공,"major, field of study"
+98,역사학,history
+99,정치학,political science
+100,경영학,business administration
+101,법학,law
+102,영문학,English literature
+103,의학,medicine
+104,컴퓨터공학,computer engineering
+105,생물학,biology
+106,사장,"CEO, president (of a company)"
+107,영어,English language
+108,컴퓨터 프로그래머,computer programer
+109,방,room
+110,한국말,Korean language (spoken)

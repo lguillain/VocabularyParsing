@@ -1,0 +1,448 @@
+,0,1
+0,가방,bag
+1,기숙사,dormitory
+2,대학교,"college, university"
+3,도서관,Library
+4,유니온 빌딩,Union Building
+5,시계,"clock, watch"
+6,식당,restaurant
+7,안,the inside
+8,앞,the front
+9,뒤,"the back, behind"
+10,어디,"what place, where (question word)"
+11,우체국,Post office
+12,위,"the top side, above"
+13,밑,"the bottom, below"
+14,옆,"the side, beside"
+15,의자,chair
+16,책,Book
+17,책방,bookstore
+18,책상,desk
+19,캠퍼스,campus
+20,학교,School
+21,학생회관,student center
+22,층,"floor, layer"
+23,있다,to be (existence)
+24,저어,uh (expression of hesitation)
+25,에,"in, at, on (indicates static location)"
+26,숙제,homework
+27,아침,breakfast; morning
+28,음식,food
+29,커피,coffee
+30,괜찮다,"to be all right, okay"
+31,넓다,"to be spacious, wide"
+32,많다,"To be many, much"
+33,맛있다,to be delicious
+34,싸다,to be cheap
+35,어떻다,to be how
+36,좋다,"to be good, nice"
+37,크다,to be big
+38,아주,"very, really"
+39,참,"really, truly"
+40,가다,to go
+41,먹다,to eat
+42,앉다,to sit
+43,알다,to know
+44,하다,to do
+45,어,oh
+46,~어요/아요,polite ending
+47,그리고,and
+0,경제학,economics (major)
+1,교과서,textbook
+2,교실,classroom
+3,내일,tomorrow
+4,반,class (the students)
+5,사전,dictionary
+6,수업,"class, lesson, course"
+7,시간,time
+8,여자,woman
+9,오늘,today
+10,우산,umbrella
+11,질문,question
+12,집,"home, house"
+13,친구,friend
+14,컴퓨터,computer
+15,누구,who
+16,인사하다,to greet
+17,읽다,to read
+18,없다(없어요),"to not be (existence), to not have"
+19,있다 (있어요),to have
+20,재미있다 (재미있어요),"to be interesting, fun"
+21,그런데,"but, however, by the way"
+22,~(으)세요,Honorific Polite Ending
+23,공부(하다),study
+24,남자,man
+25,시험,"test, exam"
+26,역사,history
+27,주스,juice
+28,텔레비전,television
+29,마시다,to drink
+30,만나다,to meet
+31,보다(보세요),"to see, look, watch"
+32,지내다(지내세요),to get along
+33,그래서,"so, therefore"
+34,그럼,if so; then (contraction)
+35,매일,every day
+36,어떻게,how
+37,열심히,diligently
+38,요즘,these days
+39,잘,"well, skillfully, properly"
+40,지금,now
+41,들,plural particle
+42,을/를,object particle
+43,맛없다,"to be tasteless, not delicious"
+44,재미없다,to be uninteresting
+45,동양학,Asian studies
+46,언어학,linguistics
+47,교육학,education
+48,물리학,physics (major)
+49,생물학,biology
+50,기계 공학,mechanical engineering
+51,전기 공학,electronic engineering
+52,음악,music
+53,피아노,piano
+54,건축학,architecture (major)
+55,법학,law (major)
+0,일학년,freshman
+1,이학년,sophomore
+2,삼학년,junior
+3,사학년,senior
+4,과,"Lesson, chapter"
+5,대학생,college student
+6,미국,the United States
+7,사람,"person, people"
+8,인사,greeting
+9,학년,school year
+10,학생,student
+11,한국,Korea
+12,저,I (humble)
+13,나,I (plain)
+14,일,one (Sino-Korean)
+15,이,two (Sino-Korean)
+16,삼,three (Sino-Korean)
+17,사,four (Sino-Korean)
+18,안녕하다,to be well ('Hi'; 'Hello'; 'How are you?')
+19,이다,to be (equation)
+20,도,"also, too (particle)"
+21,은/는,topic particle ('as for')
+22,선생님,teacher
+23,씨,attached to a person's name for courtesy
+24,영국,United Kingdom
+25,영어,the English language
+26,이름,name
+27,일본,Japan
+28,중국,China
+29,클래스,Class
+30,한국어,the Korean Language
+31,네,"yes; I see, okay"
+32,아니요,no
+33,이/가,Subject Particle
+34,그렇다,to be so
+35,반갑다,to be glad
+36,아니다,to not be (negative equation)
+37,뭐,what
+0,개,dog
+1,고등학생,high school student
+2,남동생,younger brother
+3,대학원생,graduate student
+4,동생,younger sibling
+5,보스턴,Boston
+6,부모님,Parents
+7,아버지,father
+8,어머니,mother
+9,여동생,younger sister
+10,오빠,the older brother of a female
+11,형,the older brother of a male
+12,홍콩,Hong Kong
+13,몇,"how many, what (with a counter)"
+14,개,item (counter)
+15,권,"volume, book, copy (counter)"
+16,년,year (counter)
+17,달,month (counter)
+18,달러/불,dollar (counter)
+19,명,people (counter)
+20,원,won (counter)
+21,월,month (counter)
+22,일,day  (counter)
+23,두,two (with a counter)
+24,한,one (with a counter)
+25,계시다,to be (existence) (honorific)
+26,하고,and (with nouns)
+27,마리,animal (counter)
+28,거,thing (contraction)
+29,누나,the older sister of a male
+30,뉴욕,New York
+31,룸메이트,roommate
+32,방,room
+33,사이,relationship; between
+34,생물학,biology
+35,아파트,apartment
+36,언니,the older sister of a female
+37,로스앤젤레스,Los Angeles
+38,하와이,Hawaii
+39,만,only (particle)
+40,의,of (particle)
+41,고맙다,to be thankful
+42,나쁘다,to be bad
+43,비싸다,to be expensive
+44,예쁘다,to be pretty
+45,작다,to be small in size
+46,배우다,to learn
+47,오다,to come
+48,자다,to sleep
+49,주다,to give
+50,저희,"we, us, our (humble)"
+51,이거,this (contraction)
+52,제,my (humble)
+53,일,1 (Sino-Korean)
+54,이,2 (Sino-Korean)
+55,삼,3 (Sino-Korean)
+56,사,4 (Sino-Korean)
+57,오,5 (Sino-Korean)
+58,육,6 (Sino-Korean)
+59,칠,7 (Sino-Korean)
+60,팔,8 (Sino-Korean)
+61,구,9 (Sino-Korean)
+62,십,10 (Sino-Korean)
+63,십일,11 (Sino-Korean)
+64,십이,12 (Sino-Korean)
+65,십삼,13 (Sino-Korean)
+66,십사,14 (Sino-Korean)
+67,십오,15 (Sino-Korean)
+68,십육,16 (Sino-Korean)
+69,십칠,17 (Sino-Korean)
+70,십팔,18 (Sino-Korean)
+71,십구,19 (Sino-Korean)
+72,이십,20 (Sino-Korean)
+73,삼십,30 (Sino-Korean)
+74,사십,40 (Sino-Korean)
+75,오십,50 (Sino-Korean)
+76,육십,60 (Sino-Korean)
+77,칠십,70 (Sino-Korean)
+78,팔십,80 (Sino-Korean)
+79,구십,90 (Sino-Korean)
+80,백,100
+81,천,"1,000"
+82,만,"10,000"
+83,하나,1 (Native Korean)
+84,둘,2 (Native Korean)
+85,셋,3 (Native Korean)
+86,넷,4 (Native Korean)
+87,다섯,5 (Native Korean)
+88,여섯,6 (Native Korean)
+89,일곱,7 (Native Korean)
+90,여덟,8 (Native Korean)
+91,아홉,9 (Native Korean)
+92,열,10 (Native Korean)
+93,열하나,11 (Native Korean)
+94,열둘,12 (Native Korean)
+95,열셋,13 (Native Korean)
+96,열넷,14 (Native Korean)
+97,열다섯,15 (Native Korean)
+98,열여섯,16 (Native Korean)
+99,열일곱,17 (Native Korean)
+100,열여덟,18 (Native Korean)
+101,열아홉,19 (Native Korean)
+102,스물,20 (Native Korean)
+103,서른,30 (Native Korean)
+104,마흔,40 (Native Korean)
+105,쉰,50 (Native Korean)
+106,예순,60 (Native Korean)
+107,일흔,70 (Native Korean)
+108,여든,80 (Native Korean)
+109,아흔,90 (Native Korean)
+110,한,1 (Native Korean before counter)
+111,두,2 (Native Korean before counter)
+112,세,3 (Native Korean before counter)
+113,네,4 (Native Korean before counter)
+114,열한,11 (Native Korean before counter)
+115,열두,12 (Native Korean before counter)
+116,열세,13 (Native Korean before counter)
+117,열네,14 (Native Korean before counter)
+118,스무,20 (Native Korean before counter)
+0,과목,"course, subject"
+1,공원,park
+2,랩,lab
+3,백화점,department store
+4,생일,birthday
+5,서점,bookstore
+6,선물,"present, gift"
+7,쇼핑,shopping
+8,연습,practice
+9,오래간만,after a long time
+10,운동,exercise
+11,일,work
+12,저녁,evening; dinner
+13,점심,lunch
+14,커피숍,"coffee shop, cafe"
+15,테니스,tennis
+16,햄버거,hamburger
+17,가르치다,to teach
+18,사다,to buy
+19,치다,"to play (tennis, etc.)"
+20,에,to (destination)
+21,에서,"In, at (dynamic location)"
+22,안녕히,In peace
+23,그런데,by the way
+24,가게,store
+25,오전,A.M.
+26,옷,clothes
+27,월요일,Monday
+28,화요일,Tuesday
+29,수요일,Wednesday
+30,목요일,Thursday
+31,금요일,Friday
+32,토요일,Saturday
+33,일요일,Sunday
+34,정치학,political science
+35,이번,this time
+36,학기,"semester, academic term"
+37,걷다,to walk
+38,듣다,to listen; to take a course
+39,좋아하다,to like
+40,분,minute
+41,시,"hour, o'clock"
+42,같이,together
+43,언제,when
+44,에,"at, in, on (time)"
+45,하고,with
+46,~(으)러,in order to
+0,계절,season
+1,꽃,flower
+2,극장,movie theater
+3,나라,country
+4,내년,next year
+5,다음,"next, following"
+6,대학원,graduate school
+7,방학,school vacation
+8,브로드웨이 극장,Broadway theater
+9,약속,engagement; promise
+10,액션 영화,action movie
+11,여름,summer
+12,여행,travel
+13,영화,movie
+14,이스트 홀,East Hall
+15,코미디,comedy
+16,받다,to receive
+17,아마,"probably, perhaps"
+18,자주,"often, frequently"
+19,정말,really
+20,참,by the way
+21,무슨,"what, what kind of"
+22,어느,which
+23,~(으)ㄹ 거예요,probability
+24,가을,"autumn, fall"
+25,겨울,winter
+26,마트,mart
+27,봄,spring
+28,설거지,dishwashing
+29,신문,Newspaper
+30,심리학,psychology
+31,이야기,"talk, chat"
+32,전공,major
+33,주,Week
+34,준비,preparation
+35,청소,cleaning
+36,크리스마스,Christmas
+37,흐리다,To be cloudy
+38,보내다,to spend time
+39,장(을)보다,to buy one's groceries
+40,가끔,"sometimes, occasionally"
+41,많이,"much, many"
+42,서로,each other
+43,~고,and (clausal connection)
+0,날씨,weather
+1,말,"speech, words"
+2,버스,bus
+3,볼펜,ball point pen
+4,비행기,airplane
+5,연필,pencil
+6,자전거,bicycle
+7,지하철,subway
+8,차,car
+9,한인타운,Korea town
+10,까지,up to (location)
+11,(으)로,by means of
+12,에서,from (location)
+13,쯤,"about, around"
+14,걸리다,to take time
+15,살다,to live
+16,쓰다,to write
+17,가깝다,"to be close, near"
+18,덥다,to be hot (weather)
+19,멀다,to be far
+20,쉽다,to be easy
+21,어렵다,To be difficult
+22,춥다,to be cold
+23,좁다,to be narrow
+24,보통,usually
+25,얼마나/얼마,how long/how much
+26,조금,a little
+27,시간,hour (duration)
+28,하루,one day
+29,수영,swimming
+30,수영장,swimming pool
+31,어제,yesterday
+32,음악,music
+33,전화,telephone
+34,주말,weekend
+35,테니스장,tennis court
+36,파티,party
+37,모르다,"to not know, be unaware of"
+38,일어나다,to get up
+39,바쁘다,to be busy
+40,너무,too much
+41,못,cannot
+42,안,do not
+43,왜,why
+44,지난,"last, past"
+45,~었/았/ㅆ,past tense
+0,가운데,"the middle, the center"
+1,건너편,the other side
+2,교회,church
+3,꽃집,flower shop
+4,동네,neighborhood
+5,서울,Seoul
+6,슈퍼,supermarket
+7,약국,drugstore
+8,지도,map
+9,쪽,"side, direction"
+10,초등학교,elementary school
+11,군데,"place, spot"
+12,번,number
+13,~지요?,isn't it? (seeking agreement)
+14,여기,here
+15,거기,there
+16,저기,over there
+17,내리다,to get off
+18,타다,"to get in/on, ride"
+19,깨끗하다,to be clean
+20,따뜻하다,to be warm
+21,조용하다,to be quiet
+22,여러,"many, several"
+23,이,this
+24,그,that
+25,저,that (over there)
+26,근처,"nearby, vicinity"
+27,말씀,"speech, words  (honorific)"
+28,시청,city hall
+29,역,station
+30,오른쪽,right side
+31,왼쪽,left side
+32,우표,stamp (for postage)
+33,은행,bank
+34,의사,doctor
+35,처음,the first time
+36,호선,subway line
+37,좀,a little (contraction)
+38,쭉,straight
+39,돌다,to turn
+40,팔다,to sell
+41,묻다(묻겠습니다),to ask
+42,보이다,"to be seen, visible"
+43,뵙다,to see (humble)
+44,감사하다(감사합니다),to be thankful
+45,미안하다,to be sorry
+46,(으)로,"toward, to"
+47,~습니다/ᄇ니다,deferential ending for a statement
+48,~습니까/ᄇ니까?,deferential ending for a question

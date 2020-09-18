@@ -1,0 +1,762 @@
+,0,1
+0,언어장벽,language barrier
+1,언어장애,speech impediment
+2,대해,"about, concerning (~에 ... verb)"
+3,향수병,homesick
+4,문화 충격,culture shock
+5,닮다,to be similar
+6,속상하다,"to feel troubled, depressed, sore about"
+7,독차지하다,"to hog, steal"
+8,양보하다,"to make concession, compromise"
+9,대한,"about, concerning (~에 ... noun)"
+10,어릴 시절,childhood days
+11,면접,an interview
+12,지루하다,"to be boring, tiresome, weary"
+13,자꾸,frequently ㅈㄱ
+14,한숨,"a breath, a pause, a rest"
+15,떠리다,"to tremble, shake, quake"
+16,제대로,"as it is, as it stands, normally ᄌ"
+17,덕분,"indebted, assistance, support"
+18,호칭,"title, address, designation"
+19,무남독녀,an only daughter ㅁ
+20,마찬가지,"the same, likewise"
+21,관한,"about, concerning ᄀ (~에 .... noun)"
+22,가장,"most, best ㄱ"
+23,자라다,to grow up
+24,방금전에,just a moment ago (long form)
+25,호칭어,"a term for title, address, designation (longer)"
+26,친족,"relative, relation"
+27,이러한,as such
+28,외모,"appearance, looks"
+29,사모님,ma'am (nicer than 아줌마)
+30,지긋하다,"to be elderly, advanced in years, up in years"
+31,점잖다,"to be respectable, well mannered, decent"
+32,당황,"embarrassed, flustered, taken aback"
+33,심지어,"what was worse, even ...."
+34,넓다,"to be wide, spacious"
+35,낯선,unfamiliar
+36,헤어지다,to break up (dating couple)
+37,방금,just a moment ago (short form)
+38,청년,"a youth, young person"
+39,총각,"a bachelor, single guy"
+0,직장,workplace
+1,무역,"trade, commerce"
+2,직업,"occupation, job"
+3,기술,"knowlege, skill, technique, know-how"
+4,학력,"education level, academic ability, achievement"
+0,추측하다,"to guess, assume, presume, surmise"
+1,데리고 살다,"to take care of ㄷ (강아지, 사람, 조카, 동생)"
+2,모시고 살다,"to take care of ㅁ (할머니, 부모님)"
+3,불면증,insomnia
+4,예민,"sensitive, sharp, acute"
+5,부부 싸움,"a couple's argument, fight"
+6,가정 문제,"a problem at home, with family"
+7,방식,"way, method, means"
+8,깨다,"1) wake up, awaken  2) sober up"
+9,수면,sleep (not 자다)
+10,격렬,intensive (~하다)
+11,피하다,"to avoid, escape, dodge"
+12,소식,"light eating, small appetite"
+13,이동,"movement, migration, transfer"
+14,거주,residence
+15,수가,number (not 숫자)
+16,증가,increase (not 늘리다)
+17,운영,"run, operation, manage (~하다)"
+18,실시,"conduct, implement, enforce"
+19,노무,"labor, work, service"
+20,의료 진료,"medical treatment, care (2 words)"
+21,금융,"finance, banking, monetary"
+22,인권,"human rights, civil rights"
+23,주택임대,a rental house
+24,유학정보,study abroad information
+25,취업정보,job information
+26,실질적,"practical, actual, real"
+0,지역사회,"regional community, local community"
+1,연탄,charcole briquette
+2,소년 소녀 가장,orphans w/o support/assistance
+3,결식아동,undernourished children
+0,취업,employment
+1,직종,type of occupation
+2,사무직,"office job, white-collar job"
+3,생산직,blue collar job
+4,서비스직,service sector job
+5,자영업,self-employed
+6,전문직,"specialized job, professional"
+7,기술직,technical job
+8,판매직,"sales job, sales position"
+9,영업직,"job in business, commerce, trade"
+10,게시판,"bulletin board, BBS"
+11,기업,"a business, enterprise, company"
+12,가게,"a store, a shop"
+13,서류,"a document, file"
+14,모집,job recruitment
+15,이력서,"a resume, CV"
+16,자기소개서,a self-introduction letter
+17,경력증명서,"certificate (career, employment)"
+18,자격증 사본,copy of certificates/licenses
+19,전형 방법,screening/examination methods
+0,문화 체험,cultural experience
+1,다도,"tea ceremony (common term, not 다례)"
+2,전통 혼례,traditional wedding ceremony
+3,궁궐,royal palace
+4,다례,tea ceremony (less common than 다도)
+5,다식을 먹다,to eat trad snack (dasik)
+6,꿇다,to kneel (short)
+7,시연,"a demonstration, trial, performance, preview"
+8,따르다,to pour liquid 
+9,차를 우려내다,to brew tea (끓다)
+10,다례 체험,a tea ceremony
+11,무릎을 꿇고 앉다,"to sit on one's knees, to kneel (long)"
+12,두 손으로 차를 따르다,to pour tea with two hands
+13,다례 시연을 보다,to watch a tea ceremony demonstration
+14,한복 입기 체험,Hanbok wearing experience
+15,속치마,underskirt
+16,속바지,underpants
+17,허리끈을 매다,"to tie the belt, sash (at waist)"
+18,두루마기,Hanbok topcoat (long)
+19,버선,trad socks
+20,옷구름을 매다,to tie the string (at 가슴)
+21,마고자,Hanbok jacket (짧다)
+22,템플스테이,a temple stay
+23,예불을 드리다,"to have a Buddhist service (pray, worship, offer)"
+24,참선하다,"meditation, zen meditation (not 명상)"
+25,108배를 하다,"to bow 108 times, lay prostrate 108 times (while pondering (mediatiing?) 108 things)"
+26,사찰을 순례하다,a temple pilgrimage
+27,공양을 하다,to give an offering (쌀을 ~  to give a rice offering)
+28,명상을 하다,to meditate (not 참선)
+29,봉헌,"dedication, consecration"
+30,사물놀이 체험,"percussion instrument ensemble experience (복, 징, 장구, 꽹과리)"
+31,사물놀이의 유래를 배우다,to learn the origin of 4 percussion instrument ensemble
+32,전통 악기를 연주해 보다,to see a performance of traditional instruments
+33,시범을 보다,to see a demonstration
+34,전통 음악을 듣다,listen to traditional music
+35,채를 잡다,"grab/hold a stick (for drum, cymbal)"
+36,차를 올리다,to put tea up (on a table)
+37,체험 참가 신청을 하다,apply to participate in a (cultural) experience
+38,문화 탐방을 하다,to make/take a cultural tour/visit
+39,시범을 보고 직접 만들어 보다,to directly watch a making demonstration
+40,체험 행사가 진행되다,to experience a ceremony/function/event progression
+41,체험 행사에 참가하다,to participate in an event (experience)
+42,장단,"rhythm, time (traditional music, not 박자)"
+43,도자기 체험,"a ceramics experience, pottery, earthenware"
+44,나전 체험,a lacquerware inlaid w/mother-of-pearl + experience
+45,유물 관람,to view/see relic/remains
+46,한국화 체험,a Korean painting experience
+47,인장 체험,"a name stamp experience, a seal, signet (not 도장)"
+48,한지 공예,traditional Korean paper + craft
+49,자수 공예,"embroidery, needlework + craft"
+50,택견 체험,taekgyeon experience
+51,장신구 만들기 체험,making personal accessory experience
+52,탈춤 배우기,learn a mask dance
+53,시범,a demonstration
+54,기대,expectation
+55,신나다,"to be excited (about), elated (at/by)"
+0,공공 기관,"public institution, government office"
+1,앞면,the front side
+2,안내,information
+3,주로,"primarily, mainly, mostly"
+4,기관,"institution, agency"
+5,공문서,an official document
+6,여권,passport
+7,외국인등록증,"Alien ID, ARC"
+8,공공,public
+9,뒷면,"the back, reverse"
+10,체류자격,"visa type (stay, sojourn)"
+11,성별,gender
+12,이름,name
+13,국적,"nationality, citizenship"
+14,자격,"capacity, right, qualification"
+15,발급 일자,date of issuance
+16,발급사무소,"issuing office, location, authority"
+17,여권상 국적,nationality in your passport
+18,허가일지,permitted time of stay (visa)
+19,만료일자,expiration date (visa)
+20,신고서,certificate ᄉ
+21,체류지,"residence during sojourn, place of residence"
+22,여권번호,passport number
+23,발행관청,"issuing government authority, gov't office"
+24,출생신고서,birth certificate
+25,가족관계증명서,family relation certificate
+26,통장잔고증명서,certificate of bank balance
+27,혼인신고서,marriage certificate
+28,증명서,certificate ᄌ
+29,개명신고서,name change certificate
+30,신분증사본,copy of ID
+31,사본,a copy
+32,통장사본,copy of a bank book
+33,등본,a certified copy
+34,출입국사실증명서,Immigration certificate
+35,주민등록등본,certified copy of resident registration
+36,출입국관리사무소,Immigration Office
+37,동 주민센터,Dong Community Service Center
+38,구청,Gu Office
+39,외국인인력지원센터,foreigner support center
+40,지원,"support, backing"
+41,보건소,community health center
+42,도로교통공단,Road Traffic Authority
+43,공단,"public agency, authority, corporation"
+44,개발급,reissuance
+45,체류지 변경 신고를 하다,report a change of address
+46,체류기간을 연장하다,to extend the period of stay (visa)
+47,발급받다,"to be issued (visa, ID, certificate)"
+48,떼다,"to take off, remove, detach"
+49,구직상담을 받다,to receive job consultation
+50,건강검진을 하다,"to get a physical, medical checkup"
+51,예방접종을 하다,"to get a vaccination, shot, injection"
+52,운전면허를 따다,"to get a drivers' license, obtain (no 증)"
+53,따다,"to get, obtain, grab (fruit, license, language, fruit)"
+54,갱신,"renew, renewel"
+55,운전면허증을 신청하다,to apply for a drivers' license
+56,운전면허증을 갱신하다,to renew a driver's license (if expired)
+57,운전면허증을 개발급 받다,to receive a reissued driver's license (if lost)
+0,명령문,a statement
+1,대신,"take place of, substitute for, replace, in place of (하다)"
+2,전하다,"to deliver, convey, communicate"
+3,보호자,"guardian, protector"
+4,수익금,"profits, proceeds"
+5,바자회,"bazaar, rummage sale"
+6,노숙자,a homeless person
+7,봉사 활동,"volunteer work, volunteer activity"
+8,김장,making kimchee
+9,권장하다,"to encourage, recommend, promote"
+10,들르다,"to stop by, drop by, (informal) visit"
+11,헌,"time, occasion, #"
+12,의지하다,"to rely on, lean on, depend on, reliance"
+13,교류하다,"exchange, interchange"
+14,기르다,"1) to raise, rear, bring up 2) cultivate 3) train"
+15,기부 물품,"donated goods, contributes articles"
+16,급식 배급,"food distribution, provide meals"
+17,다니다,to go to and from (a place)
+18,시설,"equipment, facilities, an establishment"
+19,기부,"donation, contribution"
+20,주위,"around, surroundings"
+0,예식,a ceremony
+1,월병,mooncakes
+2,칠면조,a turkey (animal)
+3,부위,"a part, a region (ex: of a turkey)"
+4,짐을 꾸리다,"to pack luggage, cargo, freight"
+5,환전하다,to exchange money
+6,환불,a refund
+7,예매하다,"to reserve, make reservation, book, purchase in advance"
+8,주유하다,to gas up (a car)
+9,차에 기름을 넣다,to put gas (oil) in a vehicle
+10,구매하다,to purchase
+11,심하다,"1) extreme, excessive, severe 2) cruel, harsh, rough"
+12,풀리다,"1) disappear, go away, vanish 2) get loose, come untangled, come untied"
+13,병풍,a folding screen (6 panels)
+0,회식,"a work dinner, company dinner"
+1,모임,"a social gathering, meeting, get-together"
+2,송년회,year-end party
+3,연말,end of the year
+4,신년회,new year's party
+5,송별회,"farewell party, send-off"
+6,떠나다,"to leave, depart, set off"
+7,동창회,"alumni party, reunion"
+8,연합회,"a coaliation, association, group (__~)"
+9,가입,"join, enter"
+10,반상회,monthly neighborhood meeting
+11,매달,every month
+12,가족 모임,"family gathering, get togther"
+13,시무식,opening ceremony (for the new year)
+14,가지다,"have, carry, possess, own"
+15,야유회,a picnic
+16,교외,"suburbs, outskirts"
+17,동호회,"club, society, group"
+18,학부모회,parents' association
+19,부녀회,"women's society, group, association"
+20,부부 동반 모임,meeting with other married couples
+21,참석,"attend, participate"
+22,개회사,"opening speech, address"
+23,귀반,"an honored/distinguished guest, VIP"
+24,축사,"congratulatory address, speech"
+25,회장 인사말,"president's greetings, chairman's"
+26,마련하다,"to arrange, provide, raise (money)"
+27,팔순,80 years
+28,빛내,"shine, burnish, illustrious, glory"
+29,사항,"issues, matters, details"
+30,공지,announcement
+31,폐회사,closing remarks
+32,축가,song at a wedding
+33,건배사,a toast (speech then drink)
+34,안내 사항 공지,informational notice
+35,백일 잔치,baby 100 day birthday
+36,돌잔치,(baby) first birthday party (1 year)
+0,어울리다,"to match, suit with/well"
+1,곁들이다,to garnish
+2,골뱅이,"sea snail, @"
+3,무치다,to season (food)
+4,파전,green onion 'pancake'
+5,영양,nutrition
+6,예,"an example, illustration, instance"
+7,궁합,"well matched couple, marital compatibility, harmony"
+8,지방,fat
+9,분해,"dissolve, break down, decompose"
+10,소화,digestion
+11,비유,"a comparison, simile, a figure of speech"
+12,남녀,men and women
+13,영양소,nutrients
+14,파괴하다,"to break, destroy, demolish, wreck "
+15,끓다,to boil
+16,낳다,"to give birth, bear life, breed, spawn"
+17,정도,"a degree, extent"
+18,떨어지다,"to fall, slip, drop"
+0,명절,(national) holiday
+1,설날,Lunar New Year (holiday name)
+2,세배를 하다,to give a new Year's bow to elders
+3,음력,lunar calendar
+4,절하다,to bow (general)
+5,구정,Lunar New Year
+6,뜻,"meaning, sense (같은 ~이 same meaning)"
+7,양력,solar calendar
+8,설빔을 입다,"to wear New Year's clothes (best, new, clean)"
+9,세뱃돈을 받다,to receive New Year's money
+10,복조리를 걸다,to hang a woven item for luck
+11,보름달,a full moon
+12,제기차기,"traditional Korean hacky sack, weighted shuttlecock"
+13,연날리기,rectangle kites
+14,윷놀이,4 stick game (lit: 윷 + game)
+15,차례를 지내다,to hold ancestor rites
+16,덕담을 하다,to give words of blessing
+17,떡국,rice cake soup
+18,추석,Thanksgiving
+19,소편을 빚다,to make stuffed rice cakes
+20,성묘를 하다 ,"to visit a grave site, ancestor's grave"
+21,보름달을 보고 소원을 빌다,make a wish during a full moon
+22,벌초를 하다,"to clean a grave site, cut weeds, tidy up a grave"
+23,줄다리기,tug-of-war
+24,강강술래,trad. circle dance with song
+0,성격,"character, personality"
+1,AB형,AB blood type
+2,외향적,"extroverted, outgoing (이다)"
+3,B형의 성격은 어떻습니다?,What personality does a B type person have?
+4,직설적,"straightforward, direct, plain speaking (이다)"
+5,적극적,"active, enthusiastic (이다)"
+6,신중,"cautious, discrete, careful (하다)"
+7,까다롭다,"to be picky, choosy, particular, fussy"
+8,내성적,"intravert, reserved (이다)"
+9,소극적,"passive, half-hearted (이다)"
+10,소심,"timid, cowardice (하다)"
+11,꼼꼼,"meticulous, precise, detailed (하다)"
+12,고집이 세다,"to be stubborn, headstrong"
+13,행동,"an action, behavior, conduct"
+14,표현,"expression, verbalize, acticulate"
+15,마음속,"one's heart, mind, innermost thoughts"
+16,꾸미다,"1) feign, pretend  2) embellish"
+17,여러 번,many times
+18,챙기다,"to tidy up, put things in order"
+19,빈틈,"a gap, a crack, a crevice"
+20,의견,"an opinion, idea, view, suggestion, comment"
+21,호기심,"curiousity, inquisitive"
+22,집중력,"concentration (있다, 약하다, 강하다)"
+23,독창적,"creative, original, inventive (이다)"
+24,참을성이 있다,"to have patience, endurance, persistence"
+25,추진력,"driving force, momentum, thrust, propulsion"
+26,동정심,"sympathy, sympathetic"
+27,책임감,sense of responsibility / duty
+28,리더십,leadership (영)
+29,안타깝다,"to be impatient, irritated, vexed"
+30,맡다,"to take charge, be entrusted with (something)"
+31,무리,"a group, party, herd, gang, crowd"
+32,이끌다,"to head, lead, command"
+33,지도자,"a leader, guide"
+34,능력,"ability, capacity"
+35,목표,"goal, aim, purpose"
+36,밀다,"to push, shove"
+37,따르다,"to follow,go after, go along with"
+38,눕다,"to lay down, lie down"
+0,소식,"news, word, information"
+1,알림,notification
+2,초대,an invitation
+3,회원을 모집하다,to recruit new members
+4,개업,business opening
+5,초대장,invitation card
+6,청첩장,"a wedding invitation (letter, card)"
+7,부고,obituary
+8,개업 안내,announcement of opening a business
+9,알리다,"to inform, notify, let someone know"
+10,생일잔치,birthday celebration (한)
+11,크리스마스 파티,Christmas party
+12,행사,"event, function, occasion"
+13,대회,"large meeting, convention, conference"
+14,아파트 관리사무소,apartment management office
+15,관심 있는 분들,"interested individuals, people"
+16,회사 홍보부,public relations (of a company)
+17,동호회회원,club/society members
+18,자원봉사자,volunteers
+19,인재,a talented individual
+0,삼키다,"to swallow, gulp, gobble down"
+1,상한 음식,"bad food, spoiled, rotten"
+2,혼나다,"to be scolded, get a scolding"
+3,젖다,"to become wet, moist, dampy (동사)"
+4,뻔하다,"almost, nearly (으)ㄹ ~"
+5,놓치다,"to miss, lose, fail to catch opportunity, slip away, slip thru fingers"
+6,축축하다,"to be wet, damp, clammy (형용사) (척척하다)"
+7,자명종,alarm (clock)  (~ 소리)
+8,지각하다 ,"to be late, tardy"
+9,태우다,"to burn, scorch, sing,e char"
+10,안료,"paint, color, pigment"
+11,박자,"time, beat, rhythm (not 장단)"
+12,탈,a traditional mask
+13,가면,a partial mask (does not cover whole head)
+14,복면,full face/ full head mask
+15,줄다,"to diminish, get smaller, reduce, shrink"
+16,연주,"a (musical) performance, concernt"
+17,밟다,"to step on, tread, trample, set foot on"
+18,다치다,"to be hurt, injured, offended (physical or mental)"
+19,절다,"to be limp, go limp"
+20,창피,"shame, embarassment, humiliation"
+21,공연,"public performance, a show, play (~하다 to present, stage)"
+22,등불,"a light, lamp"
+23,한지 공예,traditional Korean paper + craft
+24,풍선,a balloon
+25,조명,"illumination, lighting"
+26,등축제,lantern festival
+27,점잖다,"to be respectable, well mannered, decent"
+28,괜히,"in vain, uselessly, to no purpose, without knowing why"
+29,다리가 풀리다,"to lose all energy/strength in legs, feel rubbery"
+30,막상,"actually, in reality, ultimately, after all"
+31,생소하다,"unfamiliar, unaccustomed to"
+32,법복,Buddhist monk/priest clothes
+33,밀려오다,"to advance on, make for (a door), rush, press toward"
+34,종류,"kind, sort, variety"
+35,보고서,"a written report, a paper"
+36,진행,"progress, head (toward)"
+37,전시,"exhibit, display, exhibitation"
+38,방문,"a visit, a (informal) drop by, a call"
+0,평서문,a declarative sentence
+1,고백,confession
+2,창피,"shame, embarassment, humiliation"
+3,포기,"relinquish, abandon, give up"
+4,동호회,"club, society, group"
+5,의문문,"an interrogative sentence, question"
+6,참가,"participation, take part in, join"
+7,모이다,"to gather, assemble, meet, congregate"
+8,간접화법,indirect speech
+9,상품,a prize
+10,상금,prize money
+11,가정통신문,a school newsletter
+12,현장 체험 학습,"a field trip experience, site visit (long)"
+13,간병,"tend to a sick person, nurse someone (to health)"
+14,데,"a place, spot, point, a case, an occasion"
+15,모임,"a social gathering, meeting, get-together"
+16,용건,"business, a matter of business, work (급한 ~ urgent/pressing business)"
+17,우리 반,our class
+18,수목원,arboretum (a collection of trees)
+19,직접,"direct, firsthand"
+20,예전,in the past (~에)
+21,기술이 발달하다,technology development
+22,통신,communication
+23,실시간,in real-time
+24,말실수,"slip of the tongue, impropriety of speech"
+25,오해하다,"misunderstanding, miscommunication"
+26,기능,"skill, ability"
+27,동시,"simultanious, concurrent, at same time"
+28,동영상,video (한)
+29,다름이 아니라,"nothing but, no ore than, no other reason than (formal)"
+30,보도록,"advise, recommend"
+31,포기,"abandon, give up, renounce"
+32,평가,"evaluation, assessment, rating"
+33,본인 신분증,personal ID card
+34,지참,"bring, carry, take with"
+35,않도록,"be not, do not (늦지 ~  do not be late)"
+36,바라보다,"to watch, see, view"
+37,등잔 밑이 어둡다 영어,(saying/idiom) the foot of the lamp is dark - can't see/find something right in front of you
+38,마주보다,"to be opposite (to), face each other"
+39,다지다,"to confirm, strengthen, solidify"
+40,앞날,"the days ahead, one's future"
+41,축복,"blessing, benediction"
+42,현장 학습,"field trip, site visit (short)"
+43,결실,"come to fruition, successful, achieve, to bear fruit"
+44,백년가약,"a marriage bond, nuptial bond"
+45,맺다,"to form, establish, sign, enter into"
+46,귀하다,"precious, valuable, priceless, invaluable"
+47,응시표,"an application paper, ticket"
+0,출석,attendance
+1,결석,absence
+2,위하다,to be for
+3,이민자,immigrant
+4,과거,past
+5,현재,present (time)
+6,미래,future
+7,단원,"lesson, unit "
+8,주제,"topic, theme"
+9,어휘,vocabulary
+10,받침 있다,consonant
+11,받침 없다,vowel
+12,완성하다,to complete
+13,문법,grammar
+14,과제,assignment (ㄱ)
+15,사회,society
+16,문화,culture
+17,합격,to pass
+18,제적,"expulsion, to be kicked out"
+19,명사,noun
+20,동사,verb
+21,형용사,adjective
+22,유선 인터넷,wired internet
+23,예절,"etiquette, manners, courtesy"
+24,완성하다,to complete
+25,간단하다,"to be simple, brief, short"
+26,의미,meaning
+27,쉼표,a comma
+28,5과,Lesson 5
+29,한자 있는 단어,a word with Chinese roots
+30,틀리다,to be incorrect
+31,답변,an answer (formal)
+32,출석부,"attendance book, roll sheet"
+33,괄호,parenthesis ( )
+0,모습,"appearance, shape"
+1,특징,"characteristic, feature, point"
+2,가족 관계,family relations
+3,친가,paternal family
+4,외가,maternal family
+5,할아버지,grandfather
+6,할머니,grandmother
+7,큰아버지,paternal uncle (oldest)
+8,백부,paternal uncle (oldest) ㅂ
+9,큰어머니,oldest paternal uncle's wife
+10,백모,oldest paternal uncle's wife ㅂ
+11,작은아버지,paternal uncle (youngest)
+12,숙부,paternal uncle (youngest) ㅅ
+13,작은어머니,youngest paternal uncle's wife
+14,부인,wife (not my wife)
+15,숙모,youngest paternal uncle's wife ㅅ
+16,고모,paternal aunt (father's sister)
+17,고모부,paternal aunt's husband
+18,삼촌,paternal uncle (general)
+19,사촌,cousin
+20,아빠,"dad, daddy"
+21,아버지,father
+22,엄마,"mom, mommy"
+23,아내,wife (my wife)
+24,동생,younger sibling (generic)
+25,어머니,mother
+26,형,older brother (男)
+27,형수,older brother's wife (男)
+28,새언니,older brother's wife (女)
+29,형제,brother (general)
+30,오빠,older brother (女)
+31,누나,older sister (男)
+32,자매,sister (general)
+33,매형,older sister's husband (男) ᄆ
+34,언니,older sister (女)
+35,남동생,younger brother
+36,제수,younger brother's wife (男)
+37,조부모님,grandparents
+38,와이프,wife (영)
+39,올케,younger brother's wife (女)
+40,여동생,younger sister
+41,매제,younger sister's husband (男)
+42,제부,younger sister's husband (女)
+43,조카,"nephew, niece (general)"
+44,형제자매,siblings (general)
+45,의형제,close as brothers
+46,외할아버지,maternal grandfather
+47,외할머니,maternal grandmother
+48,외숙모,maternal uncle's wife
+49,외삼촌,maternal uncle (general)
+50,외사촌,maternal cousins
+51,이모,maternal aunt
+52,이모부,maternal aunt's husband
+53,아들,son
+54,며느리,son's wife
+55,딸,daughter
+56,사위,daughter's husband
+57,손자,son's son (grandson)
+58,손녀,son's daughter (granddaughter)
+59,외손자,daughter's son (grandson)
+60,외손녀,daughter's daughter (granddaughter)
+61,형부,older sister's husband (女)
+62,1남 1녀,1 son and 1 daughter
+63,첫째,firstborn ㅊ
+64,맏이,firstborn ㅁ
+65,둘째,second born
+66,막내,"last born, youngest"
+67,장남,eldest son
+68,장녀,eldest daughter
+69,외아들,an only son
+70,외동딸,an only daughter
+71,외동,only child (general)
+72,식구,family/friends that live together
+73,나이 차이,age difference
+74,연년생이다,to be within a year in age
+75,부모님을 모시고 살다,to live with and support parents
+76,화목하다,"to be harmonious, peaceful"
+77,가족 관계가 좋다,to have good family relations
+78,부모님과 같이 살다,to live with parents
+79,2살 차이가 나다,to be 2 years apart (age)
+80,식구가 많다,to have many family members
+81,부모님과 떨어져 살다,to live apart from parents
+82,사이가 좋다,to have a good relationship
+83,가족 관계가 나쁘다,to have bad relationship with family
+84,나이 차이가 적다,a small age difference
+85,연세가 비슷하다,to have a similar age
+86,나이 차이가 많다,a large age difference
+87,사이가 나쁘다,to have a bad relationship
+88,식구가 적다,to have few family members
+89,동갑,same age
+0,피동사,a passive verb
+1,항의하다,"to complain, protest, lodge a complaint"
+2,늘리다,"to increase, expand"
+3,감정이 상하다,"to hurt feelings, give offense"
+4,층간 소음,inter-floor noise (apartment issue)
+5,소리를 지르다,a (loud) noise rings out
+6,위층,"upper floor, upstairs, 1 floor up"
+7,쿵쾅,"(sound) bang, boom, crash"
+8,괴로움,"affliction, torment, agony, distress (ends in ㅁ)"
+9,하루 종일,"all day long, from morning to night"
+10,해결하다,"to settle, resolution, solution"
+11,윗집,"upstairs home, upstairs neighbor"
+12,아랫집,"downstairs home, downstairs neighbor"
+13,감정,"feeling, emotion, sentiment"
+14,상하다,"to be hurt, offended, distressed, offended"
+15,피로,"tiredness, exhaustion, fatigue"
+16,풀리다,"1) disappear, go away, vanish 2) get loose, come untangled, come untied"
+17,운동량,"momentum, quantity of motion"
+18,충분,"enough, sufficient, ample, satisfactory"
+19,평소,"usual, ordinary, regular"
+20,수면 시간,"amount of sleep, hours of sleep (more formal term)"
+21,관련,"relation, connection, association"
+22,자세하다,to be detailed
+23,조언,"advice, counsel, tip (not 상담)"
+0,결정,"decide, determine, conclude"
+1,습관,a habit
+2,사귀다,"make friends, get acquainted"
+3,성향,"inclination, disposition (not 성격)"
+4,가정적,"a family man, family-oriented (이다)"
+5,고민,"worry, concern, agonize"
+6,활동적,an active person (이다)
+7,겁이 많다,"to be scared, frightened, timid"
+8,성격이 급하다,to be impatient (2 words)
+9,정이 많다,"to be warm-hearted, kind-hearted"
+10,고독,"solitude, solitary, isolation "
+11,대표,"represent, delegate, representative"
+12,과묵하다,"to be reserved, quiet, of few words"
+13,배려심이 깊다,"to have deep thoughts, consideration, consideration"
+14,아무리,"despite, no matter, however"
+15,시간이 내다,"to make time for, arrange time"
+16,바로,"as soon as, right after, immediately"
+17,참다,"to be patient, endure, put up with"
+18,고치다,"to fix, repair, mend"
+19,매사,everything
+20,회계,accounting (finances)
+0,의지,"will, voliation"
+1,불확실,"uncertantity, unrealiability (하다)"
+2,설거지,"wash dishes, dish-washing"
+3,팝콘,popcorn
+4,기간,period of time (시험 ~  period of time for a test)
+5,잔치,"party, feast,banquet "
+6,제목,"subject, theme"
+7,동료,"co-workers, colleagues"
+8,쌍둥이,twins
+9,긴장,"strain, tension"
+10,20쌍,"20 pairs, couples (스물)"
+11,풀다,"untie, loosen, unbind"
+12,어색하다,to be awkward
+13,나누다,"to divide, reperate, split (up)"
+14,마련,"preparation, provision, plan, furnish, prepare (하다)"
+15,내외,1) man and wife 2) interior and exterior
+16,격력하다,"to encourage, urge, cheer up"
+17,남다,"to be left, remain"
+18,희망,"hope, desire, wish"
+19,기원,"origin, beginning, genesis"
+20,제목,"subject, theme"
+21,식순,"ceremony program, order"
+22,일시 및 장소,date and location
+23,단체 사진,group photo
+24,정리하다,"(re)arrangement, (re)adjustment"
+25,전달,"transmit, convey, deliver"
+26,담소,"chat, friendly conversation, a talk (more formal than 수다)"
+27,술을 마시는 모임,a drinking 술 get-together
+28,연장,"extend, extension, prolongue"
+29,통해,"passage, transit, passing"
+30,업무,"business duty, operation, affairs"
+31,단합,"unity, union, solidarity, combine"
+32,인식,"congition, preception, understanding (되다)"
+33,단순히,"simple, plain, uncomplicated"
+34,소통,"understanding, good/mutual understanding"
+35,지나치다,"to be excessive, overshoot, pass"
+36,음주,"drinking, alcohol"
+37,손실,"a loss (heat loss, financial loss, etc.)"
+38,적당,"appropriate, suitable"
+39,특유,characteristic 
+40,조직,"group, organization, gang, syndicate"
+41,영향,"influence, effect, impact"
+42,형성,"form, develop, create"
+43,긍정,"confirm, affirm, acknowledge (적인)"
+44,끼치다,"1) influence, effect 2) cause, occasion"
+45,여기다,"regard, consider, think"
+46,입장,"admission, entrance, enter into"
+47,경우,"circumstance, case (in my case...), situation"
+48,업무 시간,"work time, time at work"
+49,건전,"soundness, healthiness, solid"
+0,변명,"an explaination, excuse, justification"
+1,기간만료,an expiration
+2,명령,"a command, an order"
+3,고생하다,"to suffer, hardship, have trouble"
+4,지나다,"to pass, go by"
+5,과태료,"a fine, a penalty"
+6,수수료,"a fee, a commission, a charge"
+7,시험장,"testing site, location, place"
+8,필기,written (a written test)
+9,실기,"practice, practical skill, technique"
+10,분실,"lose, loss, miss"
+11,금방,soon
+12,붙다,"to stick, attach, adhere (_다)"
+13,본국,"home country, home land"
+14,서명,signature (한)
+15,인,stamp (도장)
+16,부착하다,"to stick, glue, attach (__하다)"
+17,14일 이내,within 14 days
+18,전입,"move in, transfer"
+0,복습하다,to review (a lesson)
+1,의상어,onomatopoeia
+2,엉엉,"(sound) wailing, heavy crying, cry like a baby"
+3,꼬르륵,"(sound) rumble, grumble"
+4,쨍그랑,(sound) shattering glass
+5,보글보글,(sound) boiling
+6,의태어,"mimetic word, imitation"
+7,두근두근,(mimetic) heartbeat
+8,반짝반짝,"(mimetic) shimmer, shine, glitter"
+9,쿨쿨,(mimetic) sleeping (cute connotation)
+10,뻘뻘,(mimetic) heavy sweat (negative/dirty connotation)
+11,펑펑,(mimetic) peaceful semi heavy snow fall
+12,줄줄,"(mimetic) dripping (콧물, faucet, tears) "
+13,또박또박,"(mimetic) write/speak clearly, focused, attentive attitude"
+14,아장아장,"(mimetic) waddle, toddle"
+15,받아쓰기,a dictation
+0,초대 음식,fancy food for when guests visit
+1,건강식,healthy food ㄱ
+2,얼큰하다,"to be heavily seasoned, peppery, spicy"
+3,밑반찬,pickled side dish
+4,기름진 음식,oily food
+5,후식,dessert (한)
+6,안주,salty food for drinking 술
+7,육류,meat (한자 있다)
+8,달큼한 음식,sweet food ㄷㅋ
+9,보양식,healthy food ㅂ
+10,싱겁다,"to be bland in taste, needing salt"
+11,쌈을 싸 먹다,make and eat lettuce wrap
+12,소스를 뿌려 먹다,to be sprinkled w/sauce and eat
+13,간장을 찍어 먹다,to dip in soy sauce and eat
+14,단 음식,sweet food ㄷ
+15,디저트,dessert (영)
+16,간식,snack food
+17,해산물,seafood
+18,매콤한 음식,"spicy food, hot food"
+19,담백한 음식,"simple food, light, plain"
+20,비벼 먹다,to eat mixed food
+21,볶아 먹다,to eat fried (stir-fried) food
+0,일기예보,weather report
+1,상황,circumstances
+2,1박 2일,2 days 1 night
+3,대신,"a substitute, alternate, proxy"
+4,바람을 쐬다,to be exposed to wind
+5,묵다,"to stay at, lodge"
+6,블로그,a blog
+7,무박 2일,2 days no nights
+8,석식,dinner
+9,제공,"offer, provide, supply (석식 ~) dinner is provided"
+10,야경,"a night view, nightscape"
+11,해돋이,"sunrise, sunup"
+12,관람,"to see, watch, view"

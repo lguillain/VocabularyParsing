@@ -1,0 +1,639 @@
+,0,1
+0,구직자,"a job hunter/seeker, a job applicant"
+1,업무량,a workload
+2,대우,"pay, treatment, working conditions"
+3,이직하다,to change/switch jobs
+4,목록,"a catalog, an inventory, a list"
+5,이삿짐,goods to be moved
+6,자금,"funds, a fund, capital"
+7,인맥을 쌓다,"to network, to build a social circle, to amass/gain personal connections"
+8,학점,a class credit/unit; a grade
+9,자격증,"a certificate of qualifications, a license"
+10,과정,a process; a course (of study)
+11,겪다,"to undergo, to endure, to suffer, to go through, to experience"
+12,게으름을 피우다,"to lounge/loaf/slob around, to be lazy, to be idle"
+13,피나는 훈련,demanding/strenuous training
+14,시행착오,trial and error
+15,거치다,to pass by/through; to go by way of/via (somewhere)
+16,신약,"new medicine, a new drug"
+17,꼬박꼬박,"regularly, on a regular basis"
+18,붓다,to pay in installments
+19,콘서트,a concert
+20,만만하다,"to be easy to deal with, to be easily manageable"
+21,체력,"physical strength, stamina, physical fitness"
+22,기르다,"to raise, to grow, to bring up, to breed, to cultivate"
+23,유리하다,"to be advantageous, favorable"
+24,정교사,a regular (licensed) teacher
+25,원서,"an application (form), a written request"
+26,채용하다,"to recruit, to employ, to hire"
+27,장래성,future potential/prospects
+28,명성,"fame, a reputation, renown"
+29,여건,a given condition/circumstance
+30,사례,"an example, an instance, a case"
+31,연봉,annual income/salary
+32,뜻을 굽히다,to change one's opinion/decision
+33,고정적이다,"to be steady, stable, static"
+34,수익,"an income, earnings, revenue"
+35,가장,"most, extremely, exceedingly; a disguise"
+36,활약하다,"to be active (in), to participate actively (in)"
+37,성취감,a sense of accomplishment
+38,실현하다,"to realize, to actualize, to materialize, to come true"
+39,데뷔,a debut
+40,추구하다,"to inquire into (a matter) closely, to investigate; to pursue, to chase, to search, to seek"
+41,미적이다,to be aesthetic 
+42,기록하다,"to record, to register, to document, to write down"
+43,주도하다,"to be scrupulous, meticulous, thoroughgoing"
+44,창의적이다,"to be creative, inventive, original, ingenious"
+45,대하다,"to face, to confront; to resist, to oppose, to be opposite to "
+46,파악하다,"to grasp, to seize, to understand, to apprehend (ex. the situation)"
+47,비교적이다,"to be relative, to be comparative"
+48,사기,"morale, fighting spirit"
+49,상실하다,"to lose, to forfeit, to be deprived of"
+50,틀어박히다,"to shut oneself in, to confine oneself, to stay indoors"
+51,조직,"a system, an organization, a formulation"
+52,혼란,"confusion, disorder, disorganization, chaos, commotion"
+53,탐색하다,"to search for, to investigate, to explore, to inquire into"
+54,되짚다,"to go back to, to backtrack, to retrace"
+55,용케,"successfully, to manage to (do something)"
+56,사통팔달,"running in all directions, accessible from all directions"
+57,비로소,for the first time
+58,속이 타다,"to be distressed, worried, anxious, frustrated"
+59,물 건너가다,"to ""go up in smoke"", to ""go down the drain"""
+60,발 뻗고 자다,to have no cares/worries
+0,항목,"an article, a clause, a provision, an item"
+1,빈도수,frequency
+2,횟수,"number of times, frequency"
+3,거주,"residence, habitation"
+4,추수 감사절,Thanksgiving Day
+5,의상,"clothing, dress, apparel, a costume"
+6,아오자이,ao dai (Vietnamese national costume)
+7,씨름,wrestling
+8,스모,sumo wrestling
+9,휴양지,a vacation spot
+10,푸켓,Phuket
+11,입맛이 당기다,to have a good appetite
+12,손에 익다,"to be accustomed to, to be familiar with"
+13,나른하다,"to be languid, drowsy, listless, weary, sluggish"
+14,체하다,to have an upset stomach
+15,새콤하다,to be slightly sour
+16,쌉쌀하다,to be slightly bitter
+17,짭짤하다,to be slightly salty
+18,얼큰하다,to be spicy (liquid-based food)
+19,고소하다,"to be nutty, savory"
+20,구수하다,"to be tasty, pleasant, delicate"
+21,느끼하다,"to be greasy, oily, fatty, rich"
+22,질기다,"to be tough, leathery, durable"
+23,쫄깃쫄깃하다,to be chewy
+24,말랑말랑하다,"to be soft, spongy, tender"
+25,아삭아삭하다,"to be crisp, crunchy (ex. a vegetable)"
+26,통째,"whole, altogether, entirely"
+27,이열치열,fight fire with fire
+28,진하다,"to be thick, heavy, strong (a taste)"
+29,발효,fermentation
+30,제철,the right/best season
+31,수치,"a numerical value, a figure"
+32,유전자 조작,"gene manipulation, GMO"
+33,정제,"refinement, purification"
+34,유기농,organic farming
+35,재배,"cultivation, culture, raising, growing"
+36,친환경,"eco-friendly, green"
+37,화학조미료,artificial flavor enhancer
+38,첨가,an addition (ex. in a recipe)
+39,현미,"brown rice, unpolished rice"
+40,잡곡,miscellaneous cereals/grains
+41,성분,"an ingredient, a component, a constitute"
+42,함량,(nutritional) content
+43,첨가물,an additive
+44,가공하다,"to process, to manufacture"
+45,외부,"the outside, the exterior"
+46,내부,"the inside, the interior"
+47,깔끔하다,"to be neat, tidy, sleek, clean"
+48,볼품없다,"to not look nice, to have a bad appearance"
+49,아기자기하다,"to be charming, cute, pretty"
+50,아늑하다,"to be cozy, snug, comfortable"
+51,아담하다,"to be neat, tidy, petite, quaint"
+52,허름하다,"to be shabby, humble, worn-out"
+53,조리,preparation of food
+54,노릇노릇,golden brown (food)
+55,보글보글,"boiling, simmering, bubbling"
+56,지글지글,"sizzling, simmering"
+57,한가운데,"the middle, the center, the heart"
+58,기와집,a tile-roofed house
+59,기가 죽다,"to be dejected, disheartened, crestfallen"
+60,낡다,"to be old, worn, battered, beat-up, antique"
+61,대견하다,"to be proud, admirable, praiseworthy"
+62,둘러보다,"to have a look around, to browse"
+63,투박하다,"to be rough, crude, coarse, unrefined"
+64,뚝배기,an earthen pot/bowl
+65,깍두기,sliced/cubed radish kimchi
+66,소박하다,"to be simple (and honest), unsophisticated, naive"
+67,속을 채우다,"to stuff, to fill (food)"
+68,입맛을 돋우다,to stimulate/whet one's appetite
+69,속이 든든하다,to have a full stomach
+70,단골손님,a regular customer
+71,나날이,"day by day, from day to day"
+72,달무리,the halo of the moon
+73,살평상,a slat bed
+74,별 돋다,to have the stars come out
+75,들,"a field, a plain"
+76,걸터앉다,to perch on (ex. a stool)
+77,물씬,"soft, tender, nicely scented"
+78,자욱하다,"to be dense, thick, heavy (ex. fog)"
+79,김,a weed
+80,부옇다,"to be foggy, gray, murky, cloudy, misty"
+81,기와,a roof tile
+82,추녀,a protruding corner of a roof eave
+83,삐죽히,poutingly
+84,가닥,"a strand, a strip, a ply, a string"
+85,동아줄,a rope
+86,지상,ground
+87,입이 짧다,to have a small appetite
+88,군침이 돌다,to make one's mouth water
+89,간에 기별도 안 가다,to be insufficient (food)
+0,한산하다,"to be quiet, dull, inactive, slack (ex. a market)"
+1,식다,"to abate, subside; to cool down/off (ex. coffee)"
+2,사이트,a website
+3,진행하다,"to progress, advance, proceed, be in motion"
+4,차려입다,"to dress up, doll up, fix oneself up"
+5,진급,a promotion (of any kind)
+6,한자어,"a Sino-Korean word, a word written in Chinese characters"
+7,헷갈리다,"to confuse, mix up, be hardly able to distinguish"
+8,원만하다,"to be amicable, easy-going, well-rounded, harmonious"
+9,모가 나다,"to be angular, unharmonious"
+10,소심하다,"to be timid, cowardly"
+11,직선적이다,"to be direct, straightforward"
+12,우유부단하다,to be indecisive
+13,고집이 세다,"to be stubborn, headstrong"
+14,예민하다,"to be keen, sensitive, acute, sharp-witted"
+15,수줍음을 타다,"to be shy, bashful"
+16,변덕스럽다,"to be unpredictable, capricious, fickle, temperamental, flighty"
+17,겸손하다,"to be modest, humble"
+18,무뚝뚝하다,"to be brusque, cold, unfriendly"
+19,배려심이 있다,"to be considerate, thoughtful"
+20,털털하다,"to be easy-going, unaffected"
+21,융통성이 있다,"to be flexible, adaptable"
+22,유지하다,"to maintain, to retain"
+23,형성하다,"to form, develop, shape"
+24,편견,"a biased view, a prejudice, a bias"
+25,선입견,"prejudice, a stereotype, a preconception"
+26,함부로,"thoughtlessly, carelessly, recklessly, indiscriminately"
+27,공유하다,"to share, to have/use (a thing) jointly"
+28,비난하다,"to criticize, reproach, condemn, denounce, censure"
+29,책임을 묻다,to hold responsible
+30,부당하다,"to be unjust, unfair, unreasonable, improper, excessive "
+31,시청각 장애인,a blind and deaf person
+32,최초,the first
+33,학사 학위,a bachelor's degree
+34,놀림,"banter, jeering, teasing, ridiculing"
+35,암흑,"pitch darkness/blackness, the dark"
+36,진흙,mud
+37,원석,"a rough stone, a gemstone"
+38,도자기,"ceramics, pottery, earthenware"
+39,씨앗,a seed
+40,보석,"a jewel, a gem, a precious stone"
+41,수많다,"to be numerous, to have a good many of"
+42,스승,"a teacher, a mentor"
+43,과언이 아니다,"to not be an exaggeration, to not be untrue"
+44,한계,"a limitation, a boundary"
+45,극복하다,"to overcome, to conquer"
+46,청소년,"an adolescent, a teenager"
+47,동경,"yearning, longing, aspiration"
+48,열망,strong desire
+49,조종석,"a cockpit, a flight deck"
+50,단비,"a welcome rain, a much-needed rain"
+51,묘사하다,"to describe, to depict"
+52,비유적이다,"to be figurative, metaphorical"
+53,내려다보다,"to look down on/upon, to take a bird's-eye view, to hold in contempt"
+54,사라지다,"to disappear, to vanish, to fade away, to die out"
+55,정답다,"to be friendly, close, intimate, affectionate, loving"
+56,낯이 익다,to be familiar (a person)
+57,낯을 가리다,to be shy around/afraid of strangers
+58,눈살을 찌푸리다,"to frown, to knit one's eyebrows"
+0,망치다,"to spoil, to ruin, to mess up, to screw up, to destroy"
+1,쓸데없이,"uselessly, idly, to no purpose"
+2,반론,"a refutation, a counterargument, an objection"
+3,동사하다,to freeze to death
+4,군것질,"eating between meals, snacking"
+5,금세,"soon, shortly, any minute, in a moment"
+6,결식아동,"a poorly-fed child, an underfed child, a starving child"
+7,소년 소녀 가장,"a child head of household, a child breadwinner"
+8,모금,"fundraising, collecting contributions/donations"
+9,바자회,"a bazaar, a rummage sale"
+10,자선,"charity, benevolence, philanthropy"
+11,구호품,"relief, aid"
+12,고사하고,"let alone, far from, apart from, setting aside"
+13,홍수,a flood
+14,마음이 굴뚝같다,to be eager/willing to do something
+15,수익금,"earnings, profits, proceeds"
+16,기증,"a donation, a contribution"
+17,짜다,"to assemble, to form, to organize, to compose"
+18,불량 청소년,a juvenile delinquent
+19,은둔형 외톨이,an outsider/loner who lives in seclusion
+20,비혼모,-
+21,노숙인,a homeless person
+22,장애인,a disabled person
+23,홀로 사는 노인,an elderly person who lives alone
+24,희망차다,"to be hopeful, promising, bright"
+25,절실하다,"to be serious, severe, urgent, pressing"
+26,수상하다,"to be suspicious, shady, mysterious, questionable, dubious"
+27,화재 현장,the scene of a fire
+28,거액,"a fortune, a large amount of money"
+29,소속사,an agency
+30,자금난,"financial difficulty, lack of funds"
+31,흔쾌히,"readily, willingly, gladly, with pleasure, without hesitation"
+32,경비원,"a guard, a watchman"
+33,악취,"a bad smell, an offensive odor, a stench"
+34,왕래,"coming and going, traffic"
+35,현주소,one's current address
+36,팔을 걷어붙이다,to roll up one's sleeves
+37,훈훈하다,"to be comfortably warm, nice and warm, toasty"
+38,산업화,industrialization
+39,분업화,specialization
+40,무관하다,"to be unrelated, unconnected, irrelevant, have nothing to do with"
+41,친분,"closeness, acquaintance, friendship, familiarity, intimacy"
+42,익명,"anonymity, a pseudonym"
+43,저물다,"to grow dark, to come to an end"
+44,삽,"a shovel, a spade"
+45,쭈그리다,"to crouch, to squat, to bend low"
+46,자루,"a bag, a sack, a pouch; a handle, a grip; a pair of, a piece/stick (counter)"
+47,샛강,a large river which divides to pass around an islet
+48,색안경을 끼고 보다,"to be partial in judgment, to view the world through ""rose-colored glasses"""
+49,발 벗고 나서다,to throw oneself into a matter with enthusiasm
+50,귀를 기울이다,"to listen carefully, to strain one's ears"
+0,얼룩이 지다,to become stained
+1,렌즈,a (contact) lens
+2,주식,"food and drink, lunch"
+3,말리다,to dry
+4,검소하다,"to be frugal, thrifty"
+5,적자,"a deficit, a loss"
+6,의지,"will, volition; reliance, dependence"
+7,부상,"an injury, a wound"
+8,기억상실증,amnesia
+9,푼,a penny
+10,잔고,a (bank) balance
+11,바닥이 나다,"to be exhausted, used up, consumed; to run out of"
+12,소비,"consumption, expenditure, spending"
+13,충동구매,impulse buying
+14,굳게,"firmly, unyieldingly"
+15,작심삼일,a short-lived resolution
+16,당분간,"for a while, for some time, temporarily"
+17,아예,"not at all, altogether, entirely, never, from the outset"
+18,내역,a breakdown (ex. of expenses)
+19,통신비,"postage, communication expense"
+20,경조사비,a cash gift
+21,공과금,"a utility bill, a public impost"
+22,감당하다,"to be capable of carrying out, to be up to, to be fit/competent (ex. for a job)"
+23,견물생심,"seeing is wanting, ""the object gives rise to the desire"", ""opportunity makes the thief"","
+24,가계부,a household account book
+25,뒤처지다,"to fall/lag behind, to drop back"
+26,민감하다,"to be sensitive, susceptible"
+27,확신,"conviction, confidence, assurance"
+28,계발,"enlightenment, illumination, development"
+29,낙오하다,"to fall out of line, to fall behind, to straggle"
+30,좌절감,a sense of frustration/disappointment
+31,소외감,a sense of alienation
+32,집착하다,"to be attached to, obsessed with"
+33,안정감,a sense of security/stability
+34,간과하다,"to ignore, to overlook, to pass over"
+35,원동력,"a driving force, an impetus"
+36,윤리 의식,a consciousness of ethics/morals
+37,전제,"a premise, a prerequisite"
+38,대담,"a diologue, an interview"
+39,비관,pessimism
+40,쓰레기 소각장,a garbage incineration plant
+41,화장터,"a crematorium, a cremetory"
+42,교도소,"a prison, a jail, a penitentiary"
+43,핵 폐기장,a nuclear waste site
+44,하수 처리장,a sewage disposal plant
+45,쓰레기 매립장,a landfill
+46,이전하다,"to relocate, to move, to change one's residence"
+47,시위를 벌이다,to hold/stage a protest
+48,유치하다,"to detain, to hold in custody; to invite, to attract, to lure"
+49,원자력 발전소,a nuclear/atomic power plant
+50,반발,"repulsion, resistance, opposition, backlash"
+51,수익성,"profitability, yieldability"
+52,혐오 시설,an unpleasant facility
+53,인접하다,"to adjoin, to be adjacent to"
+54,혜택,"a benefit, benefaction"
+55,공정하다,"to be just, fair, equitable, righteous, impartial"
+56,상응하다,"to correspond to, to be appropriate/suitable for"
+57,보상,"compensation, reparation"
+58,성숙하다,to be mature
+59,초려,"impatience, worry, anxiety"
+60,청풍,"a cool breeze, a fresh wind"
+61,눈감아 주다,"to keep one's eyes closed, to overlook"
+62,시치미를 떼다,to feign ignorance
+63,낯이 두껍다,"to be thick-skinned, shameless, unabashed"
+0,하자,"a flaw, a defect, a fault, a blemish"
+1,환불,"a refund, a repayment"
+2,실천,"practice, execution"
+3,떼다,"to take (something) off, to remove/detach (something from something)"
+4,배송,"shipping, shipment, delivery"
+5,무상,"mutability, uncertainty, transiency, impermanency"
+6,도난당하다,"to be stolen, robbed, burglarized; to have (something) stolen"
+7,여행자 보험,traveler's insurance
+8,쑤시다,"to ache, throb, be sore, tingle, prickle; to poke, to pick"
+9,작동,"working, operation"
+10,신축성,"elasticity, stretch, flexibility"
+11,착용감,the feeling/sensation of wearing something
+12,승차감,(a car's) riding comfort/quality
+13,반품,"a return, returned goods"
+14,사유,"a reason, a cause, a grounds (for)"
+15,이의,"an objection, a protest, dissent; a different meaning, another meaning"
+16,제기하다,"to raise, to bring up, to pose, to present"
+17,화사하다,"to be beautiful, gorgeous, splendorous, brilliant, bright"
+18,안내 문구,"information/guidance terms, terms of conduct"
+19,규정,"a rule, a regulation, a stipulation, a provision"
+20,삼가다,"to restrain oneself, to abstain from"
+21,청결,"cleanliness, tidiness, neatness, purity"
+22,부득이하다,"to be unavoidable, inevitable "
+23,서운하다,"to be sorry, regrettable, sad (about)"
+24,서먹하다,"to be unfamiliar, estranged, alienated; to feel awkward, ill at ease, out of place"
+25,소송,"a suit, a lawsuit, litigation"
+26,방음,"soundproofing, soundproof"
+27,절차,"a procedure, a process, formalities, proceedings"
+28,보편화되다,"to become common, general, universal"
+29,미니홈피,a mini homepage
+30,블로그,a blog
+31,막상,"ultimately, after all; the best, the highest quality"
+32,주민 등록 번호,"a resident registration number, a social security number"
+33,입력하다,"to input, to enter"
+34,고려하다,"to consider, to think over, to take into account, to deliberate on, to bear in mind"
+35,개선하다,"to improve, to better"
+36,일반적이다,"to be general, universal, widespread, prevalent, common"
+37,살림,"living, livelihood, housekeeping"
+38,실직,"unemployment, loss of employment"
+39,변통,a bowel movement
+40,종지,a small dish/bowl/cup
+41,찬,a side dish
+42,왕후,"a queen, an empress; royalty and nobility"
+43,걸인,"a beggar, a bum"
+44,시장기,hunger
+45,눈물이 핑 돌다,to tear up
+46,만금,an immense sum of money (lit. ten thousand pieces of gold)
+47,부풀다,"to swell, to expand, to get big, to be inflated, to rise (bread)"
+48,골치가 아프다,to be a headache
+49,내 코가 석 자다,"to ""have one's own fish to fry"" (cannot afford to help others)"
+50,눈앞이 캄캄하다,to feel helpless (when thinking of the future/a state of affairs)
+0,능숙하다,"to be good at, proficient at, adapt at, skilled at"
+1,차근차근,"scrupulously, methodically, systematically"
+2,따지다,"to nitpick/quibble over, to find fault with"
+3,업무,"a business affair, a task, a duty, service, operation"
+4,세금,"a tax, dues, a duty"
+5,액수,a sum/amount (of money)
+6,동기,the same period (of time)
+7,직위,"a position, a grade, a rank"
+8,소득 수준,an income level
+9, 교통 법규,a traffic law/rule/regulation
+10,예능,"entertainment, the performing arts"
+11,교양,"culture, refinement, education"
+12,유익하다,"to be useful, helpful, valuable, beneficial, adventageous"
+13,비현실적이다,"to be unrealistic, impractical"
+14,중독성,"addictiveness, toxicity"
+15,딱딱하다,"to be hard, solid, firm, stiff, rigid"
+16,테마,"a theme, subject matter"
+17,역기능,"an adverse effect, a dysfunction"
+18,최소화하다,to minimize
+19,수재민, a flood sufferer/victim
+20,손길,a (helping) hand
+21,폭우,"heavy rainfall, torrential rain, a downpour"
+22,수해,flood damage
+23,성금,"a donation, a contribution, a gift of money"
+24,모방 법죄,a crime committed on the basis of copying/imitating (something)
+25, 폭력적이다,to be violent
+26,선정적이다,"to be suggestive, lascivious, raunchy"
+27,순기능,a right/proper function/effect
+28,폭,"width, breadth, range"
+29,활력소,"a tonic, a vitamin"
+30,인종,"race, ethnicity, an ethnic group"
+31,고정 관념,"a stereotype, a fixed idea"
+32,대응하다,"to deal/cope with, to respond/answer to, to correspond to"
+33,유해하다,"to be noxious, harmful, injurious, detrimental to"
+34,심의,"deliberation, consideration, review; a deliberative discussion"
+35,강화하다,"to strengthen, to solidify, to intensify, to reinforce"
+36,일으키다,to raise/stir up (ex. a commotion)
+37,제한하다,"to restrict, to limit, to constrain, to confine"
+38,공감대,a consensus
+39,홍보,"public relations, publicity"
+40,출연진,a cast (ex. of a movie)
+41,자막,"a subtitle, a caption"
+42,눈에 거슬리다,"to be an eyesore, to offend the eye"
+43,식상하다,"to be fed up with, to be sick and tired of"
+44,낯이 뜨겁다,"to be compromising, embarassing"
+45,과장되다,to be exaggerated
+46,지적하다,"to point out, to indicate"
+47,유사하다,"to be similar, alike, analogous"
+48,경쟁적이다,"to be competitive, rivalrous"
+49,제작하다,"to make, to manufacture, to produce"
+50,차별성,"distinctiveness, differentiation"
+51,외면하다,"to turn one's face away, to look away, to disregard"
+52,시청률,a viewer/popularity rating
+53,참신하다,"to be original, fresh, novel, new, unconventional"
+54,중립적이다,"to be neutral, indifferent"
+55,방어적이다,to be defensive
+56,욕구,"a desire, a wish, a drive, an appetite for, an urge"
+57,충족시키다,"to meet, to fulfill, to satisfy (ex. a requirement)"
+58,전파,"spread, propagation"
+59,핏줄기,a trickle of blood
+60,황량하다,"to be bleak, desolate, deserted"
+61,눈 뜨고 볼 수 없다,to be too terrible/horrible/miserable to look at
+0,남아돌다,"to be in excess, to be more than enough"
+1,배우자,"a spouse, a life partner"
+2,중시하다,"to lay stress on, to attach importance to"
+3,재력,"financial power, wealth"
+4,우선시하다,to give priority to
+5,성실성,"sincerity, faithfulness, honesty"
+6,유래,"an origin, a source"
+7,취업 준비생,a job seeker/applicant
+8,허리띠를 졸라매다,to tighten one's belt (financially)
+9,덜다,"to lessen, to decrease, to subtract, to reduce"
+10,틈틈이,"in one's spare time, in spare moments"
+11,자영업자,"an independent business man, a self-employed person"
+12, 실업률,an unemployment rate
+13,늘리다,"to increase, to expand, to add, to raise"
+14,정이 들다,to become/grow attached to
+15,어느새,"in no time, before one knows"
+16,맡다,"to smell, to sniff"
+17,질리다,"to be sick of, to be fed up, to have had enough of something"
+18,잊히다,"to be forgotten, to slip/escape one's memory"
+19,새해맞이,ringing/ushering in the New Year
+20,제야의 종,a New Year's Eve bell
+21,참여하다,"to participate in, to take part in"
+22,해맞이,the first sunrise of the New Year
+23,다짐,"a promise, a resolution, a pledge, an oath"
+24,묵다,"to stay, to lodge"
+25,인산인해,"a great crowd, a sea of people"
+26,붐비다,"to be crowded, bustling, packed"
+27,인파,"a surging crowd, a throng of people"
+28,북적이다,to be crowded
+29,솔깃하다,"to be tempting, inviting, enticing"
+30,정각,"exactly, precisely, just, sharp (a time)"
+31,장관,"grandeur, magnificence, splendor"
+32,어버이,one's parents
+33,밸런타인데이,Valentine's Day
+34,이벤트,an event
+35,상업적이다,to be commercial
+36,과도하다,"to be excessive, immoderate"
+37,풍습,"a custom, a manner"
+38,길쌈놀이,-
+39,빚다,"to shape, to roll into a ball (dough)"
+40,추석빔,Chuseok clothing
+41,음복,partake of sacrificial food and drink
+42,강강술래,a traditional Korean circle dance
+43,베를 짜다,to weave hemp cloth
+44,내기를 하다,to make a wager/bet
+45,벌이다,"to hold, to give, to throw (a banquet)"
+46,묘,"a grave, a tomb"
+47,베다,"to cut (down), to fell"
+48,햇과일,a newly harvested fruit
+49,햇곡식,"a new crop of grain, a new crop of the year"
+50,제사를 지내다,to perform ancestral rites
+51,풍성하다,"to be plentiful, ample, abundant"
+52,한가위,"Korean Thanksgiving Day, Chuseok"
+53,가배,a game played during the Silla Dynasty
+54,수확하다,"to harvest, to reap, to gather in"
+55,절식,moderation in eating
+56,토란국,taro soup
+57,농악,traditional Korean music performed by farmers
+58,화합을 다지다,to strength harmony/union
+59,풍작,"a good harvest, a large yield"
+60,매양,"always, all the time, every time, constantly"
+61,따스하다,"to be warm, mild"
+62,파릇하다,-
+63,푸지다,"to be abundant, plentiful, profuse"
+64,험난하다,"to be rugged, rough, arduous, perilous"
+65,각박하다,"to be hard-hearted, heartless"
+66,슬기롭다,"to be wise, sensible, sagacious"
+67,돋아나다,"to come out, to erupt, to sprout (ex. a leaf)"
+68,녹초가 되다,to be utterly exhausted
+69,손이 모자라다,to be shorthanded
+70,손꼽아 기다리다,"to look forward to, to count down to"
+0,구애를 받다,to be inhibited/bound
+1,차리다,"to set, to prepare, to fix; to keep, to maintain, to preserve"
+2,응원하다,"to aid, to assist, to support; to cheer, to root for"
+3,가려 먹다,"to be particular/choosy about food, to be a picky eater"
+4,머리를 식히다,"to rest one's mind, to cool off (mentally)"
+5,수목원,"a tree garden, an arboretum"
+6,낭만적이다,to be romantic
+7,남이섬,Nami Island
+8,민박,"a bed-and-breakfast, a homestay"
+9,고급스럽다,"to be luxurious, exclusive, high-class, classy"
+10,부대시설,"additional facilities, subsidiary facilities"
+11,서해,"the western sea, the Yellow Sea"
+12,갯벌,"a mud flat, foreshore"
+13,성수기,"a peak season, a busy season"
+14,비수기,"an off season, a low season"
+15,해방감,a sense of freedom
+16,동원되다,to be mobilized
+17,인력,"manpower; an attractive force, gravitation"
+18,자원,"resources; volunteer, voluntary"
+19,낭비,"waste, dissipation, squandering"
+20,객석,the audience
+21,인형극,a puppet show
+22,마술,"magic, witchcraft, sorcery"
+23,시식,"a sample, a try, a taste"
+24,푸짐하다,"to be plentiful, abundant, generous"
+25,청정,"purity, cleanness, cleanliness"
+26,사찰,"a Buddhist temple; an investigation, an inspection"
+27,재충전,"recharge, replenishment, refreshment"
+28,수양,"cultivation of the mind, character-building, self-improvement"
+29,한발 앞서다,to be one step ahead
+30,의도,"an intention, an aim, a purpose"
+31,주거,"a dwelling, a residence, an abode"
+32,콘크리트,concrete
+33,자연 친화적이다,to be eco-friendly
+34,각광을 받다,"to be highlighted, to be in the limelight"
+35,불교,Buddhism
+36,보존되다,"to be kept, to be maintained, to be preserved"
+37,심신,"mind and body, body and soul"
+38,치열하다,"to be fierce, intense, severe"
+39,다스리다,"to govern, to rule over, to administer"
+40,명상,"meditation, contemplation"
+41,다도,tea ceremony
+42,서예,calligraphy
+43,메밀꽃,a buckwheat flower
+44,무렵,"about, around, toward, about the time when..."
+45,괴이하다,"to be strange, weird, mysterious, bizarre, peculiar"
+46,끄집어내다,"to bring up (a subject); to pull out, to take out"
+47,귀에 못이 박히다,to be sick and tired of hearing (something)
+48,싫증,"dislike, disgust, an aversion"
+49,시침을 떼다,to pretend to have not done something
+50,되풀이하다,"to repeat, to reiterate; to revert to something"
+51,격,"character, capacity"
+52,이지러지다,to wane
+53,대화,"a diologue, a conversation"
+54,칠십 리,seventy ri (0.4 km)
+55,고개,the head
+56,개울,"a brook, a small stream, a crook"
+57,벌판,"a field, a plain, a winderness"
+58,짐승,"a beast, a brute, an animal"
+59,포기,"a plant, a head (ex. of cabbage), a root"
+60,잎새,a leaf
+61,흐뭇하다,"to be pleased, delighted, satisfied, content, gratified"
+62,눈에 선하다,to be fresh/vivid in one's memory
+63,발이 묶이다,"to be stranded, deprived of means of transit"
+64,바가지를 쓰다,"to be overcharged, to pay through the nose"
+0,반항,"resistance, insubordination, defiance, disobedience, rebellion"
+1,갑작스럽다,"to be sudden, abrupt, unexpected"
+2,눈이 빠지다,to have your eyes fall out (figuratively)
+3,터지다,"to burst, to pop, to explode"
+4,목이 쉬다,to have a hoarse throat
+5,벌,"a punishment, a penalty, chastisement "
+6,서성거리다,"to walk up and down restlessly, to pace up and down, to hover/hang around"
+7,저하,"a fall, a decline, a drop, deterioration, depreciation"
+8,물이 붇다,to have water rise (ex. in a river)
+9,농작물,"a crop, a harvest, agricultural produce"
+10,가뭄이 들다,to have a drought
+11,급증하다,"to suddenly increase (in number), to jump (ex. in population)"
+12,추돌,a rear-end collision
+13,확실하다,"to be sure, certain, positive, definite, reliable, trustworthy"
+14,다정다감하다,"to be sentimental, passionate, emotional, ardent"
+15,애교,"charms, attractiveness"
+16,상당히,"considerably, quite, rather, fairly, decently"
+17,하객,"a guest, a well-wisher"
+18,양가,a good/respectable family; an adoptive family; two/both families
+19,조촐하다,"to be simple, small, snug, cozy, neat"
+20,단둘,only two persons
+21,중매,"matchmaking, arranging a match between"
+22,연애,"dating, a romantic relationship, love, romance"
+23,당사자,the party/person concerned
+24,예복,"formal/ceremonial dress, evening dress"
+25,연지,"rouge, deep red, crimson"
+26,족두리,a Korean bridal headpiece
+27,턱시도,a tuxedo
+28,면사포,"a bridal veil, a face veil"
+29,얽매이다,"to be bound, restrained, tied down, busy/occupied with"
+30,주례,officiating at a wedding ceremony; an officator
+31,혼인 서약서,a wedding certificate
+32,관습,"a custom, a convention, a code"
+33,장만하다,to prepare; to purchase
+34,투자하다,to invest in
+35,기성세대,the older generation
+36,예물,wedding gifts exchanged between the bride and groom
+37,혼수,"a necessary article for marriage, marriage expenses"
+38,성의껏,wholeheartedly
+39,성별,"sex, gender"
+40,담당하다,"to take charge of, to be in charge of"
+41,문항,a question
+42,대를 잇다,to carry on the family line
+43,양육,"nurturing, nursing, raising, rearing, bringing up"
+44,응답,"an answer, a reply, a response"
+45,비율,"a ratio, a percentage, a proportion"
+46,차지하다,"to occupy, to hold, to possess; to win, to secure, to take possession of"
+47,순,"order, turn"
+48,꾸준히,"steadily, constantly, consistently, ceaselessly, persistantly"
+49,남아 선호 사상,the notion of prefering a son to a daughter
+50,몫,"a share, a portion, a cut, an allotment"
+51,가부장적이다,to be patriarchal
+52,과반수,"a majority, the greater part of"
+53,갈등,"conflict, strife, discord, dissension, a feud"
+54,바르르,"seething, bubbling, boiling, fizzing, hissing"
+55,지전,"paper money, a bill, a currency note"
+56,와들와들,"shiveringly, tremblingly"
+57,부석부석,swollen
+58,반짇고리,"a sewing box, a needle case"
+59,불룩불룩,bulgingly
+60,장롱,"a wardrobe, a bureau, a chest, an armoire"
+61,국수를 먹다,to have a wedding ceremony
+62,바가지를 긁다,"to nag, to speak crossly"
+63,눈에 콩깍지가 씌다,to be blinded by love

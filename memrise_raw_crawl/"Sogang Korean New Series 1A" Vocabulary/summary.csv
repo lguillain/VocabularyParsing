@@ -1,0 +1,224 @@
+,0,1
+0,볼펜,a ballpoint pen
+1,사전,dictionary
+2,연필,a pencil
+3,의자,a chair
+4,지우개,an eraser
+5,책,a book
+6,책상,a desk
+7,필통,a pencil case
+0,시장,market
+1,저기,there
+2,다음 날,the next day
+3,첫날,the first day
+4,다니다,to attend
+5,시작하다,"to start, to begin"
+6,가깝다,to be close
+7,늦다,to be late
+8,빠르다,to be quick/fast
+9,멀다,to be far (away)
+10,이제,now
+11,조금,"a little, a few"
+12,주말,the weekend
+13,사진을 찍다,"to take a picture, photo"
+0,하나,one
+1,둘,two
+2,셋,three
+3,넷,four
+4,다섯,five
+5,여섯,six
+6,일곱,seven
+7,여덟,eight
+8,아홉,nine
+9,열,ten
+0,내일,tomorrow
+1,생일,birthday
+2,신문,a newspaper
+3,집,"a home, a house"
+4,친구,friend
+5,이메일,email
+6,지금,now (지...)
+7,표,a ticket
+8,전화번호,telephone number
+0,고속버스,express bus
+1,교통,"traffic, transportation"
+2,기차,train
+3,배,"ship, vessel"
+4,버스,a bus
+5,비행기,airplane
+6,자동차,an automobile
+7,자전거,a bicycle
+8,지하철,subway
+9,호선,subway line
+10,걸어서,on foot
+11,갈아타다,"to transfer (between subway lines, buses, etc.)"
+12,내리다,to get off
+13,타다,"to ride, to take (transportation)"
+14,버스 정류장,bus stop
+15,지하철 역,subway station
+0,일,one
+1,이,two
+2,삼,three
+3,사,four
+4,오,five
+5,육,six
+6,칠,seven
+7,팔,eight
+8,구,nine
+9,십,ten
+10,백,one hundred
+11,천,one thousand
+12,만,ten thousand
+0,공원,a park
+1,근처,nearby
+2,빌딩,building
+3,열쇠,a key
+4,저기,there
+5,지갑,"a purse, wallet"
+6,편의점,a convenience store
+7,산책하다,"to take a walk, stroll"
+8,대학교,university
+9,혹시,maybe
+10,휴게실,"a lounge, a room for rest"
+11,도착하다,to arrive
+12,배우다,to learn
+13,돈을 찾다,to withdraw money from a bank
+14,일찍,early
+0,공부하다,to study
+1,세수하다,to wash one's face
+2,쇼핑하다,to shop
+3,운동하다,to exercise
+4,이야기하다,to chat
+5,일하다,to work
+6,전화하다,to make a phone call
+7,아침 식사하다,to have breakfast
+8,점심 식사하다,to have lunch
+9,저녁 식사하다,to have dinner
+10,가다,to go
+0,거기,over there
+1,동료,"a coworker, a colleague"
+2,사무실,an office (ㅅ...)
+3,케이크,a cake
+4,말하다,"to speak, to talk"
+5,주다,to give
+6,찾다,to look for something (two syllables)
+7,기쁘다,"to be glad, to be happy"
+8,가지고 오다,to bring
+9,그런데,"but, however, by the way"
+10,다시,again
+11,돈을 보내다,to send money
+12,하지만,"but, nevertheless"
+0,위,"above, the upper part, the top"
+1,아래,"below, under"
+2,앞,front
+3,뒤,behind
+4,옆,"beside, next to"
+5,안,inside
+6,밖,outside
+7,사이,between
+8,왼쪽,the left side
+9,오른쪽,the right side
+0,오전,"morning, A.M."
+1,오후,"afternoon, P.M."
+2,아침,"breakfast, morning"
+3,점심,lunch
+4,저녁,evening
+5,밤,night
+6,시,hour
+7,분,minutes
+8,지금 몇 시예요?,What time is it now?
+9,오늘,today
+10,우체국,a post office
+0,독일,Germany
+1,러시아,Russia
+2,미국,the United States
+3,베트남,Vietnam
+4,일본,Japan
+5,중국,China
+6,태국,Thailand
+7,선생님,teacher
+8,요리사,"cook, chef"
+9,의사,doctor
+10,학생,student
+11,회사원,an office worker
+0,녹차,green tea
+1,레몬차,lemon tea
+2,맥주,beer
+3,물,water
+4,사이다,"cider (a clear, Korean soda)"
+5,오렌지주스,orange juice
+6,커피,coffee
+7,콜라,cola
+0,교실,classroom
+1,극장,movie theater
+2,대사관,an embassy
+3,문구점,a stationary store
+4,병원,a hospital
+5,수영장,swimming pool
+6,은행,a bank
+7,서점,a bookstore
+8,식당,a restaurant
+9,학교,a school
+10,도서관,a library
+11,화장실,bathroom
+12,회사,an office (ㅎ...)
+13,실례합니다,Excuse me / Pardon me
+0,월요일,Monday
+1,화요일,Tuesday
+2,수요일,Wednesday
+3,목요일,Thursday
+4,금요일,Friday
+5,토요일,Saturday
+6,일요일,Sunday
+7,주말,the weekend
+8,체육관,gym
+9,커피숍,"a coffee shop, a cafe"
+10,일본어,the Japanese language
+11,한국어,the Korean Language
+0,가방,bag
+1,구두,dress shoes
+2,모자,hat
+3,시계,a watch
+4,안경,glasses
+5,복사기,"copy machine, photocopier"
+6,전자 사전,electronic dictionary
+7,카메라,a camera
+8,컴퓨터,a computer
+9,핸드폰,a mobile phone
+0,아프다,"to hurt, to be sick"
+1,언제,when
+2,빨래하다,to do the laundry
+3,요리하다,to cook
+4,이사하다,to move house
+5,인터넷하다,to use the internet
+6,청소하다,to clean
+7,아파트,an apartment
+8,음식,food
+9,파티,a party
+10,노래하다,to sing
+11,준비하다,to prepare
+12,초대하다,to invite
+0,받다,"to receive, to accept"
+1,마시다,to drink
+2,보다,to watch
+3,듣다,to listen
+4,가르치다,to teach
+5,빌리다,to borrow
+6,읽다,to read
+7,추다,to dance
+8,만나다,to meet
+9,배우다,to learn
+10,치다,to hit
+11,공부하다,to study
+0,어제,yesterday
+1,오늘,today
+2,내일,tomorrow
+3,지난주,last week
+4,이번 주,this week
+5,다음 주,next week
+6,지난달,last month
+7,이번 달,this month
+8,다음 달,next month
+9,작년,last year
+10,올해,this year
+11,내년,next year

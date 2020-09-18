@@ -1,0 +1,605 @@
+,0,1
+0,기쁨,joy
+1,기운,sign (touch); power
+2,긴장감,nervousness; tension
+3,노동,labor
+4,동참,"participation (not 참여, 참가, 출전, 출장)"
+5,또래,same age; friend
+6,목숨,"life (not 삶, 생명, 생활, 인생)"
+7,목적지,destination (not 여행지)
+8,문의처,information desk
+9,바위,rock
+10,소감,thought (not 생각)
+11,소개서,introduction letter
+12,소극장,little theater
+13,속마음,"mind, heart"
+14,손잡이,knob; handle; railing
+15,수고,efforts
+16,수용,acceptance; adoption
+17,시범,demonstration
+18,실태,status
+19,하락,fall; decline
+0,구매하다,"buy, purchase"
+1,도전하다,challenge
+2,고생하다,suffer; suffering
+3,성장하다,grow up
+4,출퇴근하다,commute
+5,평가하다,evaluate
+6,비교하다,compare with
+7,설득하다,persuade
+8,극복하다,overcome
+9,근무하다,work
+10,통행하다,"passage; pass, go through"
+11,집중하다,concentrate on
+0,미끄러지다,slip; fail
+1,얼다,be frozen
+2,떼다,"recede; remove, take off"
+3,안되다,be not allowed; do not
+4,뿌리다,sprinkle; spray
+5,새우다,stay up
+6,떨어뜨리다,"drop, lose, miss"
+7,흔들리다,"wobble, sway, swing"
+8,저지르다,do
+9,섞이다,in crowds; be mixed with
+10,들르다,stop by
+11,물리다,get bitten
+12,앞서다,"earlier, in advance; ahead"
+13,앞장서다,"take the lead, take the head"
+0,감상하다,enjoy
+1,긍정하다,agree with
+2,휴식하다,rest
+3,피로하다,get tired
+4,비판하다,criticize
+5,근거하다,based on
+6,긴장하다,"get nervous, get strained"
+7,실천하다,practice
+8,자랑하다,be proud of
+9,소화하다,digest
+10,통화하다,talk over the telephone; call
+11,외면하다,turn away
+12,생산하다,producing
+13,가입하다,become a member; join
+14,깜빡하다,forget
+0,참석하다,attend
+1,후회하다,regret
+2,파악하다,understand; figure out
+3,개최하다,"hold (a meeting), open (an exhibition), host (the Olympics)"
+4,담당하다,be in charge of (not 맡다)
+5,당하다,have; compete
+6,분석하다,analyze
+7,상하다,spoil
+8,관하다,about
+9,이동하다,"movement, migration, move, travel, migrate"
+10,의하다,based on; by
+11,무시하다,disregard; ignore
+12,제기하다,bring up
+13,조정하다,adjust; arrange
+14,설치하다,install; set up
+0,야외,outdoor
+1,양보,"give away, give up"
+2,흐름,flow
+3,책임감,responsible
+4,예측,estimate
+5,의식,"thought, aware, conscious"
+6,정성,devotion; with best wishes
+7,주요,"major, main, primary, leading, principal, chief, staple"
+8,지원서,"application (not 신청서, 적용)"
+9,색상,color
+0,제시간,on time
+1,존재,"thing; being, peron"
+2,존중,respect (not ...경)
+3,비중,"focusing, weight"
+4,각국,each country
+5,각자,each person / personally
+6,개별,"individual (not 각자, 개인)"
+7,경영,management
+8,경향,tendency; trend
+9,고급,expensive
+10,골칫거리,"trouble, nuisance, headache, terror, bother"
+11,공통,common
+12,관찰,observation
+13,귀국,homecoming; return to one's country; arrival
+0,해롭다,harmful
+1,유익하다,"useful, helpful; usefully"
+2,사소하다,"trifle, minor; insignificant"
+3,갑작스럽다,"sudden, abrupt; unexpected"
+4,게으르다,lazy
+5,굵다,thick
+6,당당하다,confidently
+7,독특하다,unique; unusual
+8,두렵다,afraid of
+9,멋지다,"wonderful, great; nice"
+10,소용없다,useless
+11,희다,"fair, white"
+12,철저하다,"completely; perfect, thoroughly"
+0,거주하다,live
+1,기념하다,celebrate
+2,심사하다,evaluate; judge
+3,영업하다,"run, operate; work"
+4,확대하다,magnify; increase
+5,처벌하다,punish
+6,적용하다,apply
+7,검토하다,review
+8,만족하다,be satisfied with
+9,수술하다,operate on; have operation on
+10,전달되다,be conveyed
+11,허락하다,"allow, permit"
+12,촬영하다,take a photograph
+13,출산하다,give birth to; childbirth
+0,갈수록,be getting worse; be getting more difficult
+1,골고루,"evenly, equally, fairly"
+2,겨우,barely
+3,게다가,moreover
+4,꽤,"pretty, quite"
+5,내내,throughout; all year round
+6,흔히,"commonly, usually, often"
+7,덜,less
+8,마침내,"finally, at last"
+9,종종,"often, frequently"
+10,과연,"really, truly, indeed"
+11,괜히,needlessly
+12,깜빡,slip one's mind; doze off
+0,완성하다,complete
+1,의심하다,doubt; suspect
+2,입원하다,be hospitalized
+3,장사하다,run a business
+4,제작하다,produce; make
+5,주목하다,note; pay attention
+6,차지하다,have; occupy
+7,선호하다,prefer; favoring
+8,공지하다,notify; announce
+9,양보하다,yield; offer seat
+10,표시하다,mark
+11,퇴직하다,retire
+12,예측하다,forecast
+13,의식하다,be conscious of
+14,제안하다,suggest
+0,잠들다,sleep; asleep
+1,살아남다,survive
+2,거치다,go through; pass through; through
+3,거칠어지다,tough; rough
+4,꼽다,count
+5,다가오다,get closer
+6,당기다,make earlier
+7,돌아다니다,wander around; go around
+8,드러나다,turn out
+9,매달리다,hang on; dangle
+10,몰리다,flock in; be accused of
+11,싣다,be put
+12,앞두다,before
+0,낮추다,"lower; reduce, decrease"
+1,떠오르다,"rise; come to mind, remind"
+2,바라보다,stare; look
+3,맞추다,"in time; based on, considering"
+4,실리다,revive; save
+5,뛰어나다,excellent
+6,드러내다,show; grin
+7,놓치다,miss
+8,치우다,put away
+9,이끌다,lead
+10,지다,take; sun set(sink); carry
+11,견디다,"stand, bear; bear with, endure"
+12,기울이다,paying; listen to (귀를...)
+0,그러하다,as; such
+1,정확하다,correctly; accurate
+2,분명하다,"clearly; obvious, evident"
+3,소중하다,precious; valuable
+4,안타깝다,feel sorry
+5,익숙하다,be familiar with
+6,심각하다,seriously; serious
+7,낫다,better
+8,부족하다,lack; shortage
+9,강하다,strong
+10,훌륭하다,excellent; great
+0,덜다,reduce
+1,돌보다,take care of
+2,풀리다,relieve
+3,붐비다,be crowded with
+4,뽑히다,"be chosen, be selected; be elected"
+5,가꾸다,"take care of; raise, grow; manage"
+6,넘어가다,be lured by; fall; over
+7,돌아보다,look back; look around
+8,식히다,rest; cool down
+9,애쓰다,try to; make efforts
+10,여쭈다,ask
+11,젖다,wet
+12,생각나다,think of
+13,생겨나다,occurred to; happen to; create
+0,처리하다,"handle; settle, resolve (not 해결하다)"
+1,제출하다,"present, submit"
+2,희망하다,"to hope; to wish ( not 바라다, 빌다, 소원하다)"
+3,진행하다,go on; proceed
+4,결정하다,decide (not 정하다)
+5,실패하다,fail
+6,인정하다,admit
+7,예방하다,prevent
+8,제공하다,provide; give
+9,제시하다,show; articulate
+10,상담하다,counsel
+11,예상하다,estimate; predict
+12,치료하다,heal
+0,증정하다,present
+1,찬성하다,agree with
+2,대기하다,wait for
+3,대비하다,prepare
+4,시행하다,implement; enforce
+5,심다,plant
+6,따다,"obtain, get; pick, pluck"
+7,꾸미다,decorate; adorn oneself
+8,나타내다,"express; show, appear"
+9,늦추다,"delay, postpon"
+10,닿다,reach; touch
+11,펼치다,perform; spread out
+12,갚다,"pay back, repay"
+13,꿈꾸다,dream
+14,녹다,melt
+0,도입하다,adopt; introduce
+1,동의하다,agree with
+2,안심하다,relax
+3,해소하다,reduce
+4,저장하다,keep; store
+5,비롯하다,including
+6,기부하다,donate
+7,창업하다,found; establish
+8,파괴하다,destroy
+9,등장하다,appear
+10,횡단하다,traverse; walk across
+11,흡수하다,absorb
+12,구조하다,rescue; save
+13,수출하다,export
+0,이르다,near to
+1,내보내다,"expel, eliminate; let out"
+2,돌아가시다,pass away
+3,들이다,put
+4,망설이다,hesitate
+5,머무르다,remain; stay
+6,쓰러지다,"collapse, fall asleep; fall down"
+7,앞세우다,use; insist
+8,혼나다 (혼내다),be scolded; scold
+9,훔치다,steal
+10,흘리다,drop; spill
+11,익다,cooked
+12,졸다,"sleep; doze, drowse"
+13,찌다,gain weight
+14,불러일으키다,cause
+15,삼키다,swallow
+0,마치,as if
+1,한꺼번에,all at once; all together
+2,저절로,automatically
+3,절대로,never
+4,자세히,closely; in detail
+5,실컷,as much as one likes; one's fill; to your heart's content
+6,가만히,still
+7,깊이,"deeply, profoundly; thoroughly"
+8,도저히,at all
+9,전부,"totally, entirely, all, whole"
+10,끊임없이,"constantly, continuously"
+11,분명히,"evidently, certainly, surely"
+12,당연히,of course
+13,좀처럼,"seldom, scarcely, hardly"
+14,각각,each
+15,그다지,not so hot; not so pretty
+0,심사,evaluation
+1,영양소,nutrient
+2,영업,working; sales
+3,표지,book cover; mark
+4,검토,review
+5,대기,waiting
+6,만족,satisfy
+7,승용차,"car; vehicle (not 자동차, 차량)"
+8,신분증,identify card/I.D. card
+9,애,child; anxiety; anxious
+10,출산,delivery; childbirth
+11,위업률,employment ratio; percentage of employment
+0,제외하다,exclude
+1,세차하다,wash a car
+2,결심하다,decide
+3,적응하다,adapt oneself to; adjust
+4,종합하다,put together
+5,분리하다,separate
+6,강연하다,lecture on
+7,건축하다,build; construct
+8,투자하다,invest
+9,탈출하다,escape
+10,점검하다,inspect; check
+11,강요하다,press; compel
+12,개장하다,open
+0,챙기다,bring; check
+1,담기다,be filled with
+2,다가가다,approach
+3,둘러보다,look around
+4,미루다,postpone; put off; delay
+5,넘치다,be full of
+6,다루다,"deal with; handle, treat"
+7,담다,put
+8,따지다,"considering; figure out, consider"
+9,말씀 드리다,speak
+10,쏟다,spill
+0,학부모,parent of a student
+1,한계,"limit; limitation (not 제한, 최대)"
+2,핵심,very important; the point; core
+3,협조,cooperation
+4,추가,additionally
+5,태산,a big mountain; stacks of work
+6,통신,telecommunication
+7,요청,"request (not 요구, 부탁)"
+8,유적,cultural property
+9,이삿짐,items to be moved
+10,인류,mankind
+11,자식,"children (not 아이, 어린이, 아동, 자녀)"
+12,잠자리,sleeping; bed
+13,장난,play; prank call (장난전화)
+14,전개,"construction; development (not 계발, 성장)"
+0,공급하다,supply
+1,순환하다,rotate; circulate
+2,신뢰하다,trust
+3,후원하다,sponsor; support
+4,흥분하다,get excited
+5,추돌하다,collide; collide with
+6,출입하다,enter; visit
+7,유치하다,hold; host
+8,의논하다,discuss; discuss with
+9,조직하다,organize
+10,응모하다,apply for
+11,출연시키다,play; perform
+12,낳다,have a baby
+13,늙다,age; get old
+14,돋우다,raise; stimulate
+0,지나치다,too much; excessive
+1,평범하다,ordinary; plain
+2,진정하다,real
+3,약하다,weak
+4,답답하다,bother oneself; stuffy
+5,화려하다,"splendid, gorgeous; showy"
+6,활발하다,"actively; effervescent, bright"
+7,바람직하다,desirable
+8,못지않다,no less than
+9,뻔하다,almost
+10,흔하다,common
+0,그저,just
+1,단순히,simply
+2,당분간,for a time
+3,더구나,"besides, moreover; furthermore "
+4,무사히,safely
+5,수시로,frequently; often
+6,얼른,soon
+7,우연히,by chance; happen to meet( ~ 만나다)
+8,서서히,"slowly, gradually"
+9,적당히,moderately
+10,정확히,"precisely, exactly"
+11,제법,"quite, good, pretty; quite well"
+12,차라리,would rather
+13,상관없이,regardless of
+0,힘쓰다,try hard
+1,채우다,fill
+2,지르다,scream
+3,지속되다,being continued; continue
+4,선발하다,choose; select
+5,권하다,ask for
+6,퇴원하다,discharge from hospital
+7,향하다,towards
+8,취하다,take
+9,신고하다,notify; report
+10,무리하다,"exceed, overdo; excessively"
+11,출연하다,appear
+12,상상하다,imagine
+13,강조하다,insist
+14,위협하다,threaten
+0,강화하다,toughen; strengthen
+1,답하다,respond
+2,경쟁하다,compete
+3,포함하다,including
+4,포함되다,be included
+5,체험하다,experience
+6,절약하다,save; reserve
+7,연장하다,extend
+8,홍보하다,advertise
+9,제한하다,limit; restrict
+10,향상시키다,improve
+11,소비하다,spend
+0,생물,living creature
+1,선거,vote; election
+2,강사,instructor
+3,객관적,objective
+4,공모,contest
+5,구조대,rescue team
+6,늦잠,oversleeping
+7,단체,group
+8,믿음,confidence; belief
+9,수입,income; import
+10,시선,gaze; eye
+11,신인,new face; new man
+12,여부,yes or no (smth to be true or not)
+13,연말,the end of the year; the year end
+14,예산,budget
+0,존경하다,respect; respectable
+1,중단하다,quit; discontinue
+2,추가하다,add; supplement
+3,요청하다,ask for; request
+4,전개하다,spread out; develop; organize
+5,제거하다,remove; get rid of
+6,존재하다,exist
+7,존중하다,respect (not 존경하다)
+8,관찰하다,"observe; watch, look at"
+9,귀국하다,come back to one's country
+10,노동하다,work
+11,수용하다,accept
+12,하락하다,decrease
+13,해당하다,correspond to
+14,추구하다,pursuit; seek for
+0,조사하다,research; investigate
+1,해결하다,solve; settle; resolve
+2,모집하다,recruit
+3,실시하다,conduct
+4,주의하다,be careful
+5,학습하다,learn
+6,활용하다,using; utilizing
+7,구입하다,"purchase, buy"
+8,지원하다,apply for; support
+9,기대하다,expect; anticipate
+10,주장하다,insist
+0,침착하다,"without agitation, calmly"
+1,튼튼하다,strong; healthy
+2,틀림없다,"certainly; clear, certain, sure"
+3,불쾌하다,unpleasant; disagreeable
+4,선명하다,clearly; vividly
+5,불가하다,not allowed; impossible
+6,창피하다,"have advantage (merit, strong point)"
+7,시급하다,urgent
+8,위급하다,in a critical condition
+9,이르다,early
+10,놀랍다,"amazing, remarkable; surprise"
+11,당황스럽다,"embarrassed, confused"
+12,소심하다,"timorous, timid"
+13,쌀쌀하다,chilly
+14,불우하다,"miserable, pitiful"
+0,비하다,compare with
+1,활동하다,move; work
+2,다하다,do; make
+3,증가하다,increase
+4,감소하다,decrease
+5,피하다,avoid; take shelter from
+6,행동하다,behave; act
+7,참여하다,"participate, take part in; attend"
+8,선택하다,select; choose
+9,고민하다,worry
+10,개발하다,develop
+0,결국,"after all; finally, at last"
+1,달리,different from
+2,역시,"also, too"
+3,한참,for a while; a lot
+4,자꾸,"constantly, continuously, without stopping"
+5,점차,"gradually, little by little"
+6,함부로,"carelessly, thoughtlessly; without permission"
+7,정작,actually
+8,급히,urgently; hurridly
+9,널리,widely
+0,겪다,have trouble (difficulty); undergo
+1,말다,little; not
+2,잇다,next to; in series to
+3,주고받다,exchange
+4,미치다,have influence
+5,올리다,"increase; present, submit"
+6,뜨다,rise; float
+7,갖추다,"equipped; have, possess"
+8,흐르다,bleed; running
+9,지나가다,pass by; pass; go by
+10,넘기다,exceed; swallow
+11,들리다,hear
+0,아끼다,save; conserve
+1,그만두다,quit; stop
+2,없애다,"remove, get ride of; eliminate"
+3,맡다,in charge of; be responsible
+4,이기다,overcome; win
+5,실펴보다,check
+6,일으키다,"bring something about, raise someone/thing up; cause"
+7,서두르다,hurry up; rush
+8,얻다,gain; get
+9,이루다,achieve; come true; make
+10,이루어지다,"be accomplished, be achieved; made"
+11,고려하다,consider
+12,포기하다,give up
+0,판매하다,sell
+1,유지하다,keep
+2,마련하다,"provide; arrange (not 제공하다, 처리하다)"
+3,연결하다,connect
+4,여기다,"value; consider, think"
+5,줄이다,"turn down; reduce, diminish (not 줄어들다)"
+6,막다,prevent (not 예방하다)
+7,키우다,"raise; cultivate, improve (not 기르다)"
+8,줄어들다,"to shrink; reduce, diminish; decrease (not 줄이다)"
+9,끌다,"attract; gain, obtain (not 얻다)"
+10,사라지다,disappear
+0,응답하다,"reply, respond, answer"
+1,조언하다,advise
+2,건설하다,build; construct
+3,전달하다,pass; deliver
+4,낭비하다,waste; consume
+5,요구하다,"require, request; ask for"
+6,접수하다,receive; register
+7,자극하다,stimulate; incite
+8,저축하다,save
+9,전망하다,forecast; expect
+10,개선하다,improve
+11,잘되다,go well
+12,쌓다,accumulate
+13,뽑다,pull out of; hire
+0,형성되다,"make form; develop, build"
+1,잡히다,get to work; catch
+2,조절하다,control
+3,지치다,be tired of; exhausted
+4,부딪히다,"bump, crash, hit; confront"
+5,섞다,mix
+6,공격하다,attack
+7,지출하다,expend; spend
+8,운행하다,run
+9,창조하다,create
+10,출동하다,be dispatched
+11,접하다,encounter
+12,분실하다,lose
+13,달성하다,achieve; reach
+14,실감하다,realize
+0,오히려,rather than
+1,제대로,"precisely, exactly; fully; well"
+2,꾸준히,"constantly, continuously, without stopping"
+3,실제로,actually
+4,그대로,as he sat; as it it (stands)
+5,아무리,no matter how/what
+6,스스로,for oneself
+7,무조건,unconditionally
+8,드디어,"finally, at last"
+9,마침,just in time; just
+0,우수하다,excellent
+1,손쉽다,"easily, without difficulty"
+2,신중하다,seriously
+3,현명하다,"wise, smart; wisely"
+4,뚜렷하다,"obvious, clear"
+5,쓸모없다,useless
+6,세다,powerfully; strongly
+7,불행하다,unhappy
+8,저렴하다,cheap
+9,솔직하다,"honest, frank; frankly"
+10,거칠다,rough
+11,건조하다,dry
+12,낯설다,unfamiliar
+0,올바르다,"right; correct, good"
+1,괴롭다,"difficult, hard; distressed"
+2,귀찮다,annoying; bother
+3,바르다,nice; good
+4,적절하다,"suitable; suitably, moderately"
+5,아쉽다,feel sorry
+6,자세하다,in detail
+7,당연하다,natural
+8,풍부하다,rich; plenty
+9,섭섭하다,sorry; regretful
+10,일정하다,"fixed; regular, irregular"
+11,가난하다,poor
+12,고통스럽다,painful
+13,여유롭다,relaxed; leisurely
+0,판매량,Sales; selling
+1,경력,career
+2,구조,rescue
+3,미만,under; less than
+4,성분,contents
+5,수출,export
+6,습도,humidity
+7,이동,transit
+8,공격,attack
+9,무리,reasonable; impossible
+10,좌석,seat
+11,상상,imagination; imagine
+12,독자,reader
+0,제작,production; manufacturing
+1,졸음,a sleep
+2,부상,injury
+3,거래처,vendors; customers
+4,계곡,valley
+5,고개,a nod
+6,국내외,domestic and foreign
+7,글쓴이,writer
+8,기호,sign; symbol
+9,대비,preparation
+10,도자기,"china, ceramics, pottery"
+11,마무리,"finish (not 끝나다, 끝다, 완주, 완료)"
+12,물체,object (not 물건)
+13,의사소통,communication
